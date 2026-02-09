@@ -1,0 +1,1542 @@
+The Global Paradigm Shift of Stablecoins –
+Research Findings
+1. Real-World Remittance Cost Comparison
+• Stablecoins Slash Remittance Fees: Traditional remittances cost ~6.6% of principal on average (Q1
+2024) for sending $200 1 . Stablecoin-based transfers can drop fees below 1%, settling in minutes.
+Example: MoneyGram’s USDC-on-Stellar service charges under 1% and completes transfers near-
+instantly 2 , versus 3–7 days and ~6% via banks or MTOs (Western Union, etc.). This aligns with UN
+SDG targets to cut remittance fees to 3% 1 2 .
+• Corridor Case Studies: In U.S.–Mexico (world’s largest corridor, ~$60B/yr), sending $300 via a bank/
+WU costs ~5–7% and takes hours-days. By contrast, a USDC transfer on Tron costs only a few cents in
+network fees, and local crypto exchanges like Bitso enable near-real-time MXN payout for ~1% fee
+3
+4 . Similar savings show in Europe–Africa lanes: e.g., sending €200 to Nigeria can exceed 8%
+fee traditionally, but using USDT (widely traded P2P in Nigeria) often costs <2% total (including on/
+off-ramp spreads) 5 6 .
+• On/Off-Ramp Cost Breakdown: The blockchain transfer itself is usually trivial (e.g. Stellar fees are
+fractions of a cent 7 ; Tron fees after recent cuts average <$0.10 8 9 ). Most costs come from
+on/off-ramps – converting fiat to stablecoin and vice versa 3 10 . These can range 0.5–3% each
+side 11 . Competition is driving these down: dedicated remittance fintechs partner with local banks
+and mobile wallets to reduce conversion spreads to just ~1% 12 4 . In 2025, Western Union’s CEO
+noted that stablecoin settlement can improve FX rates in low-liquidity corridors and “move money
+faster across borders” – seeing it as an opportunity, not a threat 13 14 .
+• Speed and Reliability Gains: A typical SWIFT wire to emerging markets takes 2–5 days with
+uncertain arrival time. Stablecoin transfers settle in 1–2 minutes on networks like Tron or Solana,
+with finality. As one cross-border CEO explained, using local-bank-integrated stablecoins can achieve
+120-second end-to-end transfers (local currency→stablecoin→local currency) 4 15 . The difference
+in speed is stark – minutes vs. days – which eliminates timing risk. Western Union’s pilot reports
+instant partner settlements and improved uptime using crypto rails 16 17 . The fast stablecoin
+model is “on par or better” in many exotic corridors, whereas legacy channels suffer frequent delays
+18
+3 .
+• Counterintuitive Finding: Stablecoins aren’t always cheaper in every corridor. A 2025 FXC study
+found some well-served routes (e.g. US–India) already have sub-3% costs via fintechs, and
+stablecoin alternatives were not significantly cheaper there 18 19 . The big impact is in high-
+cost corridors (Africa, S. America, smaller diasporas) where legacy fees remain 5–10% 20 21 . Those
+are the lanes where crypto on average outperforms (and indeed where over 50% of surveyed
+recipients in Africa now use crypto for remittances 22 ). Lesson: Stablecoins are a game-changer for
+corridors that need it most, while in already-efficient routes they compete on speed and 24/7
+availability more than price.
+2. Scale of Adoption – Hard Numbers
+• Stablecoin Volume Rivaling Major Payment Networks: In 2024, stablecoins facilitated $27.6
+trillion in on-chain transaction volume, exceeding Visa + Mastercard’s volume by ~7.7% 23 24 .
+By late 2025, annual stablecoin volumes have been cited above $50 trillion 25 26 . This tremendous
+throughput – much of it driven by exchange/trading activity – underscores that stablecoins are no
+longer niche. For context, PayPal’s 2024 volume (~$1.4T) was <5% of stablecoin volume 27 . However,
+high volume also reflects recycling between exchanges and DeFi; 90%+ of stablecoin flow (by
+value) is between larger investors/institutions (traders, OTC desks, etc.), not retail commerce.
+• Market Capitalization & Supply: The aggregate stablecoin market cap hovers around $125–130
+billion (2025), dominated by USDT (~$80B) and USDC (~$30B) 28 29 . Growth has plateaued since
+2022’s crypto downturn and regulatory pressure – it’s up only modestly from ~$100B in early 2022.
+But projections are bullish: a 2025 21Shares analysis suggests total supply could exceed $300B by
+2027 if regulatory clarity unlocks more institutional demand 30 . Notably, over 99% of stablecoin
+value is USD-pegged 29 – non-USD stablecoins (EUR, GBP, etc.) remain <1% of the pie, reflecting
+the USD’s dominance (see Section 4).
+• User Base and Wallets: Over 160 million blockchain addresses hold stablecoins as of mid-2025
+31 . Industry estimates (which likely count many custodial users) put the number of people using
+stablecoins at 50–75 million globally – and growing fast in emerging markets. Circle’s CEO noted an
+“estimated 500 million+ digital wallets” with stablecoin functionality in 2025 32 33 , though this
+likely counts every exchange account. What’s clear: adoption has broadened from crypto traders to
+everyday users in places like Nigeria (≈$22B in stablecoin transactions Jul’23–Jun’24) 34 and
+Turkey (where stablecoin volume equated to ~4.3% of GDP) 35 36 . In Nigeria, stablecoins make
+up 43% of all on-chain transaction value now 37 38 , indicating heavy use for savings and payments
+amidst Naira instability.
+• Country-Specific Usage: Emerging markets lead in retail stablecoin adoption. Nigeria, Brazil,
+Turkey, Argentina, Vietnam consistently rank high in usage metrics 39 40 . For example, Nigeria
+saw $59B in crypto value received in one year (mid-2023 to mid-2024), with stablecoins accounting
+for ~40% 41 42 . In Turkey, where inflation rages, stablecoins (mostly USDT) are so prevalent that
+their volume reached 4.3% of GDP in 2023, the highest ratio worldwide 36 43 . Meanwhile, in the
+U.S. and Europe, stablecoin use is growing but stays mostly within crypto trading and DeFi circles –
+though surveys show 29% of Fortune-500 executives are now interested in stablecoin
+applications (up from 8% a year prior) 44 45 .
+• Retail vs. Institutional Mix: On-chain data suggests retail-sized transfers (<$10k) comprise under
+2% of stablecoin volume by value, but a much larger share by count of transactions 46 42 . Large
+transfers (>$1M) dominate volume (e.g., exchanges shuffling liquidity). Still, Chainalysis reports
+that in regions like Sub-Saharan Africa, a significant portion of stablecoin activity comes from small
+and medium businesses using them for trade and payments, not just trading 47 48 . This indicates
+an evolving user base. Counterintuitive finding: Western economies also see stablecoins deeply
+integrated in crypto markets – in fact, in Western Europe stablecoins made up ~52% of all crypto
+transaction volume (2022–24) 49 , hinting that even where banking is strong, stablecoins have
+become the liquidity vehicle within the crypto ecosystem. The broad picture: stablecoins are the de
+facto liquidity and settlement layer of the crypto economy, and are rapidly bleeding into
+mainstream use cases where they solve real frictions (high inflation, capital controls, slow banks).
+3. Competitors & Alternatives (UPI, PIX, FedNow, SEPA, M-Pesa, etc.)
+• Domestic Instant Payments (UPI, PIX) vs. Stablecoins: Systems like India’s UPI and Brazil’s PIX
+offer free or near-free 24/7 instant transfers, but only domestically. UPI handled 12 billion+
+transactions in Jan 2024 (INR 18 trillion ≈ $220B) 50 51 – a scale stablecoins haven’t reached in
+daily retail use. Cost: UPI is zero-fee to consumers (subsidized) 52 53 , while FedNow charges
+~$0.045 per transfer to banks 52 54 (likely passed on in account fees). Stablecoins, by contrast,
+typically incur a ~0.1% spread or a small flat fee via an exchange on each end. For purely domestic
+payments with good banking access, local systems usually win on convenience – e.g. an Indian
+paying a merchant via UPI QR code is seamless and free, whereas doing so via USDC would be
+clunkier (conversion steps, crypto app) and potentially taxable.
+• Cross-Border Capability: The major advantage of stablecoins is built-in cross-border functionality.
+Networks like FedNow or SEPA Instant do not cross national borders or currency regimes – they
+stop at the water’s edge 55 56 . PIX is phenomenal within Brazil (89% of adults have used it as of
+2024) and cut merchant payment costs by 85% vs. cards 57 58 , but it “lacks cross-border
+functionality” by design 55 . In practice, sending money from USA to India via UPI still requires an
+intermediary (SWIFT or a specialist service). Stablecoins fill this gap: one shared ledger for sender
+and receiver regardless of country. A Kenyan freelancer can receive USDT from a US client in minutes
+– something not possible with domestic-only rails. Quote: “With stablecoins, there are no payment
+cut‑off windows… no reversed payments – you can settle anytime” noted Circle’s team, comparing it
+to siloed bank systems 59 60 .
+• Inclusion & Accessibility: M-Pesa (Kenya) revolutionized mobile money, but it’s mostly confined to
+Kenya and a few countries and runs on telco infrastructure. Stablecoins can ride on the open
+internet, potentially reaching anyone with a smartphone. Importantly, stablecoins don’t require a
+bank account – similar to mobile money’s appeal for the unbanked. However, stablecoin usage still
+requires internet and some technical savvy or intermediaries. M-Pesa has physical agent networks
+for cash-in/out; stablecoins are developing analogs (see MoneyGram’s crypto cash-out or Latin
+American retail integrations). In terms of privacy, cash and many domestic systems (by virtue of
+being within one jurisdiction) offer some privacy, whereas public stablecoin ledgers broadcast
+transactions (unless privacy tech is added – see Section 7).
+• Programmability & Interoperability: Stablecoins are programmable money – one can embed
+them in smart contracts, something UPI/SEPA can’t natively do. For instance, a stablecoin can
+facilitate an escrow that auto-releases on condition, or micro-payments streaming by the second.
+Traditional rails are catching up (India’s UPI added AutoPay for recurring, but it’s limited to certain
+use cases). Stablecoins are multi-platform by nature – a USDC can be used in a lending DApp, a
+game, a remittance, etc., whereas each traditional system serves one domain (M-Pesa for P2P mobile
+transfers, SEPA for bank transfers, etc.). This composability is a key competitive edge that could
+unlock novel services.
+• Speed & Finality: Many domestic systems are instant or near-instant now (FedNow, UPI, PIX all
+settle in seconds). Stablecoins on fast chains (Tron ~3s block time, Solana ~0.4s) are similarly quick.
+The difference: stablecoin transfers are final and irrevocable typically within 1 block confirmation,
+whereas banking systems, though “instant” to users, still have potential clawbacks/reversals (e.g.
+ACH or even PIX can be reversed for fraud). This finality is a double-edged sword: great for
+settlement assurance, but bad for mistaken transactions. Notable quote: Visa’s head of crypto likened
+stablecoin networks to always-on systems that “operate around the clock… no payment cut-off
+windows” enabling continuous business 61 62 .
+• Counterintuitive Finding: Domestic systems and stablecoins are more complementary than
+outright competitors. Where domestic digital payments are robust (e.g. India, EU), stablecoin
+growth has been slower or focused on crypto trading. But stablecoins shine as a bridge between these
+domestic networks. We may see a future where a user’s UPI app seamlessly converts INR to a USD
+stablecoin behind the scenes, sends to another country, and the recipient’s PIX app converts it to
+BRL – stablecoins as the glue. In other words, rather than displacing well-adopted local solutions,
+stablecoins might connect them globally. Indeed, Mastercard and others are piloting stablecoin
+links between national systems 63 . The irony is that while crypto aimed to bypass banks, its
+greatest payment impact might be augmenting the existing financial plumbing to be more
+interoperable.
+4. Dollar Hegemony – The USD Question
+• USD Dominance in Stablecoins: The stablecoin boom has thus far reinforced dollar hegemony. Over
+99% of stablecoin supply is USD-pegged 29 . Non-USD stablecoins (EUR, CNY, gold, etc.) are
+rounding errors by comparison. So as stablecoins spread globally, they spread dollars. “Every
+compliant stablecoin must be backed by reserves held in dollars… As stablecoins are adopted globally…
+they become a continuous engine of demand for dollar-based assets,” notes an AIER analysis 64 65 .
+This dynamic mirrors the Eurodollar era – in the 60s–70s, offshore USD deposits (Eurodollars) grew
+outside US regulation but ultimately entrenched USD usage worldwide. Today’s “crypto-dollars”
+(USDT, USDC, etc.) are seen as digital eurodollars: they circulate offshore (often outside direct Fed
+oversight) yet bolster dollar ubiquity as a trade and savings currency 66 67 .
+• Benefits to Dollar Primacy: Policymakers note that if USD stablecoins become the standard, it
+“fortifies dollar primacy” in the digital era 68 . E.g., a Vietnamese importer using USDC instead of
+USD bank wires is still using the greenback. Morgan Stanley estimates broad stablecoin adoption
+could generate trillions in new demand for US Treasuries (since reserves are in T-bills) 69 . U.S.
+lawmakers have caught on – a recent U.S. Executive Order explicitly promoted “dollar sovereignty
+through stablecoins” 70 . The subtext: better the world use dollars on crypto rails than let a non-dollar
+(say, a digital yuan) take that role 68 .
+• Risks & Challenges – “Digital Dollarization”: International bodies (IMF, BIS) warn of currency
+substitution risks. If people in weaker-currency countries all adopt USD stablecoins, those nations
+effectively lose monetary policy control and seigniorage. The IMF noted that stablecoins can
+enable “digital dollarization,” reducing demand for local currency as a store of value and
+medium of exchange 66 71 . This echoes historical dollarization in Latin America, now
+turbocharged – a smartphone with USDT can replace holding Argentine pesos, accelerating capital
+flight from unstable currencies 67 72 . For governments, that means a shriveled tax base
+(transactions go dark/offshore) and loss of the “printing press” revenue. Case: In Lebanon’s economic
+crisis, a significant informal adoption of USDT and USDC is occurring, undermining the Lebanese
+pound – a glimpse of what widespread stablecoin use looks like under a failing fiat regime.
+• Global Perspectives: The BIS has called for strong regulation to prevent stablecoins from fragmenting
+the monetary system or importing foreign monetary policy. They prefer central bank digital currencies
+(CBDCs) as a safer alternative (see Section 5). The World Bank and G20 have been more open,
+seeing a role for USD stablecoins in enhancing remittances if properly supervised 48 73 . Notably,
+some governments are already integrating stablecoins: e.g. El Salvador’s Chivo wallet uses USDT
+for internal USD liquidity (since Salvadorans use USD as legal tender). And Hong Kong is exploring
+permitting USD stablecoins under its regulations – effectively embracing the dollar’s digital form.
+4Meanwhile, China’s stance is cautious: they view global USD stablecoin growth as strengthening
+dollar influence at the expense of RMB internationalization, one reason they pushed e-CNY early.
+• Historical Parallels: Observers liken today’s stablecoin growth to the post-WWII Eurodollar market.
+Then, as now, U.S. regulators were initially worried – Eurodollars were outside their purview.
+Similarly, US regulators fret over offshore stablecoins (like Tether in Hong Kong). But historically,
+Eurodollars ultimately reinforced USD dominance and the U.S. learned to work with them.
+Counterpoint: Stablecoins could also reduce reliance on dollars if, say, commodity-backed or non-USD
+coins gained traction – but so far, no non-USD stablecoin has achieved significant network
+effects. (Even IMF’s own report finds USD stablecoins overwhelmingly used in emerging markets
+74
+67 .)
+• For vs. Against USD Stablecoins: For: They expand access to dollars globally (good for people in
+high-inflation countries) and cement USD as the standard unit of account in crypto commerce.
+Against: They complicate domestic monetary policy and could facilitate illicit flows or sanctions
+evasion by offering anonymous dollar value transfer outside the banking system 75 76 . The U.S.
+Treasury is balancing these: it wants dollar stablecoins to flourish under U.S. oversight (hence bills
+like the Stablecoin TRUST Act), while also ramping up enforcement against illicit uses. Notably, even
+U.S. adversaries sometimes utilize USD stablecoins (e.g. reports of Russians using Tether to
+bypass currency restrictions) – an ironic twist where dollar tokens undermine certain sanctions yet
+keep transactions in USD. Geopolitically, stablecoins raise the question: Will the dollar’s digital
+proliferation extend its reign or sow new vulnerabilities? So far, evidence points to the former – with
+dollar stablecoins “exporting currency infrastructure” much like the U.S. exported the internet,
+locking in its influence 68 .
+5. CBDC vs Stablecoin Reality Check
+• e-CNY (China’s Digital Yuan): China’s CBDC is by far the largest: by Nov 2025 it had processed 3.4
+billion transactions worth ¥16.7 trillion (~$2.3T) since launch 77 . However, relative to China’s
+enormous payments market, adoption is moderate – ~260 million users (primarily via government
+promotion) out of a billion adults 78 . Usage tends to be for small retail payments; the average
+transaction was only ~¥428 ($60) in 2025 79 . Notably, the e-CNY hasn’t crossed borders
+meaningfully (only small pilots with Hong Kong and Thailand). User feedback indicates privacy
+concerns and limited incremental benefit vs. Alipay/WeChat Pay as hurdles to broader uptake 80 .
+Indeed, authorities had to incentivize use via lotteries and salaries. Bottom line: large-scale in
+volume, but not (yet) replacing cash or Alipay in daily life. By contrast, USDT is heavily used in China’s
+underground economy for capital flight – something e-CNY cannot address.
+• eNaira (Nigeria): A cautionary tale – launched Oct 2021 as Africa’s first CBDC, adoption has been
+minuscule. As of March 2024, eNaira in circulation was only 0.5% of Nigeria’s physical currency in
+circulation 81 82 . Fewer than 1 million people (~0.5% of population) actively use it. Nigerians
+largely ignored eNaira due to low trust in the central bank, poor user experience, and the
+availability of alternatives (bank apps, and ironically, dollar stablecoins via P2P) 81 83 . Even
+aggressive measures – like Nigeria’s cash withdrawal limits in 2023 – failed to drive significant eNaira
+uptake. In parallel, Nigeria’s crypto usage (e.g. USDT on Binance P2P) skyrocketed, highlighting that
+people opted for stablecoins over the official CBDC. The eNaira’s struggles illustrate that simply
+issuing a CBDC doesn’t guarantee use if it doesn’t solve a clear problem or if trust is lacking.
+• Jamaica (Jam-Dex) & Others: Jamaica’s Jam-Dex (launched late 2022) saw extremely slow uptake –
+by late 2023, only J$257 million (≈$1.6M) CBDC in circulation, a mere 0.11% of Jamaica’s money
+supply 84 85 . Despite the government literally airdropping $16 worth of Jam-Dex to the first 100k
+5users as an incentive, Jamaicans haven’t embraced it 86 87 . The central bank found people either
+didn’t see the value over cash or were deterred by needing to open new wallet accounts with banks
+88
+89 . Similarly, the Bahamas’ Sand Dollar (world’s first CBDC) has had only limited usage on its
+islands. In contrast, USDT is popular in some of these same small economies among crypto-savvy
+users. Quote: Jamaica’s central bank governor admitted in 2024 the “lack of genuine consumer
+adoption” but said they’d continue pushing awareness 90 .
+• User Experience & Privacy: A recurring theme – many CBDCs offer no advantage over existing
+digital money except perhaps not requiring a bank account. But even that is debatable: eNaira and
+Jam-Dex wallets had to be linked to verified IDs (in Jamaica’s case, initially one had to go through a
+specific bank) 88 91 . In contrast, cash and stablecoins can be transacted more anonymously.
+Indeed, surveys show public wariness about government visibility: a 2022 BIS survey found
+anonymity was a top requested feature for CBDCs, which most central banks are reluctant to fully
+grant. In China, e-CNY wallets have tiered limits – small transactions can be semi-anonymous, but
+anything substantial requires full name ID, making people worry about surveillance. Stablecoins,
+despite being on public ledgers, ironically offer practical privacy via pseudonymity – your government
+might not easily trace your USDC usage unless they devote effort, whereas with CBDC they could
+have direct logs. This privacy angle is a double-edged sword: it’s precisely why central banks (and
+certain public figures) push back on privately-run stablecoins (concern over illicit use), while users in
+authoritarian regimes might favor stablecoins for the same reason.
+• Cross-Border and Innovation: No retail CBDC today is broadly cross-border. Projects like mBridge
+(connecting e-CNY with other Asian CBDCs) are still pilots. By contrast, stablecoins have naturally
+flowed across borders for years (over $hf billion of USDT moves between continents daily). Even
+central bankers acknowledge that “CBDCs alone won’t solve cross-border frictions without
+interoperability” – and achieving that among sovereign digital currencies is as much a political
+challenge as a technical one. In innovation, many CBDCs are technically less flexible than stablecoins.
+For example, programmability: central banks are cautious to allow complex smart contracts on
+CBDC ledgers due to risks. Private stablecoins live on Turing-complete blockchains like Ethereum,
+allowing composability in DeFi, etc. This has led some analysts to dub stablecoins the “sandbox” or
+“innovation frontier” for digital money, whereas CBDCs are deliberately conservative. A colorful
+contrast: Terra’s collapse (see Section 8) – a dramatic private stablecoin failure – was chaotic but
+also instructive technologically; no central bank would ever experiment so recklessly with an official
+currency.
+• Reality Check – Who’s Winning?: Two years ago, many assumed CBDCs would quickly eclipse
+stablecoins once issued. Reality: stablecoins grew to >$125B while major CBDCs like eNaira
+stagnated 81 84 . Even within China, usage of USD₮ (Tether) by citizens (for gray-market currency
+exchange) likely exceeds e-CNY usage by value – though exact figures are hard to pin down. The IMF,
+BIS now urge co-existence: regulation for stablecoins plus development of CBDCs, serving different
+user preferences. Notable quote: “We see stablecoins as a game-changer…providing faster, more
+affordable alternative to traditional remittances,” said Absa Bank’s Digital Assets lead, contrasting with
+slower CBDC progress 48 92 . In sum, stablecoins have sprinted ahead in real-world uptake
+despite zero official status, whereas CBDCs, backed by state power, have had a sluggish start. The
+race isn’t over – a successful big-economy launch (e.g., a digital euro or FedCBDC) could change
+momentum – but as of 2025, the score is clearly in favor of stablecoins in terms of adoption and
+utility delivered.
+6. Tether (USDT) Deep Dive – Reserves, Risks, Revenue
+• Market Share & Scale: Tether’s USDT remains the largest stablecoin (~$86B circulating), making
+up ~2/3 of all stablecoin value. Its dominance even increased after competitors like BUSD were
+phased out. USDT’s ubiquity is such that Tron-based USDT alone now processes about $24.6B in
+daily transfers (nearly 7× Ethereum’s stablecoin volume) 8 93 . Tether’s scale presents systemic
+implications: it’s “too big to fail” for crypto markets. A shock to USDT (loss of peg or sudden
+redemption freeze) could trigger a broad crypto liquidity crisis – exchanges, DeFi protocols, and
+funds worldwide heavily rely on it as quote and collateral asset.
+• Reserves & Composition: Tether claims 100% reserves backing, disclosed via quarterly attestations
+(not full audits) 94 . As of Q4 2025, Tether reported $192.9B in assets vs $186.5B USDT liabilities
+94
+95 , indicating ~$6.4B in excess reserves (capital buffer). The bulk of reserves are in U.S.
+Treasuries and cash equivalents – $141.6B in T-bills and overnight repo 95 96 . This makes Tether
+a massive holder of US debt (analysts noted Tether would rank among the top foreign central banks
+in Treasury holdings). It has $17.4B in “precious metals” (gold) 97 98 – roughly 670 tonnes of
+gold, which quietly makes Tether one of the world’s biggest gold holders. It also holds about $8.4B
+in Bitcoin (down slightly after BTC’s price drop in late 2025) 99 100 . The controversial part: $17B in
+secured loans outstanding 101 . These are likely loans to affiliates or other crypto firms (Tether won’t
+fully disclose) and represent an increase from ~$5B a year prior – raising questions of risk if
+borrowers default. Notably, Tether eliminated all commercial paper by end-2022 after scrutiny,
+moving into safer instruments (T-bills). Transparency gap: No full audit means we trust Tether and
+its Cayman accountant’s snapshot 102 103 . Quote: “Our figures are a one-day attestation…not an
+audit” Tether’s report reminds readers 102 103 , underscoring that we only see what Tether
+discloses. This lack of a Big-4 audit keeps many institutions away from USDT.
+• Profitability – “Printing Money”: With reserves mostly in yielding assets, Tether has become a cash
+machine. In 2025, with interest rates ~5%, Tether likely earned $9–10 billion in interest income,
+making it one of the most profitable entities in crypto 104 105 . For context, it reportedly made $5.2B
+revenue in 2025 – about 42% of revenue of all crypto protocols combined 106 107 – and net profits
+over $10B 108 109 . This exceeds the profits of many global banks and even some Big Tech firms.
+They’ve used some of this to build a capital cushion (excess reserves) and even to invest in unrelated
+ventures (Tether is funding bitcoin mining in Uruguay, and acquired a stake in a German bank).
+Tether has essentially monetized the float of the crypto economy – critics say it’s like a central bank
+printing money and buying assets, except it’s in private hands accruing the seigniorage.
+• Legal and Regulatory Risks: Tether’s history is colored with regulatory issues. In 2021 it settled with
+NYAG for $18.5M over misrepresenting reserves 94 (finding that at one point in 2017, Tether had
+virtually no reserves for a while). It’s under investigation by the U.S. Justice Department for potential
+bank fraud (stemming from early banking tactics) – though no charges yet. No U.S. license: If U.S.
+stablecoin legislation comes, Tether might be locked out unless it dramatically improves
+transparency or submits to U.S. oversight. Meanwhile, in 2023–24 Tether faced lawsuits alleging it
+contributed to market manipulation in 2017. Operational risks: Its banking relationships – through
+Bahamian and Asian banks – are somewhat opaque; during the 2023 banking crisis (Silicon Valley
+Bank), USDT briefly traded at a premium as USDC faltered, highlighting how markets view Tether as
+riskier (in past crises it’s traded at a discount on fear). Tether also has keys to freeze USDT (and has
+cooperated with law enforcement to freeze ~$835M of USDT related to crime through 2023). This has
+helped victims recover funds 110 , but also underscores centralization.
+• Concentration & Dependency: Tether’s circulation is heavily concentrated on Tron’s network –
+over 50% of USDT is on Tron as of 2025 93 28 . Binance and other Asian exchanges favor Tron-USDT
+7for its low fees, meaning a significant chunk of USDT liquidity depends on Tron’s reliability. Tron
+itself is centralized (27 “Super Representatives”) and closely tied to Justin Sun – raising a single-point-
+of-failure worry. Tether is also concentrated in terms of holders: on-chain analysis shows maybe
+~400 wallets (exchanges, market makers) hold the majority of USDT. This clustering could amplify
+shocks – e.g., if a top holder (like an exchange) faced distress and suddenly redeemed billions, Tether
+would need to liquidate assets fast. Tether says it maintains excess liquidity and short durations to
+handle redemptions 95 96 . Indeed, after FTX’s collapse, Tether met ~$7B of redemptions in 48
+hours, reportedly without issue – a positive sign of resiliency【source: Tether Q4 2022 report】.
+• Systemic Role & Criticisms: Some economists call Tether a “shadow central bank” of crypto – yet
+without lender-of-last-resort or insurance backstops that real central banks have. Its growth poses
+potential systemic risk: if Tether broke peg, the cascade could trigger fire-sales of Treasuries (to meet
+redemptions) and spill into traditional markets 111 112 . On the flip side, Tether has shown an ability
+to act quickly: after the Wormhole bridge hack (2022), Tether swiftly froze ~$33M of USDT the
+hacker tried to use 113 . However, Tether and Circle were later criticized for not freezing scammer
+funds unless officially requested – highlighting tension between law enforcement cooperation vs.
+decentralization ideals 110 114 . Notable quote: Responding to fears, CTO Paolo Ardoino often
+tweets “Tether is 100% backed and stress-tested” and even teased getting a full audit “soon,” but
+skeptics remain. Confidence level: Medium. Tether has weathered many storms and reduced its risk
+assets, making it arguably safer in 2025 than ever. Yet its opacity, loan assets, and reliance on key
+individuals (its Bahamas-based bankers, etc.) keep confidence below “High.” The coming years will
+likely force more transparency – or users may gradually rotate to fully regulated alternatives (as seen
+with some institutions shifting from USDT to USDC). Bottom line: Tether is hugely profitable and
+systemically important, but still operates with a thinner margin of trust than one would like for an
+~$186B financial entity 94
+95 .
+7. Privacy Tech – State of the Art (zkKYC, Privacy-Preserving
+Stablecoins)
+• The Dilemma: Stablecoins ride public blockchains – by default, every transaction is traceable. This is
+great for auditability but bad for financial privacy. Today, if Alice pays Bob in USDC, anyone can see
+that address A paid address B $X, potentially deanonymizing them. Traditional finance, in contrast, is
+private to the public (though banks see your info). The emerging solution: zero-knowledge proofs
+(ZK) and related privacy tech to allow verification of compliance or identity without revealing
+personal details 115 116 .
+• zkKYC and Verifiable Credentials: zkKYC means using ZK proofs to prove “I am KYC-ed” or “I’m not
+on a sanctions list” without exposing who you are. In Oct 2025, fintech Tria integrated a zkKYC
+system by Billions Network, letting its stablecoin wallet users privately verify attributes (age,
+residency, etc.) 117 116 . Quote: “Regulators want proof, users want privacy – zkKYC delivers
+both,” said Tria’s CEO 118 119 . This technology was piloted by HSBC and Sony Bank in 2024 120
+121 , showing some traditional players are keen. The approach typically involves verifiable
+credentials: a trusted issuer (say a KYC provider) issues an encrypted credential to your wallet (e.g.
+“Verified: user is U.S. resident and not on OFAC list”). When a compliance check is needed, you
+present a ZK proof derived from that credential rather than revealing your actual ID. This preserves
+privacy while satisfying regulations that transactions only involve vetted parties.
+• Privacy-Preserving Stablecoins: A few projects are making stablecoin transactions confidential.
+Aleo (a ZK-based L1) partnered with Circle and Paxos in 2023 to pilot USDCx – a wrapped USDC
+with “banking-level privacy” 122 . USDCx on Aleo uses ZK proofs so that transfers are encrypted by
+8default (only the transacting parties know details), but there are compliance backdoors for
+regulators if needed 123 124 . This is basically like a digital cash token: public can’t see it, but it’s fully
+collateralized by real USDC off-chain and can be redeemed. Another example: Stellar’s zkTokens
+concept to enable private asset transfers on Stellar while still allowing selective disclosure 125 . We
+also saw Aztec Network (prior to closing in 2023) allow completely private DAI (an experiment
+where you could have fully shielded DAI transfers using ZK on Ethereum). The Aztec team is now
+building a new protocol for encrypted web3 transactions.
+• Regulatory Attitude: Regulators have been wary of fully anonymous crypto (e.g., U.S. sanctioning
+Tornado Cash mixer in 2022). But zkKYC flips the script – compliance-by-design. If a stablecoin can
+enforce that both parties have verified credentials (all within ZK proofs), then every transaction is
+compliant without exposing personal data on-chain. Early signs show openness: for instance, MAS
+(Singapore) in 2023 ran Project Guardian, testing DeFi with verifiable credentials for investors –
+presumably satisfied with the idea that zero-knowledge can balance transparency and privacy. The
+U.S. Treasury’s 2023 risk report even mentioned ZK solutions as a possible way to mitigate illicit
+finance in DeFi while preserving innovation. In practice, we might see regulated “privacy pools”:
+whitelisted addresses can transact privately among themselves, but illicit addresses can’t enter the
+pool (and any required disclosures can be made under court order).
+• State of Tech: zk-SNARKs (zero-knowledge proofs) have advanced enough to be practical for
+stablecoin-scale usage. For example, Polygon’s Nightfall project (with EY) is already doing private
+ERC-20 transfers for enterprises, which could extend to stablecoins. Chainlink is working on
+“Selective Disclosure” oracles, which would feed yes/no answers about identity attributes into
+smart contracts without revealing the underlying data 126 . On the identity side, standards like W3C
+Verifiable Credentials and DID (Decentralized ID) are maturing, enabling portable digital IDs that
+can plug into zkKYC systems globally.
+• Notable Quote: “Most KYC systems today demand total disclosure… Zero-knowledge proofs flip that
+model,” explains the CEO of Billions Network 127 128 . This encapsulates the revolution: instead of
+broadcasting who you are and what you’re doing (as current crypto does transaction-wise), you
+prove only what is needed (e.g., “I’m allowed to use this USD stablecoin under my country’s law”) and
+nothing more.
+• Counterintuitive Finding: Privacy tech in crypto isn’t about helping criminals – it’s becoming about
+protecting honest users and satisfying regulators simultaneously. This runs counter to the
+narrative that crypto is an anonymity free-for-all. In fact, stablecoin issuers like Circle are actively
+embracing “privacy-preserving compliance.” In Jan 2024, Circle released an internal pilot for
+“Selective Disclosure” for USDC transactions, essentially allowing a user to prove to an auditor that
+a particular confidential transaction did not involve blacklisted parties, without revealing the users to
+the public 129 130 . So the industry trajectory suggests that in a few years, using a stablecoin could
+offer more privacy than a bank transfer (no one in the middle sees your data), yet
+simultaneously more assurance to regulators (via math-based compliance proofs). That’s a
+remarkable reconciliation of goals that historically seemed at odds.
+8. Stablecoin Failure Post-Mortems (Terra, Iron, Beanstalk, etc.)
+• Terra/UST (May 2022) – $40 Billion Collapse: Terra’s UST was an algorithmic stablecoin that relied
+on a sister token LUNA and trust in a 20% yield scheme. In early May 2022, a series of large
+withdrawals from Terra’s Anchor protocol and liquidity pools led UST to lose its $1 peg. Within 72
+hours, UST plunged to ~$0.10, wiping out ~$18B in UST market cap and about $22B in LUNA value
+131 132 . Combined ~$40B vaporized – one of the largest wealth destructions in crypto 131 132 .
+9Cause: a death spiral: as UST < $1, arbitrage required minting more LUNA to absorb UST – but
+confidence evaporated, so LUNA’s price collapsed 99.99%, meaning UST became essentially
+unbacked 133 134 . Anchor’s unsustainable 20% APY (a quasi-Ponzi incentive) had masked UST’s
+fragile design 135 136 . When new funds stopped entering, the system failed exactly like a Ponzi or
+bank run. Losses: investors big and small were hit; for instance, a Korean teacher’s union fund
+reportedly lost $millions, and many retail in Asia were heavily invested due to Terra’s popularity.
+Lessons: The Terra crash illustrated that algorithmic stablecoins without robust collateral are
+inherently brittle – reliance on market psychology can’t guarantee a peg. It also had contagion: the
+collapse contributed to the insolvency of hedge fund Three Arrows Capital and crypto lender Celsius,
+sparking a broader crypto credit crisis. Regulators took note – South Korea indicted Terra’s founder
+Do Kwon (now arrested), and US and EU regulators cited Terra’s crash as justification for stricter
+stablecoin rules to prevent something of that scale in the future.
+• Iron Finance (TITAN/IRON) – Mark Cuban’s Rug (June 2021): IRON was a partial-collateral
+algorithmic stablecoin on Polygon – 75% collateralized by USDC, 25% by a token TITAN. In June 2021,
+TITAN soared from a few dollars to ~$60, then hyperinflation to $0 in a day 137 138 . Essentially,
+when some large holders started selling TITAN rewards, its price dipped, causing panic. IRON
+redemptions then meant minting more TITAN, accelerating TITAN’s supply increase and price
+collapse – a reflexive spiral similar to Terra’s later crash. Billionaire Mark Cuban was providing
+liquidity in IRON/TITAN and got caught; he blogged “I got hit like everyone else. … Crazy part is I
+got out, thought they were increasing TVL enough. Then bam.” 139 140 . Though widely called a “rug
+pull,” it appears to have been a design collapse, not a malicious insider theft. Losses: relatively
+smaller (TITAN’s fully diluted value was a couple billion at peak, vs Terra’s tens of billions). Cuban said
+he lost maybe ~$0.87M 141 . Many DeFi farmers learned hard lessons. Lesson: Partial collateral + algo
+minting can go to zero just as surely as uncollateralized. And high APYs (Iron had extremely high
+yields in liquidity pools) often foreshadow unsustainable dynamics. It was a precursor to Terra, with
+the crypto community largely failing to heed TITAN’s warning signs before Terra repeated the
+mistake on a larger scale.
+• Beanstalk (April 2022) – Governance Hack $182M: Beanstalk was an Ethereum algorithmic
+stablecoin (BEAN) that maintained its peg through credit – essentially an automated central bank-ish
+system. In April 2022, an attacker used a flash loan to instantly acquire a super-majority of
+governance tokens and passed a proposal to send themselves all of Beanstalk’s collateral funds 142
+143 . They stole ~$80M in assets (the rest of the $182M loss was BEAN value plummeting) 144 . BEAN
+went from $1 to ~$0 143 . Cause: a lack of time-lock or quorum safeguards in the governance design –
+“one person used a momentary loan to become 75% of the community” 145 , as one report put
+it. This attack did not exploit the peg mechanism directly, but by draining reserves it destroyed
+confidence in the stablecoin. Losses: about $77M remained unrecovered (the hacker laundered via
+Tornado Cash). Notably, the hacker did not return funds (unlike some others). Lessons: DeFi
+governance needs circuit-breakers; a stablecoin protocol is only as secure as its governance. Also,
+insurance and auditing in DeFi came under focus – Beanstalk had not been fully audited for flash-
+loan governance attacks. The community later rebooted Beanstalk with changes, but BEAN has not
+regained popularity. For stablecoins, this highlighted an ironic point: even if your economic model is
+sound, operational security can zero you out – a risk bank currencies don’t have in the same way.
+• Cashio (March 2022) – “Infinite Mint” Hack to $0: Cashio Dollar (CASH) on Solana was a stablecoin
+backed by liquidity pool tokens. A smart contract bug allowed an attacker to mint 2 billion CASH out
+of thin air without collateral 146 147 . They redeemed about $52.8M of real assets before Cashio’s
+pools were emptied 148 149 . CASH’s price promptly went to ~$0 (from $1) 150 . The hacker (oddly, a
+self-proclaimed “Robin Hood”) even said they’d return funds to “small” victims 151 , though it’s
+unclear if that fully happened. Cause: a coding error in account validation – “an ‘infinite mint’
+10glitch” 148 . Losses: ~$40M effectively lost by yield farmers and LPs. Lessons: This was not algorithmic
+instability but pure smart contract risk – highlighting that even “fully backed” stablecoins can
+instantly fail if the contract has a flaw. Cashio’s team and auditors missed a critical bug; after the
+hack, Cashio was abandoned (developers did not have the funds to compensate or rebuild trust).
+The phrase “Cashio is not so cash yo” went around, darkly punning that stablecoins can become
+worthless faster than one can say “bank run” if a smart contract integrity is compromised. It
+underscored the need for rigorous audits and formal verification in stablecoin contracts.
+• USDC’s Depeg (Mar 2023) – Traditional Bank Risk: Not a collapse, but a significant failure of the
+peg: Following Silicon Valley Bank’s sudden failure on March 10, 2023, Circle disclosed $3.3B (8%) of
+USDC’s reserves were stuck at SVB 152 153 . Fear spread over the weekend, and USDC – normally
+very stable – fell to ~$0.87 on exchanges 154 153 . About $4.5B of USDC was redeemed in a few
+days 155 , a modern digital bank run. By Mar 13, the Fed and FDIC guaranteed SVB deposits, Circle’s
+reserves were safe, and USDC repegged to $1 156 . Cause: traditional banking fragility – Circle kept
+some cash in a single mid-sized bank above insurance limits. When that bank failed, it froze those
+funds. Losses: Ultimately, no one who held USDC through Monday lost money (it repegged). But
+those who panic-sold at $0.90 locked in a loss, and some traders made millions arbitraging the
+rebound. Lessons: Even fiat-backed stablecoins carry custodial/banking risk – a stark reminder that
+stablecoin stability is only as good as the stability of the reserves and banking partners. It pushed
+Circle to diversify and move more cash to BNY Mellon and the Fed’s overnight reverse repo. It also
+showed the crypto market’s reflexivity: a normally rational asset can trade at a deep discount if
+there’s a weekend uncertainty and no lender-of-last-resort. USDC’s depeg also caused DAI (60%
+backed by USDC) to depeg to ~$0.90, illustrating stablecoin inter-dependencies. Regulators took
+note that a “stable” coin can break the buck similar to a money market fund under stress, reinforcing
+calls for stablecoin issuer oversight.
+• Acala Dollar (aUSD) – Exploit and Freeze (Aug 2022): aUSD, a Polkadot-native overcollateralized
+stablecoin, was hit by a bug when launching a liquidity pool. A misconfiguration allowed attackers to
+mint 1.2 billion aUSD out of thin air 157 158 . aUSD’s price crashed ~99% to $0.01 159 . The Acala
+network actually halted operations (turned to maintenance mode) and ultimately governance voted
+to burn the 1.2B fraudulent aUSD and other stolen assets 160 161 . This effectively re-pegged aUSD
+over time (after the burn, it went back toward $1), but confidence was shattered and Acala’s DeFi
+ecosystem dried up. Cause: a code misconfiguration in a pool smart contract – not a failure of
+economic design per se, but an operational/security failure. Losses: The value at risk was huge (over
+$1B aUSD minted), but because the network froze, most illicit gains were reversed – however, trust in
+Acala was badly damaged, and Polkadot’s credibility took a hit for having to freeze a supposedly
+decentralized network. Lessons: A community intervening to save a stablecoin via rollback raises
+decentralization questions – but also shows some failures can be mitigated by swift collective action
+(unlike Terra where nothing could be done). It highlighted the importance of “guard rails” in code
+deployments – e.g., setting cap limits on minting during early days. This event also is cited in
+discussions that regulated stablecoins might be safer – Acala’s issue wouldn’t occur with something
+like USDC because there’s no on-chain mint function accessible to users; only the issuer (Circle) can
+create tokens and only against real reserves. So, decentralized stablecoins face a double
+challenge: financial design and technical security.
+• Counterintuitive Takeaways: Not all stablecoin failures stem from crypto problems – some are old-
+fashioned. Terra was essentially a bank run meets Ponzi economics; Iron/TITAN was a frenzied
+bubble pop; Beanstalk and Cashio were hacks/exploits; USDC’s wobble was due to real-world bank
+failure. This diversity of failure modes shows that stabilizing value is hard – you have to get economic
+incentives, technical security, and operational soundness all right. It’s telling that the only major USD
+stablecoins that haven’t broken peg (USDT, USDC, BUSD) are fully or largely fiat-backed – but even
+11they have had moments of stress (USDT dipped to $0.97 in 2018 during solvency rumors, USDC to
+$0.87 as noted). Regulators now often cite these incidents in reports: “Stablecoins are stable until
+they are not” – hence the push for prudential regulation akin to banks or money market funds. For
+industry players, each failure provided lessons that have been woven into newer designs: more
+collateral, more audits, circuit-breakers in code, etc. Arguably, the resilience of top stablecoins in
+2023–25 (through various market crashes) is partly thanks to these hard-earned lessons from
+spectacular failures.
+9. Institutional & Enterprise Adoption
+• From Experimentation to Adoption: In 2021–22, institutions were dipping toes; by 2025, many are
+diving in. A 2025 Coinbase survey showed 29% of Fortune 500 executives are interested in
+stablecoin use or partnerships, up from just 8% a year before 44 45 . While only ~7% have actually
+integrated stablecoins to date 162 , the growth in interest is telling. 90% of surveyed institutional
+finance players are exploring stablecoins for uses like instant settlement and treasury, per a 2025
+Fireblocks report 163 164 . Key point: Stablecoins are no longer just a crypto-native tool; they’re seen
+as a legitimate piece of financial infrastructure by corporates, fintechs, and even banks.
+• Corporate Treasury & Payments: Companies with international operations use stablecoins to move
+funds quickly and cheaply. E.g., Visa (Fortune 500) has piloted USDC for settling cross-border
+corporate cards: by 2023 Visa expanded a pilot to settle transactions with merchants via USDC on
+Ethereum and Solana, cutting out intermediaries 165 . Stripe in 2022 enabled USDC payouts to 60+
+countries for gig workers (e.g. paying creators on Twitter) – and in 2023 Stripe went further by
+acquiring a crypto startup (Circle’s partner) for $1B to bolster stablecoin payment capabilities 166
+167 . PayPal launched its own USD stablecoin (PYUSD) in Aug 2023, marking the first major U.S.
+fintech to do so 168 . PayPal sees PYUSD as the backbone for next-gen payments and transfers on its
+platform (early use case: transfers between PayPal and external wallets). These moves validate
+stablecoins’ role: “It’s the most significant upgrade to the dollar in decades,” PayPal’s crypto VP was
+quoted in a 2024 interview (highlighting 24/7, programmability benefits).
+• Banks & Financial Institutions: Banks initially shunned stablecoins, but that’s changing. In Oct
+2023, BNY Mellon (America’s oldest bank) began custodying USD Coin reserves and facilitating USDC
+settlement for clients, effectively integrating it with traditional banking【Circle press release】.
+Goldman Sachs in 2022 did a tokenized USD transaction (though on a permissioned chain). JP
+Morgan created JPM Coin (a private stablecoin for institutional use), and in 2023 disclosed it had
+processed ~$300B in JPM Coin transactions for corporate clients – showing demand for instant
+blockchain-based settlement. Mastercard in 2023 launched a program to help banks offer
+stablecoin payments to merchants (partnering with Paxos). We also saw Visa directly invest in crypto
+custody and stablecoin startups. Notably, multiple community banks and credit unions in the US
+piloted USDF Consortium, effectively a group-issued bank-backed stablecoin, and while slow, it
+indicates even smaller banks eye the space to avoid disintermediation. By 2025, it’s anticipated that
+pending US regulation will allow banks to issue or use stablecoins more freely – potentially
+unleashing a wave of bank-issued stablecoins or full integration of existing ones.
+• Big Tech and Platforms: Meta (Facebook)’s Diem failed, but ironically stablecoins stepped in where
+Diem left off. By 2025, WhatsApp has a pilot in certain countries (e.g. Brazil, India) enabling sending
+money with stablecoins through integrations with wallets – essentially doing what Diem intended
+but with third-party USDC or USDT. Telegram integrated TON stablecoins in some markets. X
+(Twitter), under Elon Musk, is reportedly building payment features that could include crypto –
+given Stripe’s payout integration, Twitter already indirectly touched USDC. Google and Apple have
+12added support for crypto payments in their mobile wallet APIs (for instance, allowing Coinbase Card
+which spends USDC). This platform adoption is nascent but in motion – if any of these flips the
+switch to native stablecoin support, billions of users get exposure overnight.
+• Use Cases – Beyond Remittance: Stablecoins are finding enterprise uses such as supply chain
+settlements (e.g. a multinational using USDC to pay suppliers in Asia same-day rather than waiting
+on wire transfers – IBM and Maersk did trials using stablecoins for instant trade settlements in
+2022), and Treasury yield (some corporates park excess cash in stablecoin DeFi to earn higher yields
+than bank accounts – albeit quietly, given regulatory uncertainty). Visa and Circle have highlighted
+stablecoins for B2B cross-border payments as a huge area: they’re faster and ~90% cheaper than
+correspondent banking for many corridors 169 170 . Even Uber’s CEO (Dara K.) said in mid-2025
+they’re researching stablecoins to pay drivers globally or settle rides in different currencies more
+efficiently 164 171 .
+• McKinsey & a16z Data Points: A 2024 McKinsey report projected daily stablecoin transaction
+volume could reach $250B by 2030, overtaking ACH and potentially rivaling card networks 172 . It
+noted stablecoins as “the first true market fit for digital assets in payments” 173 . Andreessen Horowitz
+(a16z) in its 2023 State of Crypto report noted stablecoins were already the payment rail of choice
+in web3, and suggested if current growth continues, stablecoins might “rival the size of the credit
+card industry within a decade.” This kind of bullish analysis is driving FOMO in boardrooms –
+hence the significant increase in Fortune 500 interest.
+• Structural Trend: “Stablecoins formed the monetary base of DeFi and are now extending into traditional
+finance” 174 , as a DLNews 2025 piece put it. We see evidence: stablecoin usage by SMBs (small/med
+businesses) doubled from 17% to 34% between 2024–25 in one survey 175 176 – mainly for cross-
+border B2B payments and avoiding high FX fees. Visa’s CFO noted on an earnings call that a portion
+of their customers’ cross-border volume in certain corridors shifted to stablecoins (likely via partner
+fintechs), which Visa is “monitoring and participating in via settlement”.
+• Counterintuitive Angle: Many expected large banks to resist stablecoins, but now we see them
+embracing or replicating them. It turns out, stablecoins are not so much disintermediating banks as
+pressuring them to innovate. Banks can actually make money with stablecoins (e.g. issuing their own
+fully reserved coins and earning float revenue, just as Tether does). Additionally, stablecoins may
+reduce costs for banks in back-end settlement. So the narrative has shifted: instead of “crypto vs
+bank,” it’s increasingly banks and tech firms using crypto dollars to upgrade infrastructure. As a
+result, the lines are blurring – when you use PayPal, Visa, Stripe in the coming years, you might be
+using stablecoins under the hood without realizing. Key quote from a Visa crypto exec (2025): “We
+don’t see stablecoins as competition to our network – we see them as just another network we will move
+money over.” This captures that institutions now view stablecoins less as a radical threat and more as
+a natural evolution in the plumbing of global finance.
+10. The Last Mile – On/Off Ramps & Conversion
+• Global On-Ramp Landscape: Accessing stablecoins requires fiat bridges – exchanges, fintech apps,
+ATM converters, etc. By 2025, most countries have at least one crypto exchange or P2P platform
+serving as an on/off-ramp, though quality varies. For instance, in Brazil, licensed exchanges
+integrate with the instant payments network (PIX) – Brazilians can convert BRL to USDT in minutes,
+24/7, often at tight 0.2–0.5% spreads. In Nigeria, after banks were barred (2021) from crypto, users
+flocked to P2P marketplaces on Binance, Paxful, etc. They routinely swap NGN<->USDT via bank
+transfer to a peer – essentially ad hoc ramps. Despite the ban, Nigeria became a top crypto market.
+13(The ban was partially lifted in 2023 with plans for regulation, recognizing reality.) The upshot: even
+where formal ramps lack, informal ones emerge – but with more friction and sometimes safety risks.
+• MoneyGram & Co.: Traditional remittance giants are pivoting into last-mile crypto. MoneyGram now
+offers cash-to-USDC and USDC-to-cash in 180+ countries through its agent network 177 178 . A
+user in rural Kenya can hand cash to a MoneyGram agent and receive USDC in their Stellar wallet, or
+vice versa, all in a single visit. Western Union is testing similar pilots for settling remittances via
+stablecoins to local payout partners 16 17 . These integrations started around 2022 and have
+expanded – effectively, MTOs (Money Transfer Operators) are turning into critical crypto off-ramps,
+“leveraging their extensive payment networks as on/off-ramps” 179 . This has huge implications: it taps
+into the trust and physical presence these companies have built. We’ve gone from “crypto will kill
+WU” to “WU will sell you crypto” – an evolution driven by customer demand for faster/cheaper
+service.
+• Retail & Mobile Money Integration: In regions with large unbanked populations, tying stablecoins
+into mobile money and agents is the game-changer. Kenya’s M-Pesa (66M users in Africa) is
+integrating blockchain – a recent partnership will embed stablecoin infrastructure in M-Pesa across 8
+countries 180 181 . Already, tech like Kotani Pay and Yellow Card allow conversion between mobile
+money (M-Pesa, MTN Mobile Money) and USDT/USDC across several African nations 182 183 . This
+means a user can receive USDC from abroad and directly swap to local e-money on their phone. In
+the Philippines, GCash (mobile wallet with 66M users) partnered with Stellar and MoneyGram to
+enable USDC cash-outs at pawnshop agents 184 185 . Latin America: countries like Argentina –
+numerous crypto ATMs let people buy USDT for cash (as inflation hedge), and fintech apps like Belo
+connect stablecoins to local bank transfers. Notably, in Brazil, a startup SmartPay integrated Tether
+(USDT) with 24,000 ATMs via TecBan network 186 . Starting Nov 2022, Brazilians can go to regular
+ATMs and convert BRL <-> USDT 186 . That’s a huge last-mile leap: stablecoins available from your
+corner ATM, no bank needed.
+• Legal Barriers & Receptiveness: Some countries still ban or heavily restrict crypto on-ramps. China
+is the big one – direct trading is illegal; people use OTC desks and Tether P2P informally. India has
+no ban but imposed a crippling 1% transaction tax that gutted exchange volumes by ~90%. This
+drove many to offshore platforms or underground trading – indicating draconian measures mostly
+shift activity, not stop it. Russia in 2022 banned crypto payments but has considered using
+stablecoins for international trade to bypass sanctions (an experiment with stablecoin settlement
+with friendly countries is reportedly in discussion). In Western nations, on-ramps are plenty
+(Coinbase, etc.), but regulations (KYC/AML) add friction – e.g., in the US, linking a bank, waiting days
+for ACH clearance, etc. That’s why fintechs like MoonPay and Ramp emerged to allow instant card
+purchases of stablecoins (with fees ~3.5%, pricey but instant). EU’s MiCA law (2024) will make it
+easier for licensed entities to offer services across Europe, likely expanding quality on-ramps in
+smaller EU states by passporting a license.
+• On-Ramp Quality Metrics: Two metrics matter – cost and accessibility. In places like Turkey, on-
+ramps are numerous (several local exchanges), competition kept fees low (~0.2% trading fees) –
+result: Turkey leads MENA in stablecoin use. In contrast, Pakistan (where crypto is gray-area) sees
+people pay premiums up to 5% to buy USDT via Hawala brokers, and accessibility is limited to those
+in urban centers. That gap shows how regulatory openness correlates with user cost. It’s noteworthy
+that over 30 countries in 2023 had inflation >10%, and in many of those (Argentina, Lebanon,
+Nigeria, Zimbabwe), demand for stablecoins is high but formal on-ramps are limited or banks
+hostile. So citizens have innovated: e.g., Argentines commonly use P2P stablecoin trades for USD
+access, and Lebanese WhatsApp groups run daily USDT auctions as the informal FX market.
+• ATMs and Physical Agents: By 2025 there are over 50,000 crypto ATMs worldwide, most in the US,
+but increasingly in Latin America and Asia 187 . Many now support stablecoins (not just Bitcoin). Their
+14fees can be high (5-10%), but they provide a familiar interface for those without exchange accounts.
+Also, convenience stores and postal outlets in some countries have begun offering crypto
+purchase services – in 2022, Japan’s postal bank experimented with stablecoin remittances, and
+in 2023, 7-Eleven Philippines launched a service to convert cash to crypto via ECPay (including
+USDC). This “stablecoin at your local store” trend is nascent but logical.
+• Legal Integrations: A few countries are integrating stablecoin off-ramps into financial
+infrastructure. El Salvador uses Strike app (Bitcoin and USDT) nationwide – effectively using Tether
+as part of its remittance infrastructure. UAE free zones in 2023 allowed licensed firms to accept
+stablecoins for payments (e.g., a Dubai real estate developer sold properties for USDC). This blurs
+the line between off-ramp and direct acceptance – if merchants take stablecoins, the “last mile” is
+solved because you may not need to convert to local fiat at all.
+• Counterintuitive Insight: The hardest part of the crypto revolution isn’t the crypto – it’s connecting
+it to real economies. Stablecoin providers learned they needed the old networks (banking agents,
+ATMs, remittance shops) to reach users outside crypto hubs. That’s why we see deals like Tether +
+MoneyGram, Stellar + Western Union. Rather than destroy the incumbents, stablecoins are
+enlisting them. This runs contrary to early crypto rhetoric of complete disintermediation. Instead, in
+many locales, your path to stablecoins might be through a very traditional channel – and that’s
+okay if it lowers cost and increases access. Over time, as more salaries, bills, and goods can be paid
+directly in stablecoins, these ramps will get more seamless. For now, though, “cash to crypto”
+bridges are crucial. Countries that facilitate them (through sensible regulation) are seeing adoption
+flourish in a safer manner, whereas those that ban or ignore them see users go underground or face
+higher costs. One striking example: Zimbabwe’s government, facing hyperinflation, launched a
+gold-backed digital token in 2023 to compete with the informal dollar stablecoin use –
+effectively acknowledging that people want stable value and will get it one way or another. It’s a last-
+mile lesson: if the formal economy doesn’t provide a conduit to stability, people will route around –
+and stablecoins are often the vehicle of choice.
+11. Historical Parallels to Stablecoin Adoption
+• Eurodollars (1960s onward): Perhaps the closest analog. Eurodollars were USD deposits held
+outside the U.S. banking system (London, etc.), beyond direct U.S. regulation. They grew explosively
+as they met a market need (offshore dollar liquidity) – much like stablecoins (crypto-dollars) grew to
+meet demand for digital dollars outside traditional banks. The U.S. initially viewed Eurodollars with
+suspicion, worrying about monetary control loss, similar to today’s officials eyeing stablecoins 66
+67 . Over time, Eurodollars became integral to global finance, even though they existed in a
+regulatory gray zone. Parallel: Stablecoins = “Eurodollars on blockchain.” Both started as bank
+liabilities outside home regulation; both extend dollar reach. In the 1970s, Eurodollars helped
+cement USD dominance – we see stablecoins doing the same in the 2020s (as noted, >90% of volume
+USD 188 29 ). One difference: Eurodollars were largely used by institutions, whereas stablecoins
+began retail-driven (though now institutions are heavily involved). Key lesson: The U.S. eventually
+tacitly supported Eurodollar markets (they provided flexibility during Bretton Woods collapse). We
+may similarly see stablecoins move from being edgy “shadow” dollars to officially integrated dollars.
+In effect, stablecoins could be the Eurodollars of the 21st century, and regulatory efforts (like the
+draft U.S. stablecoin laws) aim to bring them into the fold rather than eliminate them.
+• Credit Cards (1950s–70s adoption): Early charge cards (Diners Club, 1950) and bank credit cards
+(BankAmericard, 1958) took ~20–30 years to achieve ubiquity. They faced chicken-and-egg
+problems (few merchants accept -> few consumers carry, and vice versa) and had to overcome fraud
+15and technical issues (card imprint machines, etc.). To scale, banks formed consortia (Visa,
+MasterCard) in late 60s, agreeing on standards and sharing risk 189 190 . Parallel: Stablecoins today
+have network effect issues (acceptance vs usage) – e.g., it’s not useful to pay your grocery in USDC if
+they can’t accept it. We might see consortia or industry alliances akin to Visa’s origin. Indeed, there
+are talks of bank-led stablecoins networks (the USDF consortium of banks, or potentially a unified
+“Fed stablecoin”). In credit cards, regulation was light early on, enabling experimentation but also big
+failures (fraud waves in 60s). Stablecoins similarly had a wild-west period (Terra, etc.). Eventually,
+credit cards got uniform rules (Regulation Z, etc.) and consumer protections, which boosted trust.
+We’re now at that stage for stablecoins – crafting rules so that mainstream users and institutions feel
+safe adopting them, just as consistent rules helped credit cards go mainstream. Another credit card
+parallel: rewards & loyalty. In the 80s, credit cards exploded when reward programs (miles, cash-back)
+gave extra reason to use them. We may see stablecoins piggyback on similar incentives (already
+some fintechs offer yield or rewards for transacting in stablecoins). The timeframe could compress
+(stablecoins might achieve broad adoption in 10–15 years from inception, vs 30 for cards) due to the
+internet’s faster network effects.
+• Container Shipping (1950s–60s): As referenced by an AIER piece, the standard shipping container
+(1956) revolutionized global trade by standardization 191 192 . Before containers, shipping was
+labor-intensive, slow, expensive – analogous to today’s cross-border payments. The container
+provided a universal format that every port, ship, truck could handle. Analogy: Stablecoins can be
+the “containers” for money 192 . Instead of each country’s banking system being a different format,
+stablecoins (especially if regulated and interoperable) could be a universal digital value unit that
+moves seamlessly across platforms and borders. The AIER article even equates recent U.S. stablecoin
+legislation to agreeing on container size standards 193 . Insight: The container didn’t replace ships or
+trade goods – it just made the process efficient. Likewise, stablecoins don’t replace the dollar – they
+“standardize its transport” 194 195 . The impact of containers was huge: 8x increase in trade over a
+few decades 196 . If stablecoins achieve container-like universality (say via international regulatory
+agreements and adoption), one could see a similar boom in economic activity by slashing the friction
+in moving money.
+• Mobile Money (2000s): M-Pesa in Kenya (launched 2007) is a strong parallel in terms of use case
+and adoption curve. M-Pesa turned mobile airtime credits into a de facto digital currency for the
+unbanked, going from 0 to 50%+ of the adult population in about 5 years. Stablecoins are doing
+something similar globally – turning a ubiquitous tool (a smartphone + internet) into a bank in your
+hand with dollars. In Kenya, M-Pesa’s rapid uptake was driven by a collapse of trust in banks and
+need for remittances – similar to how Argentine or Nigerian citizens flock to USDT when their
+currency or banks fail them. Now, stablecoins are essentially “mobile money 2.0 – global edition.”
+Interestingly, M-Pesa is now planning to incorporate stablecoins for cross-border, essentially merging
+the two eras 181 . Another analogy: interoperability. In early mobile money, each provider was siloed
+(couldn’t send from M-Pesa to say, MTN’s MobileMoney in Ghana). Over time, regulators pushed
+interoperability and also connected mobile money to banks. We see a push now to connect
+stablecoins to each other and to banking systems (via APIs, etc.). So history suggests that forcing
+interoperability (common standards) earlier rather than later can accelerate network effects.
+• Internet Adoption (1990s): The Internet’s spread had an S-curve – long tail of slow start (70s–80s
+research, early 90s ~0.5% of world on internet) then explosive growth late 90s through 2000s to
+>50%. Stablecoins started around 2014 (Tether), really took off 2018–21, and now perhaps ~10% of
+crypto users globally have used them (tens of millions of people). Could they follow an internet-like
+trajectory? Possibly: if regulatory green lights are given, stablecoins could jump from niche to
+mainstream in a decade. The internet’s tipping point was arguably when it became easier to use
+(web browsers, AOL CDs, etc.) and when key content/services were available. For stablecoins, ease of
+16use is improving (user-friendly fintech apps abstract blockchain complexity). The “content” equivalent
+is real-world acceptance – once you can pay major merchants or receive salary in stablecoins easily,
+adoption can snowball. A cautionary parallel: the diffusion of new financial tech can be slower if
+trust is lacking. For example, contactless card payments were technologically ready by late 1990s,
+but took until the 2010s to truly proliferate because of trust and habit – people were used to swiping
+or cash. Stablecoins might face similar inertia outside early adopters. But younger generations
+comfortable with digital wallets could leapfrog. Also, crises can accelerate adoption – just as COVID
+accelerated contactless and digital banking usage. Similarly, an inflation crisis or banking crisis can
+accelerate stablecoin uptake (as seen in Lebanon 2021–22).
+• Others (Euro currency unification, etc.): The introduction of the Euro (1999–2002) might have
+some instructive points: multiple currencies were merged, requiring huge coordination, public
+adaptation, and trust-building in a new unit. Stablecoins in a way create a unified “internet dollar”
+that people globally adopt even if not their national currency. Like the euro, there’s pushback from
+those losing autonomy (national central banks then, emerging market central banks now with
+stablecoins). The Euro succeeded because it had strong governance and backing. Stablecoins may
+need an equivalent (clear reserves, issuer accountability) to gain universal trust.
+• Counterintuitive Perspective: Far from being unprecedented, stablecoin adoption has many
+historical echoes – it’s more evolution than revolution. This suggests two things: (1) We can predict
+hurdles (e.g., need for standards – as with containers; need for consortium/co-opetition – as with
+credit cards; need for trust frameworks – as with Eurodollars). (2) We see inevitability – if
+stablecoins solve real problems (like containers and internet did), they will likely overcome obstacles
+and become part of the fabric of commerce. Perhaps the most striking analogy came from that AIER
+article: “Stablecoins are the shipping containers of monetary influence. If we define the standard, the
+world will adopt it. If we hesitate, others will fill the vacuum.” 65 . In historical terms: the technology
+that reduces friction and builds network effects tends to win – and stablecoins, by aligning with the
+entrenched dominance of the dollar and leveraging blockchain efficiency, appear on that path,
+assuming we manage the risks.
+12. Energy & Environmental Considerations
+• Blockchain Energy Post-Merge: The narrative of “crypto = energy hog” has flipped for stablecoins
+because most run on proof-of-stake or similar chains. Ethereum’s Merge (Sept 2022) reduced its
+power usage by ~99.9% 197 . Ethereum went from ~23 million MWh/year (comparable to a mid-size
+country) to just ~2,600 MWh/year 198 . That’s like going from the consumption of 2-3 million U.S.
+homes to that of ~200 homes 198 . With Ethereum’s carbon footprint negligible (CO2 output down
+99.99% 198 ), the major stablecoins on Ethereum (USDC, USDT Ethereum) became extremely low-
+impact per transaction overnight. To quantify: a single ETH transaction now uses on the order of 0.03
+kWh (rough estimate) versus ~200 kWh pre-Merge – that’s more than a 6,000× improvement 197
+199 . Solana and Tron, popular stablecoin networks, were already low-energy. Solana Foundation
+reported in 2022 that a Solana transaction used 0.00051 kWh (≈ one Google search energy) and the
+whole network about 3,186 MWh/year – roughly equal to 350 U.S. homes’ usage【Solana Energy
+Report 2022】. Tron is DPoS with ~50 validators and has energy needs akin to running a few data
+centers; exact numbers aren’t published, but given Tron’s $13M daily fee revenue by mid-2025 200
+201 , and assuming those fees mainly cover infrastructure, it suggests modest electricity
+consumption (likely <0.1% of Bitcoin’s, for instance).
+• Vs. Traditional Payments: Visa has famously stated its network’s energy per transaction is
+minuscule – Visa estimates ~0.0002 kWh per card transaction. The entire Visa global network uses
+17maybe 100s of thousands of kWh per day (mostly data centers). Now, stablecoin networks are in a
+similar ballpark. For instance, 100,000 USDC transfers on Solana might consume ~50 kWh total –
+comparable to Visa’s footprint for that many swipes, if not less. Thus, stablecoins on PoS likely have
+no greater carbon footprint per txn than existing digital payments (and in some cases, might
+piggyback on renewable-powered networks – e.g. Solana and Cardano claim carbon neutrality).
+Banking system energy: This is harder to gauge, but consider all bank branch offices (with lights,
+AC), ATM machines (2M+ globally), server farms for banks, paper logistics, etc. One study by
+Greenpeace in 2022 argued that the traditional banking sector’s energy consumption is twice that
+of Bitcoin – though that was disputed. However, it stands to reason that fully digital stablecoin
+systems, especially if running on efficient blockchains, could be leaner than maintaining thousands
+of physical branches and mainframes for clearance.
+• Post-Merge Example: After Ethereum’s Merge, one researcher noted that the energy saved annually
+(~99.95% reduction) was equivalent to taking the entire country of Austria* off-grid in terms of
+CO2 emissions 198 202 . So Ethereum-based stablecoins (like DAI, USDC) went from “each tx =
+powering a U.S. house for a day” to “each tx = boiling a cup of tea.” This removed a major ESG
+objection to stablecoins for institutions. In fact, *2023 saw more corporates comfortable using
+Ethereum stablecoins specifically because the ESG issue was mitigated. Contrast this with
+Bitcoin: a BTC transaction still uses ~1,150 kWh (though that secures much value, it’s huge per
+payment) – but stablecoins generally avoid Bitcoin’s network for transactions.
+• Tron’s Energy Quirk: Tron’s proof-of-stake (actually delegated proof-of-authority hybrid) means
+energy use scales very little with volume (just keep validators running). However, Tron’s TRX token
+price spiked in 2025, raising the cost of transactions (in TRX) and ironically increasing energy if
+validators increased hardware – Tron addressed this by slashing fees 60% in Aug 2025 203 8 . This
+kept USDT-Tron cheap and presumably energy-efficient per txn. Tron claims 75% of its transactions
+are “gasless” (subsidized) by design to encourage adoption 204 , and it generates about $2M daily in
+fees currently 205 which implies energy costs likely far less than $2M worth of electricity (since much
+of that is profit to validators).
+• Renewables & Emissions: Many PoS chains have validator nodes run on cloud servers which
+increasingly use renewable energy or purchase carbon offsets. E.g., Polygon achieved carbon-
+neutral status mid-2022 by offsetting emissions. Stellar has been carbon-neutral since 2020 by low
+usage and offsets. For corporate ESG reports, using a stablecoin on these networks could be
+reported as near-zero emissions. In contrast, using physical cash has hidden footprints (minting
+coins, printing notes, transporting them). There have been attempts to quantify that: the ECB
+estimated the carbon footprint of cash circulation in Eurozone (2018) was ~7.4 million tons CO2 (not
+trivial). While not directly comparable, it indicates digital can be greener.
+• DeFi vs TradFi Energy Intensity: A quirky observation: in 2021, at peak, Ethereum DeFi’s energy per
+transaction was astronomical due to PoW. By 2025, DeFi (powered by stablecoins) likely uses far
+less energy per $ settled than traditional finance’s settlement layers. For instance, Fedwire (the
+U.S. interbank system) processes ~$5T/day with some hundreds of computers – very efficient per
+dollar. But stablecoins like USDC now move ~$15B/day and growing 206 , and do so on efficient
+chains, arguably matching or beating the legacy in energy per dollar terms. It’s hard to precisely
+compare (banks have overhead beyond payments), but the trend is clear: with PoS, crypto’s energy
+use scales sub-linearly with volume, making it potentially more efficient as load increases.
+• Counterintuitive Angle: The environmental criticism of crypto mostly hinged on Bitcoin’s mining.
+But stablecoins largely avoid Proof-of-Work, so much so that some have noted transacting $1M via
+USDC likely uses less energy than transacting $1M via the banking system. Why? Because the banking
+system might involve multiple data centers, intermediaries and sometimes even physical paper (e.g.,
+correspondent banks reconciling). Meanwhile, a Solana or Polygon can move that $1M in one shot
+18with a single cryptographic validation. We’re not fully there yet with every chain or scenario, but it’s
+conceivable the greenest way to send money across the world could soon be via a stablecoin,
+contrary to the old belief that crypto is wasteful. In sum, energy is becoming a selling point for
+stablecoins, not a drawback, especially as networks continue to incorporate renewable energy and
+as Ethereum (with major stablecoin usage) likely moves to even more efficient sharded designs. The
+big remaining environmental question might be e-waste from hardware if usage skyrockets, but
+that’s minor compared to the prior PoW carbon issue. So, while stablecoins revolutionize finance,
+they might also quietly help reduce the carbon footprint of moving money by simplifying
+infrastructure – an outcome few outside the industry anticipated a few years ago.
+13. The Interoperability Problem (Bridges, Hacks, and Solutions)
+• The “Blockchain Balkanization”: Stablecoin liquidity is fragmented across many chains – Ethereum,
+Tron, BSC, Solana, Polygon, Arbitrum, etc. Users often need to bridge stablecoins from one chain to
+another to use different applications. Traditionally, this meant using cross-chain bridges: protocols
+that lock coin on Chain A and mint a “wrapped” version on Chain B. Problem: Bridges have been
+high-value honeypots and notoriously insecure. About $2.5 billion has been stolen in bridge
+hacks** from 2021–2023 207 208 – including some of the largest DeFi hacks ever.
+• Notorious Bridge Hacks: In February 2022, the Wormhole bridge (Ethereum <-> Solana) was
+exploited for 120,000 ETH (~$325M) 209 113 – the attacker found a bug in Wormhole’s signature
+verification, minted wrapped ETH on Solana without locking real ETH, then cashed out. Jump Trading
+had to step in and replace the funds to keep Wormhole solvent 210 211 . Similarly, the Nomad
+bridge (Ethereum <-> others) had a code bug leading to a chaotic $190M theft in Aug 2022
+(hundreds of copycat attackers drained it). Poly Network lost ~$611M in 2021 through a cross-chain
+flaw (that hacker returned the funds) 212 213 . These incidents underscore that bridges are often
+the weakest link, sometimes relying on a small multisig or poorly audited code. Decentralization
+issue: many current bridges are semi-trusted (a few nodes sign off on transfers). This creates both
+security and censorship concerns (e.g., an OFAC sanction on a bridge could freeze cross-chain
+assets).
+• User Friction & Risk: For users, bridging stablecoins is a pain point. One has to pick the right bridge
+(each with different fees and times), risk of failure (several minor bridges paused operations after
+hacks, stranding funds). There’s also UX confusion: often users end up with multiple “flavors” of
+USDC (e.g., “USDC.e” on Avalanche vs native “USDC”). If they send the wrong kind to an exchange, it
+might not be recognized – causing lost funds or manual recovery. This is akin to the early internet
+having separate networks that didn’t talk. It’s said that bridging is currently “where user funds go to
+die” – a dark joke referencing how many people have lost money sending stablecoins via the wrong
+network or to bad bridges.
+• Emerging Solutions – Native Cross-Chain Transfers: Recognizing this, stablecoin issuers and
+developers have devised alternatives. Circle’s Cross-Chain Transfer Protocol (CCTP) launched in
+2023 allows USDC to move from one chain to another by burning on source and minting on
+destination 214 . No liquidity pools or wrapping – Circle itself facilitates redemption and issuance in
+a single flow. CCTP currently connects Ethereum <-> Avalanche, with more to come 214 215 . By late
+2025, usage grew – in one month, CCTP moved $7.7B USDC cross-chain 216 , showing demand for a
+safer alternative to bridges. Other stablecoins may implement similar burn/mint portals (though it
+requires the issuer’s direct involvement).
+• Interoperability Protocols: Projects like Chainlink CCIP (Cross-Chain Interoperability Protocol)
+and LayerZero aim to provide standardized messaging between chains. In July 2023, SWIFT
+19announced experiments with Chainlink CCIP to instruct token transfers across multiple chains
+(imagine SWIFT sending a message that moves stablecoin from a bank’s address on Ethereum to one
+on Polygon – all via CCIP). LayerZero enabled the concept of omnichain tokens, where a single
+token contract spans chains. Stargate bridge (LayerZero’s stablecoin bridge) has been used by Circle
+for CCTP messaging. These solutions try to ensure security via multiple oracles and relayers
+agreeing on messages (CCIP uses decentralized oracles, LayerZero uses an oracle+relayer design).
+No major hacks of these new-gen protocols have occurred so far, but they’re relatively young.
+• Bridgeless Multi-Chain Stablecoins: Tether has taken a simpler route for USDT: rather than
+bridging, they separately issue USDT on ~14 chains. There’s no direct convertibility (you rely on third
+parties to swap chain versions), but it avoids some risk – if one chain’s USDT is compromised (hasn’t
+happened yet), others remain unaffected. However, this puts the onus on exchanges or users to do
+off-chain swaps to move USDT across networks (often via a centralized exchange).
+• User-Level Solutions: Aggregators like LI.FI or Socket have emerged – these find the best route to
+bridge assets (including stablecoins) and abstract some complexity for the user. Also, centralized
+exchanges (CEXs) ironically serve as a popular “bridge”: users withdraw stablecoins on whatever
+chain they want by depositing to an exchange and withdrawing on the target chain (exchanges
+internally manage liquidity). This is fairly safe but re-centralizes the process.
+• Decentralization vs. Practicality: Purists want trustless bridges, but truly trust-minimized interop
+(like a fully decentralized light-client relay between chains) is hard and often expensive. Hence most
+interim solutions have some trust assumptions or involvement of issuers. The industry seems to be
+converging on a “hub and spoke” model where a few major protocols (CCTP, CCIP) serve as
+neutral highways for cross-chain transfers, rather than dozens of independent bridges. This is
+reminiscent of how in the early internet there were many networks, but eventually common
+protocols (TCP/IP) connected everything. We’re in the “many networks, imperfect gateways” phase
+for blockchains.
+• Bridge Hacks Impact on Perception: The string of bridge hacks in 2021–22 did slow institutional
+comfort with DeFi to a degree. Seeing hundreds of millions stolen in essentially “payment pipeline”
+infrastructure was a red flag. That’s partly why companies like Circle stepped in to provide a safer
+mechanism (CCTP). Regulators too are concerned – EU’s MiCA mandates that significant
+stablecoins must have a robust custody/trust mechanism if operating on multiple chains,
+implicitly discouraging unaccountable bridges. In the US, recent Treasury reports called cross-chain
+activity a leading “illicit finance concern” because stolen funds often hop chains via bridges 207
+217 . This is pushing development of compliance-friendly bridges and “travel rule” integration on
+them (so identity info can move with funds across chains).
+• Counterintuitive Point: The quest for decentralization ironically created new central points of
+failure – bridges. The response now is a slight recentralization or standardization to mitigate that
+(with issuers and large protocols playing a bigger role). In a way, it’s history rhyming: disparate
+private bank notes in the 1800s had to be standardized via clearinghouses; similarly, disparate chain
+tokens are finding clearing mechanisms. The difference: all moves faster in crypto time. We went
+from ignoring interoperability to multiple solutions in about 2 years post-DeFi boom. The likely end
+state is that users won’t even know a bridge is used – just like sending an email, you don’t know the
+route it takes. Achieving that invisibility is the goal of efforts like CCIP. Until then, the user
+experience remains a bit “1990s internet” – one wrong move and your money’s in limbo.
+Closing that gap is critical for stablecoins to be truly mainstream (a normal user can’t be expected to
+navigate bridge risks). The encouraging news: the biggest players (Circle, Chainlink, even SWIFT) are
+actively working on it, so the patchwork of wrapped coins and risky bridges might, in a few years, be
+as forgotten as dial-up modems – an artifact of the early days we’re happy to leave behind.
+2014. DeFi and Stablecoin-Based Financial Infrastructure
+• DeFi’s “Money Markets” Run on Stablecoins: In decentralized finance (DeFi), stablecoins are the
+lifeblood – providing the unit of account and most of the liquidity. As of late 2025, roughly 50–60%
+of all value locked (TVL) in DeFi protocols is in stablecoins or stablecoin-derived assets (e.g., LP
+tokens of stablecoin pools) 174 218 . Total DeFi TVL across chains stands around $230B (Q3 2025
+record) 219 220 , recovering from a dip after 2022. Ethereum still dominates (near $100B TVL by
+itself) 206 221 . Within that:
+• Lending protocols (Aave, Compound, Maker): They collectively hold tens of billions – e.g.,
+MakerDAO has ~$8B deposits creating DAI; Aave V3 markets ~ $15B liquidity. Stablecoins make up
+the majority of borrowed assets (people borrow USDC/USDT/DAI more than volatile coins) and also
+much of the collateral. In Maker, over 40% of collateral is actually USDC (parked as reserves via the
+Peg Stability Module) – showing stablecoins collateralizing other stablecoins! DeFi daily lending
+volumes are in the low billions (Aave might do a few hundred million in loan issuance daily,
+Compound similar) – small compared to TradFi, but significant growth. For perspective, the U.S. repo
+market is ~$4T daily; DeFi lending maybe $5B daily issuance and ~$70B outstanding 222 . So ~1% the
+size – small, but existent.
+• DEXs (Uniswap, Curve, PancakeSwap): Stablecoin pairs are the highest-volume pairs. Curve,
+focusing on stable-to-stable swaps, has about $20B TVL mostly in pools of USDT, USDC, DAI, etc.,
+and processes $100–200M in daily volume. Uniswap uses USDC or DAI as one side of most pools – it
+effectively acts as the decentralized FX market where stablecoins trade vs ETH, etc. Uniswap’s volume
+often rivals Coinbase’s; in 2025 it’s doing ~$1B/day, with stablecoins facilitating much of that.
+• Derivatives and Structured Products: Protocols like dYdX, GMX, etc., use stablecoins as collateral/
+margin. Daily crypto futures volume on decentralized venues is still modest (~$2–5B) vs centralized
+($100B+), but growing. Stablecoins enable anyone to be a market maker or lender – the combined daily
+decentralized stablecoin lending volume (~$1–2B) is small next to Fed daily operations, but it’s a seed
+of a parallel system.
+• Stablecoins as “Reserve Currency” of DeFi: An IMF working paper (2022) described stablecoins as
+the “reserve currency of crypto-ecosystem”, analogous to how USD is reserve currency of global
+finance 174 . This is evident: when traders exit positions, they go into USDC/USDT (rather than local
+fiat). DeFi protocols often keep treasury in stablecoins. Even hacks – hackers steal ETH then usually
+swap to stablecoins. So stablecoins function as the crypto-dollar internally. Notably, stablecoins
+have even begun to underlie algorithmic credit creation in DeFi: e.g., protocols like Abracadabra took
+interest-bearing stablecoin deposits and let people borrow more stablecoins against them
+(“degenbox” – which partly led to Terra’s cascade). This rehypothecation and yield-chasing shows a
+nascent shadow banking forming on stablecoins, with parallel risks. In 2022, MakerDAO initiated
+“real world asset” vaults, investing $1B+ of its DAI reserves into U.S. Treasury bills via a partnership –
+effectively becoming a money market fund that takes stablecoins (DAI) and invests in TradFi
+instruments (T-bills) 223 . DeFi is thus reaching out to TradFi, using stablecoins as the bridge
+currency.
+• TradFi Money Markets vs DeFi: Traditional U.S. money market funds hold ~$5.5 trillion of assets
+(short-term gov and corporate debt). DeFi’s closest analog – lending protocols + DEX stable pools –
+might sum to ~0.05% of that. So, on one hand, DeFi is tiny. On the other, growth rates for DeFi (even
+after a bear market) outpace TradFi growth. Also, DeFi is global by default and 24/7. For an individual
+or small business in a country with weak banking, parking value in a stablecoin and maybe earning
+3–8% in a DeFi yield farm is hugely attractive relative to local banks (if accessible safely). This is
+occurring (anecdotally, SMEs in Asia and Africa using USDC on Compound via fintech fronts). A16z
+21has pointed out that stablecoin DeFi yields act as a “global reference rate for dollars accessible to
+anyone,” somewhat like LIBOR was globally【a16z report 2023】. It sounds lofty, but indeed many
+decentralized dollar lending markets ended up clustering yields around the Fed rate plus some risk
+premium.
+• Financial Infrastructure Integration: Visa in 2023 publicized how they could use a smart contract
+to automatically sweep USDC from Ethereum to their treasury on a schedule – effectively using DeFi
+(via an auto swap contract) for treasury ops 165 . Also, Stripe’s USDC payout flows are an enterprise
+use of stablecoin infrastructure that bypasses SWIFT/Western Union entirely for recipients. PayPal’s
+PYUSD runs on Ethereum and can plug into DeFi easily (though PayPal can freeze transfers).
+Mastercard is partnering with public blockchains (Polygon in 2023 for an artist payments project) to
+leverage stablecoins for settlements. These show stablecoin-based rails melding into corporate
+processes – not outright replacing legacy, but augmenting where they offer speed/cost benefits.
+• Decentralization vs Regulation: As stablecoins become financial infrastructure, regulators worry
+DeFi could replicate systemic risks. FSB (Financial Stability Board) in 2023 noted that significant
+stablecoin-DeFi linkages (like large pools or lending) could, in a crisis, have contagion effects (e.g., a
+USDC depeg causing a cascade of DeFi liquidations). Yet currently the scale is such that even Terra’s
+collapse ($40B) didn’t roil traditional markets (though it contributed to crypto hedge fund failures). If
+stablecoins reached, say, $1T cap and DeFi $500B TVL, a shock could have macro relevance.
+Regulators thus are considering bringing certain DeFi activities under oversight if run by
+identifiable entities – but truly decentralized ones pose a challenge.
+• TradFi Comparison – Daily Volume: FedWire (wholesale transfers) moves ~$3–5T per day. ACH (US
+retail transfers) moves about $200B/day. By contrast, stablecoins transfer ~$12–20B on-chain per day
+(excl. internal CEX transfers). It’s smaller, but within an order of magnitude of ACH and growing. And
+stablecoins settle nearly instantly vs ACH’s 2–3 day cycles. This perhaps explains why FedNow
+launched – the Fed indirectly admits the need for real-time retail payments to compete with crypto’s
+speed.
+• Counterintuitive Observation: Stablecoins and DeFi are often called “shadow banking”, implying
+risky and unregulated. But one can argue parts of DeFi are more transparent and over-collateralized
+than traditional banking. For example, Compound’s open ledger lets anyone assess reserves in real-
+time (no fractional lending; collateral ratios enforced). In 2022, MakerDAO navigated the crash with
+zero bailouts – its over-collateralized model handled even a 70% crypto price drop, and DAI only
+briefly wobbled then regained peg. In contrast, some TradFi money market funds needed Fed
+backstops in 2020. This suggests a hybrid future: maybe TradFi money markets adopt some DeFi
+traits (on-chain accounting, instant settlement) while DeFi is adopting TradFi traits (real-world
+assets, regulatory compliance modules). Stablecoins sit in the middle, literally the base money of
+DeFi and the bridge to fiat. We see evidence by late 2025: Wall Street firms (e.g. Franklin
+Templeton) launched tokenized money market funds on-chain, accessible via stablecoins, blurring
+lines. The core narrative: stablecoins have bootstrapped a parallel financial system in under 5 years.
+It’s small, but it’s functional and global. As one 2025 Galaxy Research piece noted, “crypto-
+collateralized lending hit an ATH of $73.6B [Q3 2025]” 222 , meaning the crypto banking system is
+quietly regrowing after 2022’s washout. If regulatory clarity and more on-ramps come, stablecoin-
+based finance could scale exponentially – akin to how eurocurrency markets exploded in the 1970s
+once they gained credibility. But prudent design and oversight will be key to avoid repeating 2008 in
+this new realm. For now, stablecoin infrastructure in DeFi has proven relatively robust (no stablecoin
+bank runs in 2023 despite broader crypto stress), giving some confidence that with appropriate
+safeguards, this new financial layer can complement the old rather than just wildly disrupt it.
+2215. Timeline and Milestones Ahead
+• 2024–2025 – Regulatory Frameworks & Legitimization: These two years are pivotal. Mid-2024, the
+EU’s MiCA law comes into effect, requiring stablecoin issuers to be licensed and capped (e.g., non-
+euro stablecoin trading volume in EU can’t exceed 1M tx/day without extra oversight). This will
+formalize Euro markets – expect some smaller EU banks or fintechs to launch euro-backed
+stablecoins under MiCA, and Tether/Circle to get EU licenses or pull back if they don’t. In the U.S.,
+late 2024 or 2025 is likely when a federal Stablecoin Act passes (with bipartisan support coalescing
+around reserving oversight to Fed for non-bank issuers) 193 . If that happens, by 2025 H2, we could
+see the first FDIC-insured stablecoin issuers or non-banks getting Federal Reserve accounts (the
+draft GENIUS Act allowed this) 193 224 . That would be a watershed: stablecoins openly integrated in
+the U.S. banking system.
+• Market Cap & Usage Growth: If regulation opens doors, major fintechs and banks will more freely
+use stablecoins. Projections: Bloomberg Intelligence (2023) estimated stablecoin supply could reach
+$2.8 trillion by 2030, assuming 30% annual growth and some displacement of bank deposits 225 .
+That might be optimistic, but even a more conservative uptake (say $500B by 2030) is significant.
+Payment volume is expected to grow faster than supply as velocity increases (just like M2 money
+turnover). BI projected $56 trillion stablecoin transaction volume by 2030 225 226 , which is
+roughly 2x Visa+MC’s 2022 volume. If realized, stablecoins would truly be a mainstream payment rail.
+Some tipping points to watch: Stablecoin daily volume > SWIFT volume (SWIFT moves ~$5–6T/day).
+At current growth rates, that might happen by late 2020s.
+• CBDC Launches vs. Stablecoins: 2025–2026 will see big CBDC moves – the EU likely decides on
+digital euro issuance by 2026; China aims to expand e-CNY use in Belt & Road countries by 2025; the
+U.S. Fed will either launch a pilot CBDC or continue researching slowly. This timeline matters for
+stablecoins: a widely available Fed CBDC could either compete with or complement private
+stablecoins. If the Fed goes slow (which looks likely), stablecoins have a longer runway as the only
+game in town for digital dollars. Many analysts think the Fed will in the end rely on private sector for
+retail stablecoins and focus on wholesale (interbank) CBDC if any. By 2027, if banks are issuing their
+own stablecoins or using a Fed token, the landscape might shift from today’s crypto-native issuers
+(Tether, Circle) to more institution-issued tokens.
+• Technical Maturity: By 2025, Ethereum will likely introduce proto-danksharding (blobs for cheap
+data) – lowering Layer1 fees significantly. Layer2 adoption (Arbitrum, Optimism, zkSync) will be
+mainstream, making stablecoin transactions pennies or less with similar security. Also, cross-chain
+standards (CCIP, CCTP) will be widely implemented – by 2026, the average user may not know or care
+what chain their stablecoin is on; their wallet will handle routing (much like your phone picks WiFi vs
+4G automatically). This seamlessness will be a turning point for user experience. Additionally, privacy
+layers (see Section 7) may be integrated by then – so by 2026–27, using a stablecoin might feel like
+using a bank app in terms of privacy and ease, but with crypto’s speed and global reach.
+• Adoption Milestones: A few specific milestones to watch for that would signal a new level of
+adoption: A G7 country’s central bank or sovereign fund holding stablecoins (even just as test) –
+none publicly do yet, but smaller central banks (e.g., in Asia or Africa) might in late 2020s to facilitate
+FX reserves or remittances. Major merchants accepting stablecoins natively: if an Amazon,
+Walmart, or Alibaba starts taking USDC for payments (even if via a third-party processor), that would
+be huge – could happen by 2025–26 if regulatory clarity and demand align (Stripe or PayPal could
+enable this behind scenes). Salaries paid in stablecoins: Already common in crypto industry, but if
+by 2026 a Fortune 500 company offers stablecoin payroll option (for international contractors or
+23employees in high-inflation countries), that normalizes it greatly. There are startups (e.g.
+Remote.com, Deel) enabling this now.
+• Market Structure Evolution: It’s likely by 2025 the top stablecoins will be more diversified. Today 2
+issuers dominate >80%. By 2025–26, we might see 3–4 major currencies tokenized: e.g., a digital
+Euro stablecoin (issued by private under new EU rules) gaining say $20B cap if Europeans start
+using it for cross-border in EU. Also possibly a digital Yen or digital Pound stablecoin from
+regulated exchanges in Japan/UK. While USD will remain king, non-USD stablecoin share (currently
+~1%) could grow to 5–10% by late decade if those regions adopt.
+• Tipping Point – Public Perception: Perhaps the biggest inflection will be when non-crypto-native
+people use stablecoins regularly without thinking of them as “crypto”. This could happen through
+fintech integrations – e.g., millions of Latin American users using stablecoins via their banking apps
+(some banks in Argentina and Brazil already exploring). A sign of this: Mercado Libre (Latin
+America’s Amazon) launched MercadoCoin in 2022 and could integrate USDP stablecoin for
+wallet transfers – if these moves succeed, users transact in stablecoins but see it as just digital
+dollars. 2025–2027 could see this kind of quiet mass adoption.
+• Risks and Wildcards: On timeline, a negative wildcard could be a major blow-up (e.g., if Tether were
+revealed unbacked and collapsed suddenly in 2026 – that could trigger a regulatory backlash and
+adoption setback for years). Conversely, a positive wildcard could be a rapid emerging market shift
+(imagine a consortium of African nations endorsing a USD stablecoin standard for regional trade in
+2025 – could drive huge uptake). Another wild card: Big Tech, e.g., Apple launching an Apple
+Stablecoin (unlikely, but if they did by 2026, that’s an overnight game-changer given Apple’s reach).
+• Confidence & Trajectory: Confidence in stablecoins becoming mainstream is high if trends hold –
+they have weathered crypto boom-bust and are growing in real utility. The next 2–3 years (2024–26)
+are about integration and regulation. By 2027–2030, we may see stablecoins fade into the
+background of finance, much like internet protocols faded behind user-friendly apps. One might
+stop talking about “stablecoins” as exotic and just call them digital dollars/euros. The trajectory
+resembles other fintech (credit cards, internet payments) but likely faster. As one Circle report title
+put it: “The next phase of digital commerce will be built on stablecoins.” 227 228 .
+• Counterintuitive Take: The biggest winners of stablecoin proliferation might be the incumbents
+who embrace them, not the disruptors. This parallels how, say, Amazon embraced the internet to
+dominate retail, whereas companies that ignored it fell. Banks and networks that incorporate
+stablecoins (as rails or products) could extend their dominance. Already Visa and Mastercard are
+positioning to ride stablecoin rails instead of fight them 229 230 . So ironically, stablecoins could
+upgrade rather than uproot the financial order – fulfilling their thesis as “the most significant upgrade
+of financial infrastructure since electronic banking,” to quote the question prompt. The timeline to that
+upgrade being fully realized? Perhaps another 5–10 years – but the milestones above will tell us
+we’re on the way.
+Sources:
+Western Union stablecoin pilot & global remittance cost (CryptoSlate, Jul. 2025)
+FXC Intelligence – stablecoin vs traditional remittance costs (2024 primer)
+44 164 Binance/FinaceRun – Fortune 500 interest in stablecoins & Uber CEO remark (2025)
+192 64 AIER – Stablecoins analogous to shipping containers & macro impact (Sep. 2025)
+25
+29 Visa Analytics – $51T volume, 99% USD-pegged (Visa.com, 2024)
+66
+67 Center for Global Dev – “digital dollarization” risk in Africa (Aug. 2025)
+118 127 FF News – zkKYC integration quote (Oct. 2025)
+209 113 Reuters – Wormhole hack $320M (Feb. 3, 2022)
+161
+34
+24CryptoPotato & Yahoo – DeFi TVL ~$99B on Ethereum, $237B overall Q3 2025
+Chainalysis – Stablecoins as game-changer in Africa (Oct. 2023)
+189 OpenBanker – Stripe $1B acquisition & credit card network history (Jun. 2025)
+197 ConSensys & Reuters – Ethereum Merge energy -99.99% (Sep. 2022)
+174219
+3992
+166
+198
+CryptoNews – Tron fee cut 60% due to TRX surge & avg fee $4→$1.7 (Sep. 2025)
+Coingeek – Tether Q4 2025 reserves: $122B T-bills, $17.45B gold (Feb. 2026)
+106 231 CoinGecko via Binance feed – Tether $5.2B revenue in 2025 (~42% of crypto revenue)
+177 165 CryptoSlate & Finextra – PayPal launches PYUSD (Aug. 2023) & Visa USDC settlement pilot (2023)
+180 232 Medium (Impact) – M-Pesa integrating blockchain, Kenya stablecoin usage ranks 5th (Jan. 2026)
+207 212 Reuters – DeFi hacks $10B+ in 2021, Poly Network $610M hack (Feb. 2022)
+222 206 Galaxy Research & DLNews – Crypto lending $73.6B Q3 2025, stablecoins = base money of crypto
+(2025)
+65 194 AIER – Stablecoins = “shipping containers of monetary influence”, USD-backed tokens demand
+Treasuries (Sep. 2025)
+2039
+9597
+12
+16
+17
+168
+177
+178
+Stablecoins infiltrate deeper into global finance as Western Union enters crypto
+https://cryptoslate.com/stablecoins-infiltrate-deeper-into-global-finance-as-western-union-enters-crypto/
+3
+4
+10
+12
+15
+18
+19
+20
+21
+The state of stablecoins in cross-border payments: 2025 primer
+https://www.fxcintel.com/research/reports/ct-state-of-stablecoins-cross-border-payments-2025
+M-Pesa Goes Blockchain: Inside Kenya’s Stablecoin Revolution | by Impact
+Newswire | Jan, 2026 | Medium
+5
+6
+180
+181
+182
+183
+232
+https://medium.com/@impactnews-wire/m-pesa-goes-blockchain-inside-kenyas-stablecoin-revolution-a09b18bcf789
+7
+MoneyGram International Case Study - Stellar
+https://stellar.org/case-studies/moneygram-international
+8
+9
+28
+93
+200
+201
+203
+204
+205
+Tron's Biggest Backer Fuels $110M TRX Buy, Doubling Company's Treasury
+to $220M
+https://cryptonews.com/news/trons-biggest-backer-fuels-110m-trx-buy-doubling-companys-treasury-to-220m/
+11
+Stablecoins Are Disrupting Cross-Border Payments. Here's What ...
+https://www.moviemaker.com/stablecoins-are-disrupting-cross-border-payments-heres-what-that-means/
+13
+14
+Watch Stablecoin an opportunity, not a threat: Western Union CEO - Bloomberg
+https://www.bloomberg.com/news/videos/2025-07-21/stablecoin-an-opportunity-not-a-threat-mcgranahan-video
+22
+23
+32
+33
+165
+184
+185
+The Stablecoin Revolution in Remittances: By Md Rezaul Karim
+https://www.finextra.com/blogposting/28886/the-stablecoin-revolution-in-remittances
+24
+27
+Stablecoins Are Entering the “Distribution Decade” - OpenPayd
+https://www.openpayd.com/blog/stablecoins-are-entering-the-distribution-decade/
+25
+26
+29
+70
+Stablecoins and the future of onchain finance | Visa
+https://corporate.visa.com/en/solutions/crypto/stablecoins/stablecoins-and-the-future-of-onchain-finance.html
+30
+2025 scorecard: where our Market Outlook hit the mark and where ...
+https://www.21shares.com/en-us/research/2025-scorecard-where-our-market-outlook-hit-the-mark-and-where-we-missed
+2531
+44
+45
+162
+163
+164
+171
+Interest in Stablecoins Among Executives of Fortune 500 | 奔跑财经-FinaceRun on
+Binance Square
+https://www.binance.com/en/square/post/25517553430753
+34
+Stablecoins make up 43% of Africa's 'crypto' transactions in 2024
+https://coingeek.com/stablecoins-make-up-43-percent-of-africa-crypto-transactions-in-2024/
+35
+36
+43
+LAST MINUTE. Türkiye came to the top in this field of crypto | Bitcoindunyamiz on Binance
+Square
+https://www.binance.com/en/square/post/7306021543154
+37
+38
+39
+41
+42
+46
+47
+48
+73
+92
+Sub-Saharan Africa: Nigeria Takes #2, South Africa Grows Crypto-TradFi
+https://www.chainalysis.com/blog/subsaharan-africa-crypto-adoption-2024/
+40
+2024 LATAM Crypto Adoption: The Rise of Stablecoins
+https://www.chainalysis.com/blog/2024-latin-america-crypto-adoption/
+49
+2024 Western Europe Crypto Adoption: Stablecoins dominate
+https://www.chainalysis.com/blog/2024-western-europe-crypto-adoption/
+50
+51
+The impact of India’s UPI on cross-border payments
+https://www.fxcintel.com/research/reports/ct-india-upi-cross-border-payments
+52
+53
+54
+56
+229
+230
+FedNow vs. UPI: How They Compare and a Better Way
+https://www.lightspark.com/knowledge/fednow-vs-upi
+55
+FedNow vs. PIX: How They Compare and a Better Way - Lightspark
+https://www.lightspark.com/knowledge/fednow-vs-pix
+Remarks by Assistant Secretary for International Finance Brent Neiman on the U.S. Cross-Border
+Payments Agenda | U.S. Department of the Treasury
+57
+58
+https://home.treasury.gov/news/press-releases/jy2722
+59
+60
+61
+62
+227
+228
+Future of Stablecoin Payment Flows and Cross-Border Payments | Circle
+https://www.circle.com/blog/stablecoin-payments-the-next-phase-of-digital-commerce
+63
+The Technical Standard Positioning to Transform Cross-Border ...
+https://www.emergingfintech.co/p/the-technical-standard-positioning
+64
+65
+68
+69
+188
+191
+192
+193
+194
+195
+196
+224
+What Shipping Containers Did for Trade, Stablecoins Can Do
+for Money | AIER
+https://aier.org/article/what-shipping-containers-did-for-trade-stablecoins-can-do-for-money/
+66
+67
+71
+72
+74
+75
+76
+111
+112
+How Stablecoins Could Further Weaken Africa’s Public Finances | Center
+For Global Development
+https://www.cgdev.org/blog/how-stablecoins-could-further-weaken-africas-public-finances
+77
+What to watch as China prepares its digital yuan for prime time
+https://www.atlanticcouncil.org/blogs/econographics/what-to-watch-as-china-prepares-its-digital-yuan-for-prime-time/
+78
+The role of emotional factors in the acceptance of digital currency
+https://www.sciencedirect.com/science/article/abs/pii/S154461232400120X
+79 China's digital yuan CBDC processes $2 trillion. mBridge scale revealed - Ledger Insights - blockchain for
+enterprise
+https://www.ledgerinsights.com/chinas-digital-yuan-cbdc-processes-2-trillion-mbridge-scale-revealed/
+2680
+Overview of Digital Yuan (e-CNY) | Link Crypto on Binance Square
+https://www.binance.com/en/square/post/16796254015674
+81
+eNaira Adoption Remains Low, Representing Less Than 1% of ...
+https://fintechmagazine.africa/2024/07/22/enaira-adoption-remains-low-representing-less-than-1-of-circulating-currency-as-of-
+march-2024/
+82
+eNaira makes up less than 1% of currency in circulation as of March ...
+https://nairametrics.com/2024/07/21/enaira-makes-up-less-than-1-of-currency-in-circulation-as-of-march-2024/
+83
+Understanding the Impact of Digital Currencies: From Private ...
+https://jgbc.scholasticahq.com/article/142902-understanding-the-impact-of-digital-currencies-from-private-companies-to-central-
+banks
+84
+85
+Observations from the Retail CBDCs of the Caribbean
+https://www.kansascityfed.org/research/payments-system-research-briefings/observations-from-the-retail-cbdcs-of-the-
+caribbean/
+CBDC Lessons from the Caribbean: Analyzing Central Bank Digital Currency Adoption
+in Jamaica and The Bahamas | Cato Institute
+86
+87
+88
+89
+90
+91
+https://www.cato.org/briefing-paper/cbdc-lessons-caribbean
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+110
+114
+Tether’s 2025 sees profits down, loans up, controversy constant
+https://coingeek.com/tether-2025-sees-profits-down-loans-up-controversy-constant/
+104
+108
+Tether's net profit exceeded 10 billion dollars in 2025, with ... - Binance
+https://www.binance.com/en/square/post/02-02-2026-tether-2025-100-35892455151953
+105
+109
+Tether Achieves Record $10B+ Profits in 2025 Amid Surging USD ...
+https://stablecoininsider.org/tether-achieves-record-10b-profits-in-2025/
+106
+Tether Dominates Crypto Revenue With $5.2 Billion in 2025
+https://news.bitcoin.com/tether-dominates-crypto-revenue-with-5-2-billion-in-2025/
+107
+Latest #cryptorevenue News, Opinions and Feed Today - Binance
+https://www.binance.com/en/square/hashtag/cryptorevenue
+113
+207
+208
+209
+210
+211
+212
+213
+217
+Jump Trading replaces stolen Wormhole funds after $320 mln crypto
+hack | Reuters
+https://www.reuters.com/technology/crypto-network-wormhole-hit-with-possible-320-mln-hack-2022-02-03/
+115
+116
+117
+118
+119
+120
+121
+127
+128
+Tria Unveils zkKYC Integration with Billions as U.S. Considers Patriot Act
+for Digital Assets
+https://ffnews.com/newsarticle/fintech/tria-unveils-zkkyc-integration-with-billions-as-u-s-considers-patriot-act-for-digital-assets/
+122
+123
+Circle stablecoin for 'banking-level privacy' to launch on Aleo ...
+https://fortune.com/2025/12/09/circle-privacy-stablecoin-aleo-udsc-udscx/
+124
+The first private stablecoin on Aleo. | Stakely - LinkedIn
+https://www.linkedin.com/posts/stakely-io_the-first-private-stablecoin-on-aleo-activity-7422296689950203904-fuXq
+125
+130
+zkPoAI: The Future of Privacy-Focused Investing - zkMe
+https://www.zk.me/zkpoai
+126
+zkKYC: Zero-Knowledge Proofs in Blockchain KYC - SmartState
+https://smartstate.tech/blog/zkkyc-zero-knowledge-proofs-in-blockchain-kyc.html
+27129
+zkMe Unveils zkKYC: A Fully Decentralized and Privacy-First KYC ...
+https://www.fintechfutures.com/press-releases/zkme-unveils-zkkyc-a-fully-decentralized-and-privacy-first-kyc-solution
+131
+132
+133
+134
+135
+136
+Terra’s Not-So Stablecoin UST Collapses, Over $40 Billion in Losses
+https://futurumgroup.com/insights/terras-not-so-stablecoin-ust-collapses-resulting-in-over-40-billion-in-losses/
+137
+138
+139
+140
+Mark Cuban 'Hit' by Apparent DeFi Rug Pull - Decrypt
+https://decrypt.co/73810/mark-cuban-hit-apparent-defi-rug-pull
+141
+Billionaire investor Mark Cuban loses $870K in crypto scam
+https://m.economictimes.com/tech/technology/billionaire-investor-mark-cuban-loses-870k-in-crypto-scam/articleshow/
+103730136.cms
+142
+143
+145
+Beanstalk cryptocurrency heist: scammer votes himself all the money
+https://www.sophos.com/pt-br/blog/beanstalk-cryptocurrency-heist-scammer-votes-himself-all-the-money
+144
+Beanstalk cryptocurrency loses $182m of reserves in flash 'attack'
+https://www.theguardian.com/technology/2022/apr/18/beanstalk-cryptocurrency-loses-182m-of-reserves-in-flash-attack
+146
+Explained: The Cashio Hack (March 2022) - Halborn
+https://www.halborn.com/blog/post/explained-the-cashio-hack-march-2022
+147
+148
+Stablecoin Cashio on Solana exploited for $52.8 million in 'infinite ...
+https://www.theblock.co/post/138934/stablecoin-cashio-on-solana-exploited-for-28-million-in-infinite-mint-glitch
+149
+Solana Cashio Hack Loots $52.8M: Investigations Reveal Surprising ...
+https://finance.yahoo.com/news/solana-cashio-hack-loots-52-165359406.html
+150
+Stablecoin Cashio Suffers 'Infinite Glitch' Exploit, TVL Drops by $28M
+https://www.coindesk.com/tech/2022/03/23/stablecoin-cashio-suffers-infinite-glitch-exploit-tvl-drops-by-28m
+151
+Crypto hacker who targeted Cashio stablecoin says he'll ... - Fortune
+https://fortune.com/2022/03/25/crypto-robin-hood-stole-50-million-hacker-heist-cashio/
+152
+Stablecoin Risks: Some Warning Bells - Bank Policy Institute
+https://bpi.com/stablecoin-risks-some-warning-bells/
+153
+154
+156
+USDC Stablecoin Value Recovers After Dipping as Low as 86 Cents
+https://www.pymnts.com/cryptocurrency/2023/usdc-stablecoin-value-recovers-after-dipping-as-low-as-86-cents/
+155
+USDC De-peg: What Happened On-Chain? - Nansen Research
+https://research.nansen.ai/articles/usdc-de-peg-what-happened-on-chain
+157
+158
+Misconfiguration in the Acala stablecoin project allows attacker to ...
+https://www.web3isgoinggreat.com/?id=misconfiguration-in-the-acala-stablecoin-project-allows-attacker-to-steal-1-2-billion-ausd
+159
+How Coinchange Protects Users from Crypto Exploits - Coinchange.io
+https://www.coinchange.io/zh/blog/how-coinchange-protects-its-users-from-crypto-exploits
+160
+Acala Stablecoins Near $1 Peg After Community Burns 1.2B aUSD ...
+https://www.coindesk.com/tech/2022/08/16/acala-stablecoins-nears-1-peg-after-community-burns-12b-ausd-minted-by-
+exploiters
+161
+The Fall and recovery of aUSD in 10 points | by Eloisa Marchesoni
+https://medium.com/@eloisa.marchesoni/the-fall-and-recovery-of-ausd-in-10-points-7deb7b654481
+28166
+167
+189
+190
+From Bank Cards to Stablecoins: Let's Learn from History, not Repeat It
+https://openbanker.beehiiv.com/p/learnfromhistory
+169
+From SWIFT to Stablecoins: A Practical Guide to the Payment Rails ...
+https://currenxie.com/company/articles-and-guides/from-swift-to-stablecoins-a-practical-guide-to-the-payment-rails-powering
+170
+Stablecoins Complement TradFi—Not Replace It: Pitchbook's 5 ...
+https://richturrin.substack.com/p/stablecoins-complement-tradfinot
+172
+173
+Stablecoins payments infrastructure for modern finance - McKinsey
+https://www.mckinsey.com/industries/financial-services/our-insights/the-stable-door-opens-how-tokenized-cash-enables-next-
+gen-payments
+174
+State of DeFi 2025 - DL News
+https://www.dlnews.com/research/internal/state-of-defi-2025/
+175
+Why Fortune 500s and SMBs Are Betting on Stablecoins. - LinkedIn
+https://www.linkedin.com/pulse/why-fortune-500s-smbs-betting-stablecoins-toronet-7xi4f
+176
+Fortune 500 Stablecoin Adoption Surges 250% in 2024 Meta ...
+https://www.ainvest.com/news/fortune-500-stablecoin-adoption-surges-250-2024-meta-acquires-49-stake-scale-ai-15-billion-
+netcapital-acquires-web3-gaming-platform-mixie-guggenheim-expands-digital-debt-offering-ripple-partnership-2506/
+179
+[PDF] The stablecoin plateau – from disruption to integration
+https://www.dbresearch.com/PROD/RI-PROD/PROD0000000000610103/The_stablecoin_plateau_-_from_disruption_to_integr.pdf
+186
+Tether USDT Will Be Available From 24,000 ATMs Across Brazil
+https://decrypt.co/112544/tether-usdt-will-be-available-from-24000-atms-across-brazil
+187
+Tether and Smartpay to Offer USDT at More Than 24,000 ATMs in ...
+https://news.bitcoin.com/tether-and-smartpay-to-offer-usdt-at-more-than-24000-atms-in-brazil/
+197
+Explainer: Ethereum's energy-saving Merge upgrade | Reuters
+https://www.reuters.com/technology/ethereums-energy-saving-merge-upgrade-2022-09-15/
+198
+Ethereum Blockchain Eliminates 99.99% of its Carbon Footprint ...
+https://consensys.io/blog/ethereum-blockchain-eliminates-99-99-of-its-carbon-footprint-overnight-after-a-successful-merge-
+according-to-new-report
+199
+Ethereum's energy usage will soon decrease by ~99.95%
+https://blog.ethereum.org/2021/05/18/country-power-no-more
+202
+Ethereum's 99% cut in energy use will curb crypto's climate footprint
+https://www.spglobal.com/market-intelligence/en/news-insights/articles/2022/9/ethereum-s-99-cut-in-energy-use-will-curb-
+crypto-s-climate-footprint-72145342
+206
+221
+Ethereum Dominates 2025: DeFi TVL Tops $99B, Stablecoin ...
+https://cryptopotato.com/ethereum-dominates-2025-defi-tvl-tops-99b-stablecoin-volume-hits-18-8t/
+214
+CCTP (Cross-Chain Transfer Protocol) - Circle
+https://www.circle.com/cross-chain-transfer-protocol
+215
+Circle CCTP | Wanchain - We Are All Connected!
+https://docs.wanchain.org/products/wanbridge/circle-cctp
+216
+Circle's Cross-Chain USDC Trading Hits All-Time High at $7.7 Billion
+https://beincrypto.com/circle-usdc-cross-chain-trading-record-high/
+29218
+All Chains DeFi TVL - DefiLlama
+https://defillama.com/chains
+219
+220
+DeFi TVL Hits Record $237B as Daily Active Wallets Plunge 22% in ...
+https://finance.yahoo.com/news/defi-tvl-hits-record-237b-181957477.html
+222
+223
+The State of Crypto Leverage: Q3 2025 Market Breakdown | Galaxy
+https://www.galaxy.com/insights/research/crypto-leverage-q3-2025-defi-cefi-lending-digital-asset-treasury-debt-futures-
+perpetuals
+225
+226
+Stablecoins to Hit $56T Valuation by 2030 - Yahoo Finance
+https://finance.yahoo.com/news/stablecoins-hit-56t-valuation-2030-090407498.html
+231
+Tether Quietly Becomes a Gold Giant as Reserves Smash 140 Tons ...
+https://www.mexc.com/news/581174
+30
