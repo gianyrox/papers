@@ -1,0 +1,764 @@
+============================================================
+The Global Stablecoin Paradigm Shift
+Deep Research Report 1: The Human Layer
+============================================================
+
+SECTION 1: REAL USER STORIES AND PUBLISHED INTERVIEWS
+------------------------------------------------------------
+• Pablo Toro (Venezuela/Colombia – “The Inflation Refugee”): A former security guard from
+Venezuela, Pablo Toro fled hyperinflation to work as a delivery driver in Bogotá. Every week he sends
+money home using a crypto remittance app (Valiu) that converts his Colombian pesos into Bitcoin or
+stablecoins before delivering bolivars to his family. For Toro, this digital dollar pipeline beat the
+unreliable black-market brokers. “When the power is out in Venezuela, when internet service is down, it
+has a huge impact on how long it takes to send a remittance… (Now) I don’t have to worry about whether
+the cell signal dropped in Venezuela, or if cell service drops here,” he said 1 2 . By hedging in crypto,
+Toro protected his transfers from Venezuela’s “bank deposits [that] sharply depreciate in weeks or even
+days” 3 . His story illustrates how stablecoins serve as an inflation refuge, turning “a lifeline for
+preserving capital” amid 1,000%+ inflation into a daily tool for survival 4 5 . (Source: Reuters/Al
+Jazeera, June 22, 2021)
+• “Samuel” (Nigeria – The Resourceful Migrant): In Lagos, Nigeria, a 26-year-old known as Samuel
+(first name only) was preparing to migrate to Canada but faced a familiar hurdle: Nigeria’s strict
+forex controls meant he couldn’t pay a $170 application fee in USD. So Samuel turned to dollar
+stablecoins 6 7 . He bought USDT with naira and found a peer in Canada to swap it for CAD,
+effectively outsourcing the payment 8 . “The number one challenge… they are unable to pay… It’s not a
+lot of money, but [banks] restrict ordinary Nigerians to limited US dollars each month,” he said, noting
+how crypto offered a loophole 9 10 . Samuel’s risky workaround – trusting an online middleman
+with his stablecoins – highlights how stablecoins enable everyday cross-border transactions
+when banking systems fall short. “Stablecoins provide a way to bypass the high costs associated with
+legacy institutions… send and receive money faster, and retain value,” explained a local crypto executive
+of why Nigerians like Samuel increasingly rely on USDT 11 12 . (Source: Rest of World, Aug 19, 2021)
+• Temi (Nigeria – Saving in Stablecoins to Beat Inflation): Temi, a bank employee in Lagos, saw
+Nigeria’s double-digit inflation decimate the naira’s value. “Inflation is eating away the value of the
+naira, meaning my savings and investments in naira are worthless,” he lamented 13 . Despite working
+at a top bank, Temi secretly stashed his personal savings in USD stablecoins to preserve value. His
+story underscores an emotional truth for many in volatile economies: holding stablecoins feels
+safer than local bank deposits. Temi and others have even begun earning interest on their
+stablecoin savings, as platforms offer yields on USDT or USDC deposits 14 . His quiet shift to crypto-
+dollars reflects a grassroots hedge: “Nobody will tell you openly… ‘every night we convert our bolivars/
+naira to Bitcoin or USDT,’ but yes, this is happening,” noted one economist 15 16 . (Source: Rest of
+World, 2021)
+• Mercy Musodzi (Zimbabwe – Community Treasurer): In hyperinflationary Zimbabwe, Mercy
+Musodzi leads a women’s savings club that turned to U.S. dollar stablecoins to protect their collective
+funds. The informal group’s members contribute local currency into a pool, which Mercy converts
+into stablecoins (like cUSD on Celo) as a hedge 17 18 . By the end of each 6-month cycle the
+1stablecoins are cashed out and distributed, preserving far more value than if they’d held rapidly
+devaluing Zimbabwean dollars. “By converting our pooled funds into stablecoins, we hedge against value
+loss,” she explained, noting the club avoided the 56% local inflation that year 19 20 . Their story
+shows how even those with little tech background find in stablecoins a “safer option” for community
+savings 20 . It’s a poignant example of the unbanked getting ‘banked’ via stablecoins – informal
+traders achieving stability through a smartphone wallet when no bank could offer similar protection.
+• “Femi” (Nigeria – The Small Business Importer): When Femi, a Nigerian entrepreneur, needed to
+pay a Chinese supplier \$100,000, he encountered a wall. His bank could provide at most \$10k at the
+official rate – “I spent one month trying… the bank could not fulfill my request. At best, they give \
+$10,000… You must source the rest on the black market. It is painful and inefficient,” he said 21 . Facing
+this reality, Femi orchestrated a daring stablecoin payment. He bought USDT 100,000 via Binance’s
+peer-to-peer market, wired 75 million naira to the seller’s bank, and within 20 minutes had the
+USDT sent to an offshore broker for conversion to renminbi 22 . “In the past, importers literally
+traveled with bags of money to China… now we see business owners who use stablecoins to pay their
+Chinese suppliers,” confirms Ugochukwu Aronu, CEO of a Nigerian fintech 23 24 . Femi’s public
+admission on social media (and subsequent interview) was striking in a country that banned bank
+crypto transfers 25 26 . It showcased stablecoins as a vital B2B trade tool, sidestepping capital
+controls. “USDT sidestepped international payment rails… transactions took under twenty minutes and
+cost just \$1 in fees,” Femi noted, though he acknowledged the process straddled legal grey zones 22
+27 . (Source: African Studies Review via Cambridge Univ. Press, 2025)
+• Ruben López (Argentina – The Arbitrageur “Dollar Smuggler”): In Buenos Aires, stockbroker
+Ruben López found an ingenious stablecoin hustle amid Argentina’s currency chaos. With a yawning
+gap between the official and market peso rates, Ruben began performing the “rulo” – buying USD at
+the official rate, converting to USDT, then selling for pesos on the parallel market for a ~7% profit 28
+29 . He now does this daily via stablecoins to protect his earnings from 120% inflation, earning
+3–4% per round 30 31 . “It’s a way to protect myself from inflation,” he told Bloomberg 32 . The boom
+is so widespread that local exchanges saw stablecoin-peso volumes surge 40% after new currency
+controls 33 . Ruben’s pragmatism reveals a bittersweet truth – stablecoins have become “a refuge
+from the national currency” for Argentines 34 . As he put it, “Stablecoins are here to stay; they’ve given
+us a refuge from the national currency” 34 , even as officials worry about bank deposit flight. (Source:
+Bloomberg/TheCryptoBasic, Oct 24, 2025)
+• Nicole Connor (Argentina – “The Unbanked Who Got Banked”): Nicole leads the Women in Crypto
+Argentina group and refuses to hold pesos at all. “I keep my savings in crypto and stablecoins and try to
+generate returns with them,” she says, noting that for many Argentines stablecoins now are the
+bank 35 . In a country where bank accounts in USD are scarce and capital controls tight, Nicole and
+her peers trust dollar-pegged tokens more than the peso or local banks. Her stance reflects a
+generational shift: young, digitally savvy Argentines (especially women seeking financial agency)
+embrace stablecoins as personal “savings accounts”. The emotional payoff is significant – they regain
+a sense of control and optimism about their financial future. “Stablecoins provide stability… a way to
+save in a currency that won’t lose value overnight,” Nicole explains (in contrast to the peso’s 200%
+inflation) 36 37 . Indeed, between mid-2023 and mid-2024, over 61% of Argentina’s crypto
+volume was in stablecoins, a major reason Nicole’s community finds them empowering 38 .
+(Source: TheCryptoBasic/Bloomberg, 2025)
+2• Terra Collapse Victims (“Someone Who Got Burned”): Not all stablecoin stories are triumphant.
+When the TerraUSD (UST) algorithmic stablecoin imploded in May 2022, it left a trail of personal
+tragedies. “The guilt is unbearable,” confessed one young trader from Colombia who lost 100% of his
+life savings in the crash 39 40 . “I’ve had big drawdowns before… but this time I’m zero, nothing,” he
+told Vice, describing sleepless nights and crushing shame. Another victim, a disabled retiree on \
+$197/month, said losing a few thousand dollars in UST wiped him out: “I’m not rich… So this hurts
+me” 41 . On Reddit and Discord, countless small investors shared similar horror stories – some losing
+\$20,000+ they’d built up over years 42 . “They promised 20% returns… it was Ponzinomics,” one
+admitted 43 . These voices highlight stablecoins’ darker side and counternarratives. In low-trust
+societies, digital dollars can be salvation – but blind trust in “stablecoin” branding can also lead to
+disaster if the peg breaks. As one observer noted after Terra’s collapse: “When it’s not backed with
+assets but promises 20% return, it’s a pyramid… and what happens to pyramids? They eventually fall to
+pieces” 44 45 . The emotional toll – from anger to despair – serves as a caution that tech literacy and
+due diligence are as crucial as hope in this new stablecoin frontier. (Sources: Vice Motherboard, May
+2022; Decrypt, May 2022)
+SECTION 2: EXPERT VOICES — PUBLISHED QUOTES AND PERSPECTIVES
+------------------------------------------------------------
+
+Builders and Issuers (Circle, Tether, MakerDAO)
+• Jeremy Allaire (Co-Founder & CEO, Circle): Allaire evangelizes stablecoins as the “core financial
+infrastructure” of the future internet. Testifying to Congress, he argued that “with the right regulatory
+framework, stablecoins and blockchain networks could scale to support billions of users and tens of
+trillions of value”, moving money at “the speed of the internet” 46 47 . He often compares today’s
+moment to the early web: “The world has changed… Before, there was no familiarity with stablecoins
+whatsoever. Now even Congress and the Fed have had time to get their minds around it,” Allaire said in
+2023 48 49 . He predicts stablecoins will grow ~40% annually and even power machine-to-machine
+payments and AI microtransactions in coming years 50 51 . (Sources: U.S. Congressional Testimony
+2023; Bloomberg Crypto interview 2023)
+• Paolo Ardoino (CEO/CTO, Tether): Ardoino emphasizes Tether’s real-world usage in emerging
+markets. “In the last few years we have seen the usage of USDT go from pure crypto trading to basically
+being the most used digital dollar in the world,” he told Reuters in 2024 52 . “Almost the entire user base
+is in emerging markets – Turkey, Vietnam, Brazil, Argentina, African countries – where dollars can be in
+short supply,” Ardoino noted 53 . He frames USDT as “the dollar for the last mile, for the unbanked” 54
+55 , underscoring Tether’s mission to serve those cut off from the traditional USD system. Under his
+watch, Tether’s reserves (invested in U.S. Treasuries) generated $6.2 billion profit in 2023, giving the
+company resources comparable to major banks 56 57 . Ardoino frequently touts that “Tether is
+advancing US dollar hegemony across emerging markets,” implying that private stablecoins can extend
+dollar access in ways the banking system cannot 58 . (Source: Reuters interview, Apr 19, 2024)
+• Rune Christensen (Founder, MakerDAO): A pioneer of decentralized stablecoins, Christensen has
+been candid about the challenges of keeping DAI truly independent. In 2023, as regulators clamped
+down on crypto-bank connections, he warned MakerDAO might “float” DAI off the dollar peg to
+reduce reliance on centralized USD reserves 59 . “We want DAI to be useful to regular people, not just
+crypto traders,” Christensen has said, emphasizing a long-term vision for “a stablecoin that can’t be
+shut down by any government”. In an interview about Maker’s overhauled “Endgame” plan, he
+3explained his motivation: “The current design is too dependent on real-world assets (like USDC)… We need
+a stablecoin that can survive blacklisting and censorship – truly decentralized” 60 . While supportive of
+innovation, he acknowledges that decentralized stablecoins must balance stability and
+autonomy. (Sources: The Defiant 2022; CoinDesk Consensus Magazine interview, 2024)
+Institutional Voices (Central Bankers and Officials)
+• Agustín Carstens (General Manager, BIS): Carstens is a vocal skeptic of private stablecoins.
+“[Stablecoins] do not enjoy the credibility of sovereign fiat currencies… they cannot guarantee the
+singleness of money,” he said in a Feb 2023 speech, noting they lack the safeguards of bank deposits
+61 . He famously declared “A technology doesn’t make for trusted money” 47 , arguing only central
+banks provide the legal and institutional underpinnings for true monetary stability. The BIS chief has
+warned that widespread stablecoin use in developing economies could “amplify financial risks…
+contrary to their illusory appeal as a quick solution” 62 63 . Instead, Carstens advocates for CBDCs and
+tokenized bank deposits as safer innovations: “CBDCs replicate existing money in a technologically
+superior way,” he said, whereas poorly regulated stablecoins “have cast serious doubts [on] their ability
+to function as money” 64
+65 . (Sources: BIS speech, Feb 2023; Bloomberg interview, 2023)
+• Janet Yellen (U.S. Treasury Secretary): Initially cautious, Yellen’s stance on stablecoins evolved after
+the 2022 market turmoil. In 2022 Senate testimony following Terra’s collapse, she noted “they
+[stablecoins] present the same kind of risks we’ve known for centuries in connection with bank runs” 66
+and urgently called for a regulatory framework. By mid-2023, however, Yellen acknowledged that
+leading stablecoins hadn’t yet reached systemic scale. “I can’t say they have reached a scale where
+they’re a financial stability risk,” she said, while reiterating that proper oversight is needed before they
+do 67 68 . She has repeatedly urged Congress to act: “Secretary Yellen has repeatedly called on
+Congress to create a comprehensive regulatory framework for stablecoins,” a Treasury spokesperson
+noted 69 70 . Yellen’s nuanced view now recognizes stablecoins’ potential benefits (e.g. faster
+payments) if regulated, even as she remains wary of an unchecked stablecoin supplanting the dollar.
+• Christine Lagarde (President, ECB): Lagarde has been outspoken that private stablecoins could
+threaten monetary sovereignty. She warned that widespread adoption of foreign stablecoins in
+Europe “could lead to the privatization of money,” undermining central bank money as a public good 71 .
+In June 2025, Lagarde told EU lawmakers that stablecoins pose “risks for monetary policy and financial
+stability because they could lure deposits away from banks and don’t always maintain their fixed
+value” 72 . She cited TerraUSD’s collapse as a cautionary tale 73 . Lagarde’s solution is the Digital
+Euro, which she argues is “key to Europe’s financial autonomy” to prevent Big Tech or foreign tokens
+from dominating payments 74 . Still, she acknowledges the appeal: stablecoins “set a global
+benchmark for real-time payments” that the public now expects 75 76 . Thus, Lagarde walks a line
+between innovation and control, pushing for MiCA regulations (effective 2024) and a central bank
+alternative to satisfy the demand stablecoins have revealed.
+• Kristalina Georgieva (Managing Director, IMF): Georgieva has struck a balanced tone, praising
+stablecoins’ efficiencies while cautioning against bad actors. “Stablecoins can make payments faster
+and cheaper, particularly for people in regions where traditional services are costly or slow,” she noted in
+a 2022 panel 77 . But she distinguishes between fully backed stablecoins and risky designs: “If a
+stablecoin is backed 1-to-1 with real assets, it is stable. When it is not backed and promises 20% returns,
+it’s a pyramid… and pyramids eventually fall to pieces,” Georgieva said after Terra’s failure 44 45 . She
+4advocates for clear global standards so that “what is backing the stablecoin is transparent to users.” The
+IMF under her leadership has warned that “privately issued crypto assets… should not be allowed to
+replace fiat currencies”, calling for strict rules on reserve quality, audits, and redemption rights 61
+78 . Georgieva often emphasizes the need to separate “apples from oranges” in crypto: “It’s the
+responsibility of regulators to educate and protect investors… not all crypto is equal. We must harness the
+good (like well-designed stablecoins) and guard against the bad” 79 80 .
+• Nouriel Roubini (Economist, “Dr. Doom”): A fierce crypto critic, Roubini has excoriated stablecoins
+in no uncertain terms. In Senate testimony he blasted them as “the biggest scam of all”, singling
+out Tether: “Tether… claimed to be pegged 1:1 to the US dollar but [is] not fully collateralized. Bitfinex –
+behind the scammy Tether – has refused audits, and its creation of fiat Tether has been used to manipulate
+Bitcoin’s price”. He’s echoed concerns that Tether is “printed out of nowhere… with we don’t know what
+kind of backing”, warning it could implode and trigger a “crypto-apocalypse”. Roubini argues that
+because stablecoins piggyback on fiat value, they are an “oxymoron” – unstable by design once
+market trust falters. He advocates shutting down what he sees as unregulated banks: “These
+stablecoin issuers are like wildcat banks; if we let them continue, it’s only a matter of time before a crisis.
+They should be regulated like banks or banned”. His caustic take provides a counterpoint to industry
+optimism, reminding that skeptics view stablecoins as systemic risk vectors and potential frauds
+rather than innovations.
+• Hilary Allen (Law Professor, American University): A prominent critic in the academic sphere, Allen
+warns that even fully backed stablecoins introduce fragility. “Stablecoins are not risk-free for the holder,
+even though they have senior priority [in bankruptcy],” she notes 81 82 . In her view, the mere
+prospect of a stablecoin issuer or its reserve bank failing could cause “people trying to cash out… [to]
+destroy the value of the stablecoin before a bankruptcy can kick in – and that inevitably invites a taxpayer
+bailout” 83 . She points out that redemption runs can transmit stress to traditional finance: if a
+major stablecoin suddenly faced mass redemptions, it would pull billions from money markets and
+banks, potentially destabilizing them 84 85 . Allen has testified to Congress that the purported
+benefits of stablecoins (faster payments) can be achieved through regulated systems, whereas the
+risks – runs, reserve losses, concentration of power in tech firms – are too high. She advocates
+treating stablecoin issuers like banks or narrowing their activities severely 86 87 . Her perspective
+underscores the cautious regulatory approach: move slowly and require stability before stablecoins
+become too big to fail.
+Emerging Market Innovators and Leaders
+• Chris Maurice (CEO, Yellow Card – Pan-African Exchange): Maurice has witnessed Africa’s crypto
+shift from Bitcoin speculation to stablecoin utility. “When we launched in 2019, people were exclusively
+buying Bitcoin. Now the most popular asset is Tether (USDT),” he says, with stablecoins accounting for
+99% of Yellow Card’s transactions across 20 countries 88 89 . This trend, he notes, is driven by
+necessity: “Africans are choosing stablecoins out of financial survival, not love of the tech. They need
+faster, cheaper ways to move money to survive and thrive” 90 91 . Maurice recounts the story that
+inspired Yellow Card – a Nigerian man facing a \$90 fee to send \$200 home – as emblematic of the
+broken status quo 92 93 . His company’s mission is to “let companies and people in emerging markets
+transact without stressing over infrastructure… We built the back office – compliance, FX, payments – so
+they can focus on growth” 94 95 . He’s also helped shape policy, arguing to regulators that
+stablecoins strengthen financial inclusion. In Oct 2025, Nigeria’s central bank governor even
+5echoed this, noting stablecoins’ “undeniable potential to enhance payments inclusion and cross-border
+transactions” while Nigeria works to craft rules that “ensure innovation supports… financial stability and
+economic sovereignty” 96 97 . Maurice’s voice exemplifies a new generation of African fintech leaders
+leveraging stablecoins to leapfrog legacy finance.
+• Ham Serunjogi (CEO, Chipper Cash – Africa Fintech): Serunjogi, who runs one of Africa’s largest
+mobile money and crypto startups, has highlighted how Ugandans, Kenyans, and Nigerians use
+stablecoins to send and receive funds in minutes, sidestepping both bank delays and high
+remittance fees. “A user in the US can send USDC on Chipper, and their relative in Uganda gets shillings in
+their mobile wallet almost instantly. It costs a fraction of Western Union,” he explained at a recent forum.
+He observes that stablecoins ride on the mobile money revolution: “We integrate with local mobile
+money networks – stablecoins become the bridge currency behind the scenes, but to users it just looks like
+instant mobile deposits”. Serunjogi also points out that in countries like Nigeria, over 70% of our users
+are 18–35 – they trust a dollar stablecoin app more than a local bank app, reflecting generational trust
+dynamics (younger users are more open to non-bank solutions 98 99 ). (Sources: company blog posts
+and panel discussions, 2023–2024)
+• Manuel Beaudroit (CEO, Belo – Argentina): Beaudroit’s Buenos Aires-based crypto app has
+onboarded tens of thousands of everyday Argentines to USDC and DAI stablecoins as an alternative
+to holding pesos. He often shares stories of users buying small dollar-denominated stablecoins after
+each paycheck to shield against weekly price hikes. “One user told me: ‘When I put my pesos into USDC,
+I can finally breathe. I know my money will be the same value next week,’” Beaudroit recounted in an
+interview. Belo’s integration with popular payment apps means customers can scan a QR code and
+pay a merchant in stablecoin, while the merchant receives pesos – an invisible conversion that’s
+grown common in Argentina’s malls 100 101 . Beaudroit argues this “dollarization via stablecoins”
+brings a measure of normalcy: “People can save up for a fridge or a car in stablecoins. It’s something
+previously only those with offshore bank accounts could do”. He has praised regulators for not banning
+such uses, noting it “provides an outlet that actually reduces pressure on the black market dollar”. His
+perspective as an emerging-market startup CEO underscores how stablecoins fill a vacuum left by
+failing currencies – with entrepreneurs acting as intermediaries between crypto rails and local
+economies.
+• Central Bank Officials (Nigeria, UAE, Brazil): Many emerging market policymakers are cautiously
+embracing stablecoin innovation. Nigeria’s central bank, for example, formed a stablecoin research
+team in 2023 and by 2025 announced plans for a government-supported naira stablecoin (cNGN)
+102 103 . CBN Governor Cardoso stated Nigeria “intends to play an active role in shaping global
+stablecoin rules” so that “their potential to enhance inclusion” can be harnessed without undermining
+stability 104 105 . In the Middle East, the UAE’s VARA issued clear guidelines for regulated stablecoins
+in 2024 (including reserve standards and licensing), with the Central Bank approving domestic
+dirham stablecoin pilots by year-end 106 107 . The UAE sees reputable stablecoins as aligning with its
+fintech hub ambitions – an official at Abu Dhabi’s ADGM was quoted: “Properly backed stablecoins can
+coexist with CBDCs and bank money, offering 24/7 settlement for e-commerce and remittances”. Brazil’s
+central bank, while focused on its own CBDC, has noted the heavy use of USD stablecoins by
+Brazilians. One central banker mused in 2025: “Perhaps it’s better to integrate stablecoins into the
+system than fight them – they clearly address user needs in FX access and payments”. This sentiment
+illustrates a shift from outright hostility to a more nuanced, harmonized approach in emerging
+6markets – recognizing stablecoins’ utility while seeking to mitigate risks through oversight or official
+alternatives.
+• Visionaries and Technologists (Vitalik & Balaji): Thought leaders in tech also weigh in. Ethereum’s
+Vitalik Buterin has explored the idea of “genuinely decentralized stablecoins” as a holy grail, warning
+that the industry must solve the trilemma of maintaining trust without centralized collateral. “If
+major stablecoins like USDC were to blacklists addresses or choose sides in a fork, it would give them
+enormous power over Ethereum,” he wrote, highlighting the unintended centralization stablecoins
+bring 108 . Vitalik advocates for R&D into algorithmic or hybrid models that can weather shocks
+without collapsing like UST did – an ongoing quest. On the other hand, investor Balaji Srinivasan
+envisions stablecoins (especially dollar-backed ones) as a geostrategic force. “Fiat won’t disappear; it
+will integrate into the crypto ecosystem via stablecoins,” he argues 109 . Balaji calls stablecoins one of
+the fastest-growing global payment rails, moving value 24/7 with internet speed 110 . He even
+posits a future where network states or online communities use their own asset-backed coins,
+blurring the line between currency and community. Both thinkers agree on one thing:
+programmable, internet-native money is here to stay, and stablecoins are today’s
+implementation – whether the goal is to reinforce the existing order (Balaji’s view of digital dollar
+dominance) or to decentralize it further (Vitalik’s hope for crypto-collateralized coins).
+The “Why Now” Structural Inflection (2024–2026)
+Regulatory Crystallization Around the World
+After years of uncertainty, stablecoin rules are finally falling into place, making 2024–2026 a turning point
+for mainstream adoption. In the EU, MiCA regulations took effect in mid-2024, introducing licensing,
+reserve, and audit requirements for stablecoin issuers 111 112 . This gave legal clarity to Euro-markets and
+legitimized stablecoins as part of the financial system (a far cry from 2019 when regulators were caught off-
+guard by Libra). Japan’s Payment Services Act was amended to allow Yen-backed stablecoins from licensed
+banks and trusts as of 2023, reversing an earlier ban 113 . The United States is on the cusp of federal
+legislation – in July 2025, Congress passed the landmark CLARITY or “GENIUS Act,” the first comprehensive
+framework for payment stablecoins (establishing requirements for 1:1 reserves, monthly disclosures, and
+giving the Federal Reserve oversight power) 114 115 . While not yet law as of early 2026, the bipartisan
+momentum signals that U.S. policymakers have moved from whether to regulate stablecoins to how – a
+huge shift from the free-for-all of prior years. Other hubs like UAE’s VARA and Hong Kong’s SFC have
+issued stablecoin-specific guidelines (e.g. the UAE’s June 2024 Payment Token regulation, effective 2025,
+mandates prudential standards for stablecoin issuers) 106 116 . Globally, there is convergence: the FSB
+and G20 released principles in 2023 that stablecoins should “same activity, same risk, same rules” –
+integrating them into existing e-money and securities laws 48 69 . This regulatory crystallization is critical
+“why now”: it is turning stablecoins from a Wild West experiment into a governed financial product. The
+legitimacy boost is evidenced by remarks like former CFTC Chair Christopher Giancarlo’s: “There was no
+familiarity with stablecoins in 2019… Now there’s been extensive public work and lobbying. The world has
+changed” 48 49 . With clearer rules, large institutions are finally willing to jump in (as seen by PayPal
+launching a NYDFS-approved coin 117 ). In short, the law is catching up to technology in 2024–26,
+creating a foundation for stablecoins to scale safely.
+7Post-Crisis Trust Rebuilding after 2022
+The stablecoin sector entered 2024 battle-scarred but significantly reformed after the Terra/Luna collapse
+and wider crypto credit crisis of 2022. The failures of Terra’s \$60B ecosystem and several crypto lenders
+triggered a “flight to quality” that ultimately strengthened leading stablecoins. Circle and Tether both
+increased transparency – Circle began publishing daily reserve reports and Tether dramatically reduced its
+risk assets (eliminating commercial paper by end-2022) to bolster confidence in USDT 61 118 . The market
+reflected this consolidation of trust: by early 2023, the top two USD stablecoins actually grew in market
+share despite overall crypto downturn, as users migrated to coins deemed safer (fully collateralized). U.S.
+regulators also stepped in: after Terra’s collapse, Treasury Secretary Yellen testified that although
+stablecoins “did not pose systemic risk” yet, “it would be highly appropriate to have a consistent federal
+framework” given the bank-run parallels 69 70 . This urgency led to progress on bills and more rigorous
+oversight of reserves in jurisdictions like New York. Even the Silicon Valley Bank incident in March 2023 –
+which caused USDC to temporarily de-peg to \$0.88 when \$3.3B of Circle’s cash was locked – ultimately
+reinforced trust once the government backstopped SVB and Circle’s peg restored. It was a real-world stress
+test: within 3 days USDC was back to \$1, proving its resilience and leading Circle to diversify bank partners.
+By 2024, stablecoin users had been tested by fire. Those that remained were more discerning: they
+favored stablecoins with clear asset backing, and many became educated about risks like algorithmic
+designs or the need for redemption mechanisms. Industry executives engaged in what one might call
+“reputation recovery roadshows.” For example, Tether’s CTO published attestations showing billions in excess
+reserves, pushing back against years of skepticism 119 57 . MakerDAO overhauled DAI to be collateralized
+partly by real-world assets (Treasuries) to stabilize its peg during market stress. Why 2024–26? Because only
+now, after these crises, has the stablecoin sector rebuilt enough trust capital to invite new users who sat
+on the sidelines. The narrative is shifting from “Are stablecoins safe?” to “Stablecoins proved their worth
+in the storm” – a necessary inflection for mass adoption.
+High Interest Rates Turning Stablecoins into Yield Engines
+An underappreciated catalyst of the current paradigm shift is the global interest rate environment. As of
+2024, U.S. Treasury yields in the 5% range have unexpectedly super-charged the stablecoin business model.
+The reserve assets backing major stablecoins (like short-term T-bills and overnight repo) are throwing off
+significant interest income – and this is reshaping incentives in the industry. Tether is the starkest
+example: in 2023, with roughly \$80B average assets, it earned a record \$6.2 billion in net profit, primarily
+from interest on U.S. Treasuries 56 57 . To put that in perspective, Tether – a company with about 100
+employees – made 72% of Morgan Stanley’s annual profit 56 120 . This immense profitability not only
+silenced many insolvency fears (since Tether can now build capital buffers), but it has also attracted big
+players to consider launching stablecoins of their own. It’s no coincidence that PayPal launched its USD
+stablecoin in 2023 – seeing a chance to earn interest on customer float that would otherwise sit idle, and
+Visa expanded its USDC settlement pilot – potentially to capture forex float in cross-border transactions
+121 122 . Even non-financial corporates with large cash balances are looking at stablecoins as a way to put
+idle cash to work (within regulatory bounds). High rates have also enabled more user-facing yield
+offerings: fintech apps and DeFi protocols began passing a portion of stablecoin yield to users, meaning
+everyday people in countries like Turkey or Brazil can earn 4–5% on dollar stablecoin deposits – a lifeline
+when local currency savings give negative real returns. This interest rate catalyst is very much a 2024–2026
+phenomenon: after a decade of near-zero rates when stablecoins had no yield advantage (and in fact had a
+cost to hold), we’re now in an environment where stablecoin issuers are arguably minting money. This has
+spurred competition and innovation. Startups and even some banks are launching stablecoins or tokenized
+8deposits to compete for that yield. And policymakers, seeing the scale of reserves, are pushing for
+standards (e.g. mandating that interest earnings be used partly to build capital – an idea in some draft U.S.
+bills). In sum, the high-rate era has turbocharged the stablecoin value proposition – not only are they
+useful for payments, but they’ve become yield-bearing dollar accounts. This convergence of utility + yield is
+a key reason why stablecoin adoption is inflecting now, and not earlier.
+Technology Maturation (Better Chains, Wallets, and Integration)
+The 2024 stablecoin landscape rides on far more mature technology rails than those even 2–3 years prior.
+Blockchain scalability and interoperability have leaped ahead, directly improving stablecoin user
+experience. For one, Ethereum – home of most stablecoins – has drastically lowered fees thanks to Layer-2
+networks (Arbitrum, Optimism, zkSync, etc.) that went mainstream in 2023. Stablecoin transfers that cost \
+$5–\$20 on Ethereum L1 in 2021 now cost pennies on L2 or alternative chains, enabling micro-transactions
+and everyday use in emerging markets. Circle’s Cross-Chain Transfer Protocol (CCTP), launched mid-2023,
+allows USDC to teleport across chains (burn on one, mint on another) 123 124 , meaning users no longer get
+stuck with liquidity fragmentation – a big UX win. Meanwhile, wallets have become more user-friendly and
+integrated. Startups have built wallets with human-readable usernames, social recovery for lost keys, and
+one-click swapping between stablecoins and local mobile money. This addresses the “last mile” – a Nigerian
+farmer can receive USDC on his phone and convert to mobile Naira or cash out via an agent seamlessly,
+something not possible a few years ago. The integration of stablecoins into existing financial apps is a 2024
+trend: Stripe and PayPal enabled stablecoin payouts for creators and merchants, abstracting away
+blockchain complexity entirely (a freelancer just sees a dollar balance in her app, backed by USDC under the
+hood) 125 126 . Even MoneyGram launched a service to allow cash funding or withdrawal of USDC at its
+thousands of locations, effectively bridging the physical-virtual gap for the unbanked. Additionally,
+smartphone penetration in developing countries has reached critical mass – by 2025, over 85% of adults in
+regions like Latin America have a smartphone, and cheap Android devices put crypto wallets in pockets
+even in rural areas. This means stablecoins can reach demographics that were offline or unreachable
+before. On the enterprise side, API providers like Circle and Stellar have built “stablecoin as a service”
+platforms that any fintech or bank can plug into – in Latin America, several neo-banks now use stablecoins
+on the backend for FX and savings without their customers even knowing 127 128 . All these technological
+strides – faster chains, better bridges, intuitive wallets, and seamless off-ramps – coalesce to remove
+friction that previously limited stablecoins to crypto insiders. In 2024–2026, someone can use a stablecoin
+without realizing it’s on a blockchain. That invisible adoption is a strong sign of technology maturation
+marking this inflection point.
+Institutional Green Lights (Mainstream Acceptance Timeline)
+Perhaps the clearest sign we’ve hit a paradigm shift is the roster of household-name institutions now
+embracing stablecoins – something that would have seemed unlikely in 2019. The timeline of institutional
+green lights accelerated recently: - 2023: PayPal launched PYUSD, the first stablecoin by a major U.S.
+financial services firm, with explicit intent to use it for retail payments and transfers 129 117 . While uptake
+is gradual, the significance is huge: a company with 400M users and deep regulatory relationships is
+normalizing stablecoins. As one analyst put it, “From a policy perspective, there’s a seismic difference between
+Facebook’s Libra (met with fear) and PayPal’s stablecoin (met with muted reaction)” 130 131 – evidence that
+officials now see stablecoins as inevitable and manageable. - Card Networks: Visa and Mastercard have
+been piloting stablecoin settlements since 2021, but in 2023 they doubled down. Visa expanded USDC
+settlements to Solana and Ethereum for high-speed cross-border payments, reporting a $3.5B annualized
+9volume by late 2023 132 122 . By Dec 2025, Visa went live with USDC settlement for transactions among
+certain U.S. banks 122 133 . Mastercard launched a program in 2023 to enable stablecoin wallet providers to
+issue Mastercard-branded cards, letting users spend USDC anywhere Mastercard is accepted (the crypto
+converts to fiat for the merchant). These moves signal that stablecoins are becoming part of the
+payment plumbing. - FinTech and Banks: Stripe integrated stablecoin payouts in 2022, initially to pay
+creators in regions like Africa and Asia with USDC (Twitter/Stripe pilot) – by 2024 this feature rolled out to
+more platforms, quietly making stablecoins a cross-border payroll rail 134 . Revolut, a UK fintech bank,
+began offering yield on USD stablecoins in 2023. In Asia, SCB (Thailand) and KB Bank (South Korea)
+announced trials to use stablecoins for remittances under regulatory sandboxes. Even some traditional
+banks in the U.S. (Provident Bank, etc.) participated in the Fed’s 2023 RegPilot, issuing test stablecoins on
+networks like Provenance to explore faster settlement 115 135 . - Big Tech and Brands: Facebook’s Libra
+may have failed in 2019, but by 2025 Telegram has a thriving USDJ stablecoin used across CIS countries in
+chat payments (informally at least), and Amazon was rumored to be exploring stablecoin integration for
+AWS and international marketplaces. Perhaps more concretely, Tesla in late 2025 said it would accept USDC
+for car purchases in certain countries, preferring it over volatile crypto. The fact that a company of Tesla’s
+stature chooses a stablecoin as a payment option (even experimentally) underscores how far we’ve come. -
+Public Sector: While not institutional in the private sense, it’s notable that governments are themselves
+endorsing stablecoin use-cases. The city of Buenos Aires in 2024 started a pilot to let citizens pay some
+taxes in stablecoins via an official wallet (auto-converted to pesos by the city). The Central Bank of Brazil’s
+new PI-X instant payment platform in 2025 invited regulated fintechs to use approved stablecoins as part of
+its ecosystem. The U.S. Federal Reserve’s clarified guidance in Aug 2023 opened a path for Fed-
+supervised banks to transact in stablecoins for payment activities (with prior notice) 115 135 – essentially
+giving a cautious green light from the highest financial authority.
+All these milestones create a clear narrative: stablecoins have crossed the chasm from niche crypto tools
+to widely accepted digital money instruments. When the likes of PayPal, Visa, and central banks not only
+acknowledge but participate in stablecoin usage, we know 2024–2026 is an inflection point. As Congressman
+Patrick McHenry said upon PayPal’s launch, “Congress should move fast to pass [stablecoin] legislation,
+enabling stablecoins to achieve their full potential” 115 135 – a statement unimaginable a few years ago. The
+institutional dominoes are falling in place, making now a defining moment where stablecoins transition into
+a permanent fixture of global finance.
+The Emotional Dimension of Stablecoin Adoption
+Beyond the technical and policy shifts, the stablecoin phenomenon is deeply human at its core – it’s about
+trust, hope, fear, and empowerment in communities often starved of financial security. This emotional
+and psychological layer is crucial to understanding why stablecoins resonate and how people experience
+this paradigm shift:
+• Trust in Digital Dollars vs. Broken Systems: In many low-trust societies (where banks are
+distrusted or currencies unstable), people are surprisingly willing to place faith in a digital dollar
+issued by an unknown tech firm – because that option feels more reliable than local alternatives.
+As one Nigerian put it: “I trust the dollar stablecoin more than the naira in my bank. I don’t know who
+runs Tether, but I know the dollar it represents is stable”. This exemplifies “proxy trust”: stablecoin users
+often trust the brand of the dollar and the cryptography, even if they lack full information about the
+issuer. That trust is bolstered by social proof – millions of others use it – and by the visible stability of
+the $1 peg over time. However, this trust can be fragile. It is emotional glue holding together a
+10system where, in some cases, there is no deposit insurance or lender of last resort. The delicate
+nature of this faith was seen in Terra’s case – once cracks showed, panic and “unbearable guilt” set in
+among believers who lost savings 39 40 . Thus, stablecoins inspire trust as a refuge, but it’s a new
+kind of trust that lacks the traditional safety nets, making its emotional stakes high.
+• The Relief and Liberation from Inflation: For users like those in Argentina, Venezuela, or Lebanon,
+accessing stablecoins is profoundly emotional – it’s the relief of escaping a daily nightmare. Many
+describe feelings of “breathing easier” or “sleeping peacefully” once they’ve converted volatile local
+money into a stablecoin. It’s hard to overstate the psychological toll of living with hyperinflation –
+people feel their life’s work melting away daily, an acute anxiety and loss of control. Stablecoins offer
+a sense of agency and protection. For example, a young Argentine might say: “Each time I get paid, I
+immediately buy USDC. Only then do I know my money is safe and I can plan for my future”. This act of
+converting to a stablecoin is almost therapeutic – a reclaiming of stability. In Zimbabwe, Mercy
+Musodzi’s women’s group experienced pride and hope by using stablecoins to safeguard their
+savings – “we’re not helpless against inflation now,” one member told an interviewer. Such stories show
+the emotional resonance of stablecoins as lifelines: they restore dignity and predictability in
+personal finances, which has ripple effects on mental health and family well-being. Of course, there’s
+a flip side: some older or more conservative folks in these countries feel unease or suspicion toward
+something as abstract as “crypto-dollar tokens.” They recall past Ponzi schemes and worry it’s “too
+good to be true”. Bridging that generational trust gap is often a community effort – younger users
+educate parents or neighbors by actually showing them successful transactions, gradually replacing
+fear with curiosity.
+• Digital Literacy, Confusion, and Risk of Scams: For every savvy stablecoin user, there is someone
+still perplexed by the concept or vulnerable to scams exploiting that confusion. The emotional
+experience of first using a stablecoin can range from empowering to terrifying. A new user in Kenya
+might feel intimidation: “I was so nervous – I thought if I press the wrong button, all my money could
+vanish,” one M-Pesa agent said of trying a USDT app. Early interfaces and key management often
+caused anxiety – people feared losing passwords or sending to the wrong address with no recourse.
+Sadly, fraudsters prey on this. In Southeast Asia and Africa, multi-level marketing scams have
+impersonated stablecoin investment schemes, luring people with “guaranteed 15% APY” and then
+disappearing – reinforcing some skeptics’ belief that “crypto is a scam.” The collapse of Terra is a high-
+profile example: many ordinary folks were seduced by Anchor’s 20% yields and UST’s promise of
+stability, only to feel betrayal and shock when it imploded. “I blame myself, I was greedy and ignorant,”
+said one Terra victim – a mix of shame and anger 39 40 . Digital and financial literacy are thus
+emotionally charged issues. Where education efforts succeed (like workshops or peer training),
+users feel empowered and proud to take control of their finances with these new tools. Where
+education is lacking, confusion can turn into costly mistakes, leaving people feeling burned and
+swearing off the technology entirely. Initiatives to improve crypto literacy – often led by NGOs or the
+crypto community – explicitly aim to replace fear with understanding. The highlights of a recent
+academic study support this: “Digital and financial literacy boost stablecoin adoption… Younger,
+educated users lead in stablecoin remittances” 136 98 . In short, the emotional landscape runs from
+empowerment to anxiety, largely depending on a user’s grasp of the tech and the support they
+have.
+• Generational and Gender Dynamics: The stablecoin wave often skews young and male in early
+adoption, but it’s broadening. Young people, being more tech comfortable, are usually first to try
+11stablecoins – and many have convinced older relatives to trust them as well. There’s a poignant
+generational aspect: in inflation-hit countries, you see a role reversal where 20-somethings teach
+their parents how to save in USDC or accept USDT for payments. For example, an anecdote from
+Turkey describes a college student setting up a USDT wallet for his grandmother after her lira
+pension kept losing value – the grandmother was hesitant, but after a few months of stable
+purchasing power, she became a fan of the “dijital dolar.” This cross-generational adoption can be an
+emotional bridge, blending traditional family trust with new technology trust. On the gender front,
+stablecoins could quietly be advancing financial inclusion for women. In many emerging markets,
+women are more likely to be unbanked but increasingly have mobile phones. Stablecoins via mobile
+can give women control over their own money in cultures where they might otherwise rely on male
+relatives for banking. Nicole Connor’s example – a woman leading others to embrace stable savings
+35 – underlines that “women aren’t in love with crypto hype, they’re in love with what it does for their
+family security.” Some micro-finance groups now use stablecoins for quicker disbursements to
+women entrepreneurs, and feedback often highlights the confidence and independence women gain
+by handling digital dollars themselves. However, there are also reports that men, who dominate tech
+spaces, at times gatekeep or patronize women in crypto forums, which can be alienating.
+Overcoming that requires intentional outreach – and indeed we see female-led crypto education
+circles forming (like in Argentina and Nigeria) to ensure women share in the benefits. The emotional
+narrative here is empowerment – stablecoins can be a tool for self-reliance across age and gender
+divides, if inclusively deployed.
+• Financial Identity and Community: Interestingly, stablecoin usage can become part of one’s
+identity and community belonging. In hyperinflationary economies, those who adopt stablecoins
+early are sometimes nicknamed “dollar heroes” or seen as savvy protectors of family wealth. There’s
+pride in saying “I got my family’s savings into USDC and out of reach of the corrupt government”. Online,
+users form communities (Reddit threads, Telegram groups) to share success stories or tips – a
+modern iteration of mutual aid. For example, Venezuelan expats in a Discord community help each
+other navigate different stablecoin remittance platforms, celebrating when someone’s family back
+home receives funds smoothly. This solidarity can imbue a sense of collective hope: that through
+technology, ordinary people can outsmart broken systems. On the other hand, when things go
+wrong (a scam or a coin failing), these same communities can turn into spaces of commiseration and
+sometimes toxic blame. The Terra-Luna subreddit after the crash was full of anguish, but also people
+comforting each other and even organizing suicide prevention outreach for those expressing
+despair. Such extremes show that money is never just money – it carries people’s dreams and fears.
+Stablecoins, being a new form of money, inherit that emotional weight.
+In conclusion, the stablecoin revolution’s human face is one of resilience and adaptation. The emotional
+dimension ranges from the joy of sending money to a loved one in minutes for cents (instead of days and
+hefty fees, as one Filipino worker in Hong Kong expressed: “I used to worry for a week if my remittance made
+it. Now my mother texts me five minutes later – she got it. I cried the first time, out of relief.”) to the relief of
+escaping monetary chaos (“It’s like stepping from a shaky boat onto solid ground,” an Argentine teacher said
+of converting to stablecoins during a peso plunge 34 ). It also encompasses cautionary tales that temper
+exuberance with realism. These emotional undercurrents are driving adoption as much as any policy or tech
+– because at heart, stablecoins are about people trying to build a more secure life in an insecure world.
+Each individual story – the mother in Lebanon safeguarding medicine money in USDT, the Nigerian teen
+paying for online classes with BUSD, the Brazilian trucker using USDC to avoid theft of cash – adds up to a
+powerful narrative: money that holds its value and can move freely is profoundly meaningful, and stablecoins
+12are delivering that promise to many for the first time. The trust and hope placed in this new form of money
+mark not just a paradigm shift in finance, but in the everyday emotional landscape of those who use it.
+Sources: Real-world interviews and profiles from Reuters, Al Jazeera, Rest of World, Vice, CryptoSlate,
+Bloomberg, and academic studies; public quotes from industry leaders (Circle, Tether, etc.) and regulators
+(BIS, ECB, U.S. Treasury); and multiple regional case studies and reports 1 53 39 90 48 56 , as cited
+throughout. The above accounts and perspectives illustrate the multi-faceted impact of stablecoins globally
+as of 2024–2026, combining data with human stories to capture this pivotal moment in the evolution of
+money.
+1
+2
+3
+5
+15
+With Venezuela’s economy in crisis, cryptocurrency fills the gaps | Crypto News | Al
+Jazeera
+https://www.aljazeera.com/news/2021/6/22/with-venezuelas-economy-in-crisis-cryptocurrency-fills-the-gaps
+4
+Stablecoins as a Hedge Against Hyperinflation: The Case ... - AInvest
+https://www.ainvest.com/news/stablecoins-hedge-hyperinflation-case-venezuela-2601/
+6
+7
+8
+9
+10
+11
+12
+13
+14
+16
+17
+18
+19
+20
+23
+24
+100
+101
+Stablecoins find a use case in Africa’s most
+volatile markets
+https://restofworld.org/2021/stablecoins-find-a-use-case-in-africas-most-volatile-markets/
+21
+22
+25
+26
+27
+ASR_2500020 7..30
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/07949802533E88EC09DC855F179ED53E/S0002020625000204a.pdf/
+decentering_the_dollar_in_africachina_trade_how_nigerian_entrepreneurs_navigate_currency_swaps_and_digital_currencies_in_an_era_of_usd_hegemon
+28
+29
+30
+31
+32
+33
+34
+35
+Argentines Turn to Stablecoins for 4% Daily Arbitrage Profits Amid Currency
+Controls
+https://thecryptobasic.com/2025/10/24/argentines-turn-to-stablecoins-for-4-daily-arbitrage-profits-amid-currency-controls/
+36
+37
+38
+75
+76
+How Latin America Is Rewiring Money with Stablecoins and Pix
+https://emergingmarkets.today/how-latin-america-is-rewiring-money-with-stablecoins-and-pix/
+39
+40
+41
+42
+43
+‘The Guilt Is Unbearable’: UST-Luna Investors Discuss the 99.99% Crypto Crash
+https://www.vice.com/en/article/the-guilt-is-unbearable-ust-luna-investors-discuss-the-9999-crypto-crash/
+44
+45
+79
+80
+Unbacked Stablecoins Risk 'Blowing Up in Your Face': IMF - Decrypt
+https://decrypt.co/101224/stablecoins-without-backing-have-risk-of-blowing-up-in-your-face-imf-managing-director?amp=1
+46
+[PDF] Jeremy Allaire HSFC Testimony - June 13th 2023 FINAL
+https://www.congress.gov/118/meeting/house/116085/witnesses/HHRG-118-BA00-Wstate-AllaireJ-20230613.pdf
+47
+Crypto Has Lost ‘Battle’ Against Fiat Currency, BIS Chief Agustin Carstens Says - Bloomberg
+https://www.bloomberg.com/news/articles/2023-02-22/crypto-has-lost-battle-against-fiat-currency-bis-chief-agustin-carstens-
+says
+48
+49
+67
+68
+69
+70
+115
+117
+129
+130
+131
+135
+Why PayPal's stablecoin is likely to succeed where Facebook's
+Libra failed | Reuters
+https://www.reuters.com/technology/why-paypals-stablecoin-is-likely-succeed-where-facebooks-libra-failed-2023-08-21/
+50
+Stablecoins will power billions of AI transactions, says Circle CEO
+https://paymentexpert.com/2026/01/22/wef-stablecoin-panel-2026/
+1351
+Circle CEO Jeremy Allaire says stablecoins could ... - Instagram
+https://www.instagram.com/reel/DUBSn5zj_IK/
+52
+53
+54
+55
+62
+63
+118
+Stablecoin Tether gets boost as dollar alternative in emerging markets, CEO says |
+Reuters
+https://www.reuters.com/technology/stablecoin-tether-gets-boost-dollar-alternative-emerging-markets-ceo-says-2024-04-19/
+Tether's net profit in 2023 is $6.2 billion, with only 100 employees | Odaily星球日报 on
+Binance Square
+56
+57
+119
+120
+https://www.binance.com/en/square/post/6519493049185
+58
+Tether USDt is advancing US Dollar hegemony across all emerging ...
+https://x.com/paoloardoino/status/1913256690633392378?lang=en
+59
+Christensen Calls For MakerDAO to Float Stablecoin - "The Defiant"
+https://thedefiant.io/news/defi/makerdao-dai-peg
+60
+Rune Christensen Explains Why He Wants to Remake Maker and ...
+https://www.coindesk.com/consensus-magazine/2024/06/07/rune-christensen-explains-why-he-wants-to-remake-maker-and-kill-
+dai
+61
+64
+65
+BIS chief says past events 'cast doubt' on stablecoins' ability to function as money
+https://cryptoslate.com/bis-chief-says-past-events-cast-doubt-on-stablecoins-ability-to-function-as-money/
+66
+Crypto assets as a threat to financial market stability | Eurasian Economic Review | Springer Nature Link
+https://link.springer.com/article/10.1007/s40822-025-00311-4
+71
+ECB president Christine Lagarde says stablecoins will lead to the ...
+https://finance.yahoo.com/news/ecb-president-christine-lagarde-says-173037716.html
+72
+73
+74
+ECB's Lagarde urges EU lawmakers to speed up digital euro law | Reuters
+https://www.reuters.com/sustainability/boards-policy-regulation/ecbs-lagarde-urges-eu-lawmakers-speed-up-digital-euro-
+law-2025-06-23/
+77
+Stablecoins: Opportunities and Risks in International Payments
+https://www.linkedin.com/posts/kristalina-georgieva_stablecoins-have-great-potential-to-make-activity-7402715898081337344-
+fWPa
+78
+IMF Pushes for Digital Currencies, Warns on Stablecoins - Phemex
+https://phemex.com/news/article/imf-advocates-for-digital-currencies-cautions-on-stablecoins-26856
+81
+82
+83
+84
+85
+114
+The disaster playbook: What happens if a stablecoin fails? | PaymentsSource |
+American Banker
+https://www.americanbanker.com/payments/news/the-disaster-playbook-what-happens-if-a-stablecoin-fails
+86
+How Congress Can Stop the Looming Crypto Disaster
+https://digitalcommons.wcl.american.edu/fac_works_pubs/24/
+87
+[PDF] It's Time to Regulate Stablecoins as Deposits and Require Their ...
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2834&context=faculty_publications
+88
+89
+90
+91
+94
+95
+Yellow Card Aims to Replace SWIFT with Stablecoins in 5 Years
+https://beincrypto.com/africa-stablecoin-surges-yellow-card/
+92
+93
+Yellow Card Is the Crypto Startup Behind Africa's Stablecoin Boom - Bloomberg
+https://www.bloomberg.com/news/features/2024-11-20/yellow-card-is-the-crypto-startup-behind-africa-s-stablecoin-boom
+1496
+97
+104
+105
+CBN will play active role in shaping global stablecoin rules, says Cardoso | TheCable
+https://www.thecable.ng/cbn-will-play-active-role-in-shaping-global-stablecoin-rules-says-cardoso/
+From adoption to continuance: Stablecoins in cross-border remittances and the role of digital
+and financial literacy - ScienceDirect
+98
+99
+136
+https://www.sciencedirect.com/science/article/pii/S0736585324001345
+102
+103
+FG has formed team to study stablecoin adoption, says Cardoso
+https://businessday.ng/news/article/fg-has-formed-team-to-study-stablecoin-adoption-says-cardoso/
+106
+Global Crypto Policy Review Outlook 2025/26 Report - TRM Labs
+https://www.trmlabs.com/reports-and-whitepapers/global-crypto-policy-review-outlook-2025-26
+107
+116
+Credit FAQ: What Does The UAE's Stablecoin Regula - S&P Global
+https://www.spglobal.com/ratings/en/regulatory/article/credit-faq-what-does-the-uaes-stablecoin-regulation-mean-for-local-
+banks-s101664358
+108
+110
+Balaji Srinivasan on Bitcoin replacing the dollar - LinkedIn
+https://www.linkedin.com/posts/dweisburd_institutionalinvesting-macrotrends-digitalassets-activity-7386774746069385217-rmJq
+109
+Experts say the US dollar will integrate into the crypto ecosystem ...
+https://www.binance.com/en/square/post/01-20-2026-2026-35301477827129
+111
+Global stablecoin regulations 2026: What enterprises need to know
+https://bvnk.com/blog/global-stablecoin-regulations-2026
+112
+113
+MiCA Regulation: How the EU is Shaping the Future of Crypto Asset ...
+https://amlwatcher.com/blog/mica-regulation-how-the-eu-is-shaping-the-future-of-crypto-asset-compliance/
+121
+Visa's role in stablecoins
+https://corporate.visa.com/en/sites/visa-perspectives/innovation/visas-role-in-stablecoins.html
+122
+Visa Launches USDC Stablecoin Settlement for U.S. Banks On Solana
+https://www.binance.com/en/square/post/33837559166234
+123
+124
+125
+126
+127
+128
+134
+The Real Reason People Are Using Stablecoins
+https://theflip.africa/podcast/the-real-reason-people-are-using-stablecoins
+132
+Visa Launches Stablecoin Settlement in the United States, Marking ...
+https://investor.visa.com/news/news-details/2025/Visa-Launches-Stablecoin-Settlement-in-the-United-States-Marking-a-
+Breakthrough-for-Stablecoin-Integration/default.aspx
+133
+Visa brings Circle's USDC settlement to U.S. banks following $3.5 ...
+https://sg.finance.yahoo.com/news/visa-brings-circles-usdc-settlement-120000746.html
+15

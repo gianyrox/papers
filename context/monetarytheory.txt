@@ -1,0 +1,1019 @@
+============================================================
+Stablecoins: The Biggest Financial Infrastructure
+Upgrade Since Electronic Banking
+Deep Research Report 3: The Frontier and Philosophical Layer
+============================================================
+
+SECTION 1: MONETARY THEORY — COMPETING CURRENCIES AND STABLE VALUE
+------------------------------------------------------------
+Hayek’s Private Money Vision – A Stablecoin Reality? In 1976, economist Friedrich A. Hayek argued in The
+Denationalisation of Money for privately issued currencies competing on quality 1 2 . He believed private
+issuers, driven by profit and reputational incentives, would offer more stable money than monopolist
+governments prone to “inflation tax” and abuse 3 4 . Hayek envisioned irredeemable but stable
+currencies whose purchasing power stayed constant by design 4 . Stablecoins – privately issued digital
+tokens typically pegged 1:1 to fiat – partly fulfill this vision. They represent “a possible solution” to volatility
+in cryptocurrency by “incorporating monetary rules” and pegging value to reserves 5 6 . In Hayekian
+terms, collateralized stablecoins closely mirror the idea of competitive private currency 7 . They
+substitute trust in a central issuer with “a competitive process” among issuers and provide fast, low-cost
+transfers while mitigating crypto volatility 8 9 . However, they also deviate from Hayek’s ideal: most
+stablecoins “remain inflationary” because they mimic fiat money’s value (e.g. the US dollar) 10 . As one
+legal analysis notes, stablecoins meet Hayek’s criteria of stability and transparency but are “not anti-
+inflationary” since they inherit fiat inflation 11 . Still, scholars like Firat Cengiz conclude that stablecoins
+“satisfy some key conditions of the Hayekian model”, especially if regulation makes them robust,
+potentially emerging as “superior-quality Hayekian currencies” that pressure governments to improve their
+money 11 12 . In short, stablecoins validate Hayek’s theory that private issuers can produce widely
+accepted money, albeit by leveraging public currency credibility rather than replacing it. The so what:
+Stablecoins realize the decades-old libertarian vision of monetary competition, forcing central banks to
+reckon with an alternative issuance model 13 . This lends intellectual legitimacy to stablecoins as more than
+tech trivia – they mark a real-world test of private money’s promise and pitfalls.
+Neither Fiat nor Crypto – A Hybrid Form of Money: Stablecoins defy easy classification in monetary
+theory. They are not central bank money, not traditional bank deposits, and not volatile crypto-assets – they
+form a hybrid category. A recent IMF report calls stablecoins “a cryptoasset that aims to maintain a
+stable value relative to a specified asset” 14 15 . In practice, they behave like digital warehouse receipts
+for fiat currency, yet they circulate on decentralized ledgers. Top economists note this novelty: “Digital
+currencies will create not just a novel form of money, but also a new payment infrastructure,” observed former
+Bank of England Governor Andrew Bailey 16 . In other words, stablecoins represent a new species of
+money – combining the trust of fiat (face-value stability) with the freedom of crypto (peer-to-peer
+transacting on a ledger). Academic assessments underscore this duality. For example, stablecoins have
+been described as “money-like” instruments, essentially “e-money represented on a DLT platform” – in
+other words, the dollars are familiar, but the form is entirely new 17 . They inherit credibility from fiat
+reserves yet transcend the limits of traditional e-money, being programmable and globally accessible.
+Some scholars even label them “Hayekian currencies” in practice: they offer stability and transparency via
+technology, but unlike pure crypto, they don’t rely on scarcity or gold – they rely on credibly backed claims
+11 . This hybrid nature has policy implications. It means stablecoins challenge existing legal definitions of
+money and deposits, and regulators are converging on treating them as a new category: “payment
+1instruments” on blockchain 14 17 . So what? Recognizing stablecoins as a novel monetary form reinforces
+the thesis that they are a genuine financial innovation. They are not merely another fintech product – they
+blur the line between state money and private token, suggesting a third path in monetary evolution. This
+bolsters the view of stablecoins as a fundamental upgrade, akin to when paper banknotes first
+supplemented coins or when deposit accounts first supplemented cash.
+Good Money in Bad Times – Gresham’s Law Reversed: Classical Gresham’s Law says “bad money drives
+out good” when both circulate at fixed value, as people hoard the good (more stable) currency. But in the
+real world, when legal tender laws don’t force acceptance, we often see the opposite (sometimes called
+Thiers’ Law): people flee to good money. Stablecoins are emerging as that “good” money in high-inflation
+economies. In countries like Argentina, Venezuela, Nigeria, and Turkey, households increasingly prefer
+USD-pegged stablecoins over rapidly depreciating local currency – effectively a digital dollarization 18
+19 . For instance, Argentina’s inflation hit ~143% in 2023, and the peso’s value collapsed 20 . Data show
+stablecoin usage surged whenever the peso plunged – when ARS fell below $0.002, monthly stablecoin trading
+jumped past $10 million 21 . By late 2023, Argentina’s on-chain transaction volume was 61.8% stablecoins,
+far above the global average (~45%) 22 . In other words, over half of crypto activity in Argentina now
+consists of stable USD tokens, evidence that citizens use them as a safe-value substitute amid currency
+crisis. This is a real-world economic lifeline: as Chainalysis notes, Argentinians “look to stablecoins as a
+means of mitigating the effects of inflation and currency devaluation,” with many using them for
+everyday saving and spending 23 . Similar patterns appear in Venezuela and parts of Africa, where U.S.
+dollar stablecoins circulate in parallel to unstable national monies 24 25 . The implication is that
+stablecoins serve as “good money” driving out bad in free circulation – a flipside to Gresham’s law that
+vindicates monetary competition. From a development perspective, this dynamic can discipline
+governments (who risk losing seigniorage and monetary sovereignty if their currency is abandoned) 26
+27 . It also links to Hayek’s idea: if people can easily opt out to a better currency, issuers (including
+central banks) face pressure to maintain sound money 1 28 . So what? The rise of stablecoins in
+unstable economies underscores their role as critical financial infrastructure. They aren’t just trading tools;
+they are monetary stabilization tools for millions. This elevates their significance: stablecoins become a
+de facto global lender of stability, upgrading financial resilience in places where electronic banking in local
+currency failed to preserve value. It’s a profound upgrade – giving anyone with a phone access to a stable
+store of value in real time, something unparalleled since perhaps the introduction of the U.S. dollar itself as
+an international anchor.
+Money at Light Speed – Higher Velocity and Liquidity: By putting fiat currency onto frictionless ledgers,
+stablecoins have dramatically increased the velocity of money. Traditional bank money moves slowly – bank
+transfers can take days, and cash circulates hand-to-hand relatively infrequently. In contrast, stablecoins
+settle in minutes on-chain and can be programmatically traded 24/7. The result is eye-popping turnover
+rates. According to a Cato Institute analysis, the annualized trading volume of U.S. dollar stablecoins
+reached \$16 trillion on a base of only \$22 billion in supply 29 . That implies extraordinary velocity: “one
+stablecoin is turning over at 914x per year” and even smaller ones circulate 70–150x/year 30 . On average,
+each dollar of stablecoin was used ~109 times per year – far higher than the single-digit velocity of U.S.
+M2 money supply 30 . This “shock and awe” velocity is a product of technology. As the same study notes,
+high velocity is “no accident” – stablecoins settle instantly with finality, are available continuously, and are
+“programmable – faster, better, cheaper” for moving value 31 32 . In essence, stablecoins create
+liquidity without traditional banking leverage: “the technology on its own generates liquidity, without the need
+for leverage,” meaning activity can flourish without expanding bank balance sheets 33 . For monetary
+theory, this raises fascinating questions. A higher velocity of base money could amplify the effect of each
+2dollar on transactions (potentially affecting inflation if not offset). It also means small pools of stablecoin
+capital can support enormous transaction volumes, greasing the wheels of crypto markets and possibly,
+in the future, mainstream payments. For example, one stablecoin issuer (Circle’s USDC) reported that
+businesses from e-commerce marketplaces to digital content platforms have adopted stablecoins for
+payments due to their speed and finality 34 . This hints at stablecoins becoming the backbone for high-
+frequency, internet-native commerce. So what? The unprecedented velocity facilitated by stablecoins is a
+qualitative leap in financial infrastructure. It recalls the jump from mail to email – money moves nearly at
+the speed of information. This upgrade can enhance economic efficiency (reducing settlement times from
+days to seconds) and even provides a new “monetary policy tool” as some suggest (since velocity-driven
+liquidity could supplement traditional money creation) 33 . The stablecoin infrastructure thus unlocks
+fluidity in the financial system that electronic banking never achieved, supporting the thesis of a significant
+upgrade.
+Seigniorage Shift – From Public Purse to Private Profit: When sovereign governments issue money, they
+earn seigniorage – the profit from creating money at a cost lower than its value. Traditionally, central banks
+capture this (e.g. by issuing banknotes in exchange for interest-bearing bonds). Stablecoins are changing
+the game: private issuers like Tether and Circle now reap seigniorage income that used to accrue to
+the public sector. How? They take in fiat dollars and invest them (often in U.S. Treasury bills or overnight
+loans), but pay no interest to stablecoin holders. With interest rates high, this becomes enormously
+lucrative. For example, Tether – issuer of USDT – has disclosed about $86 billion in assets mostly in
+Treasuries. In 2023–2024, Tether made headline-grabbing profits: over \$13 billion in 2024 alone, with
+profit margins near 99% 35 36 . Its CTO quipped that the firm could “earn \$15B in 2025, outpacing Wall
+Street titans” 37 . Circle, issuer of USDC, earned around $1.7B revenue in 2024 38 . In total, one analysis
+estimated stablecoin issuers were earning over \$10 billion annually by late 2025 from interest on reserves
+39 . This represents a direct transfer of income: as a Project Syndicate commentary pointed out, “the
+interest earned on Treasury assets backing stablecoins now flows to private issuers – such as Circle
+and Tether – instead of to the public purse.” 40 Governments are taking note. Economists Angus
+Armstrong and Dennis Snower warn that widespread stablecoin use could “erode governments’ control
+over money and debt” by siphoning off seigniorage and even destabilizing the traditional banking model
+41
+42 . Not only do governments lose profit, but if deposits shift to stablecoins, banks lose a cheap source
+of funding, potentially shrinking credit unless they pay higher rates. On the other hand, stablecoin
+proponents argue this pressure is healthy: it forces more efficient allocation of liquidity and could push
+central banks to offer better digital cash (like CBDCs) to compete. So what? The seigniorage shift
+underscores how structurally significant stablecoins are. They are re-drawing the map of who profits from
+money issuance. This isn’t just a tech disruption; it strikes at a core function of the state. The last time
+private entities had such power was in the free banking era of the 1800s. The fact that Tether can rival
+major banks in profitability by issuing digital dollars is a startling development 35 . It validates the claim
+that stablecoins are the biggest financial infrastructure upgrade in decades – they are even altering the
+revenue architecture of the monetary system. Importantly, it raises the urgency for sound regulatory
+frameworks, since issuers earning seigniorage must be held to high standards (to prevent runs or
+mismanagement of reserves). In summary, stablecoins’ ascent is moving “money minting” from public to
+private hands on a large scale 40 , confirming their deep impact on the financial landscape.
+Network Economics: Metcalfe’s Law and Platform Effects
+Network Effects – Towards a Global Money-Internet: The value of any currency or payment network
+increases exponentially with the number of users – a classic network effect encapsulated by Metcalfe’s Law
+3(value ∝ n²). Money is a social network: “The usefulness of a particular money depends crucially on the number
+of others willing to accept it,” as economist William Luther explains 43 . Stablecoins, by combining internet
+reach with monetary function, exhibit powerful network dynamics. Each additional exchange, wallet,
+merchant, or user that supports a given stablecoin (say USDC or USDT) boosts its utility for all others. This
+has led to rapid user-base growth and liquidity pooling. Consider that stablecoins now make up about
+13% of the total cryptocurrency market by capitalization, but account for a far larger share of
+transactional volume 44 . This indicates heavy usage per user, consistent with strong network value. There
+are signs of winner-take-all dynamics: Tether (USDT) has become the dominant stablecoin, with a
+market share often above 50% and embedded deeply in global crypto markets. The “singleness of
+money” tendency (people converging on one unit for efficiency) is seen in how US dollar-backed stablecoins
+vastly overshadow others 45 46 . Indeed, most stablecoins are USD-pegged (over 90% of volume 47 ),
+creating a positive feedback loop: the more people worldwide want digital dollars, the more merchants and
+platforms accept USD stablecoins, and so on. This network effect extends to settlement networks too – if
+many exchanges and businesses support a particular stablecoin, newcomers will choose it for compatibility.
+According to the BIS, stablecoins’ “pseudonymous public blockchain” design means they can spread
+borderlessly, linking users across countries in a single network 48 . However, network effects also pose
+barriers to entry: Hayek himself underestimated that “we are more likely to see convergence on a relatively
+reliable common money unit” than dozens of private monies simultaneously 43 . This suggests a stablecoin
+(or a few) that achieve critical mass could enjoy a resilient monopoly or oligopoly (much like Visa and
+Mastercard in card networks). So what? The network economics of stablecoins reinforce why they
+constitute a major infrastructure upgrade. They bootstrap on existing internet networks, potentially scaling
+faster than any prior currency (which grew only as fast as population or trade allowed). If stablecoins
+become as ubiquitous as email, they could connect billions of people in one monetary web. Importantly, a
+strong network lock-in also means regime change: once a stablecoin is entrenched, switching an
+economy (or even a user base) to a different platform – say, a domestic CBDC or a new standard – becomes
+very hard due to inertia and coordination issues. This underscores how stablecoins could solidify the
+dollar’s network effects globally, entrenching dollarization via technology (as noted by one observer,
+“stablecoins are strengthening the supremacy of the US dollar” internationally 49 50 ). In summary,
+stablecoins’ value grows with their user network, which is rapidly expanding; this self-reinforcing adoption
+is exactly what you’d expect from the most significant financial network upgrade in decades.
+Stablecoins as Two-Sided Platforms: Much like credit card networks connect merchants and cardholders,
+stablecoin ecosystems connect multiple parties: payers and payees, senders and receivers, borrowers and
+lenders (in DeFi), developers and users. They exhibit the hallmarks of two-sided platforms. On one side, you
+have consumers (retail users, investors, remittance senders) who demand a stable digital dollar; on the
+other side, businesses and financial institutions that accept or integrate stablecoins to reach those users
+(exchanges, merchants, payment processors, even banks). The more users hold and want to spend
+stablecoins, the more merchants will find it attractive to accept them – and vice versa. This creates a
+virtuous cycle of adoption. For instance, PayPal’s launch of a USD stablecoin (PYUSD) is explicitly aimed at
+leveraging its two-sided network of 400+ million users and millions of merchants 51 . By introducing a
+stablecoin into that platform, PayPal can reduce frictions between buyers and sellers (especially
+internationally) and keep transactions inside its own ecosystem. Similarly, Visa and Mastercard have been
+piloting stablecoin settlement for cross-border payments, effectively using stablecoins as a bridge
+between bank networks 52 53 . This indicates that stablecoins are being embedded as a platform layer in
+existing two-sided networks. Moreover, decentralized finance (DeFi) platforms treat stablecoins as a
+foundational layer connecting lenders and borrowers globally – e.g. someone in Country A can lend USDC
+to a borrower in Country B via a lending pool, without traditional intermediaries. That’s a two-sided market
+4(savers and borrowers) now directly linked by stablecoin protocols. Platform economics theory tells us
+that lowering switching costs and increasing interoperability boosts platform adoption. Stablecoins excel
+here: any internet-connected device can become a “wallet” accepting a stablecoin, and open standards
+(Ethereum ERC-20, etc.) mean any app can plug into the stablecoin network easily. So what? Viewing
+stablecoins through the platform lens highlights why they’re transformative. They aren’t just passively
+circulating tokens; they form interactive networks that grow more valuable as they scale. This explains
+observations like stablecoins reaching $23 trillion in transaction volume in 2024 (90% growth) with flows
+spanning every continent 54 55 . They provide a unified medium that “both ends” of a transaction want to
+use. As a result, stablecoins can achieve faster adoption curves than earlier payment innovations. (For
+context, it took credit cards decades to build a global two-sided network; stablecoins have done so in a few
+years by piggybacking on the internet.) This platform dynamic is a key reason stablecoins qualify as an
+infrastructure upgrade: they reshape market structure, introducing new intermediaries (or disintermediating
+entirely) and connecting participants in ways previously not possible or cost-effective.
+Tipping Points and Critical Mass: History shows that new financial technologies often reach a tipping
+point where adoption accelerates non-linearly – think of how quickly paper money replaced coins in some
+eras, or how mobile payments suddenly took off in certain countries once a threshold of users was reached.
+Stablecoins appear to be nearing such thresholds in various domains. One evident case is crypto trading
+and settlement, where stablecoins long ago hit critical mass: virtually every major crypto exchange and
+protocol supports USDT or USDC, creating a default stablecoin standard. Now we see early signs of tipping
+points in remittances and cross-border business. For example, Latin America’s stablecoin-based
+remittances have grown sharply – multiple countries in the region rank in the top 20 for crypto adoption
+thanks largely to stablecoin usage for sending money home 56 57 . As stablecoin liquidity and cash-out
+options improve in those corridors, more people jump on board. There’s also a threshold dynamic with
+institutional adoption: surveys indicate that over half of consumers would trust stablecoins more if issued or
+custodied by banks, and indeed some banks are exploring their own stablecoins or tokenized deposits 58 .
+Should a few large banks or fintech platforms successfully roll out stablecoin services, it could quickly force
+others to follow to avoid losing customers (a competitive tipping point). Another aspect is merchant
+acceptance. If, say, a critical mass of e-commerce sites or payment processors start offering stablecoin
+payment options (as Stripe, Shopify plugins, and others have begun to), consumers will be more inclined to
+hold stablecoins for spending – and once a certain percentage of commerce accepts them, paying with
+stablecoins could become as normal as using PayPal. This threshold might be, hypothetically, 15-20% of
+merchants or users; beyond that, network effects and word-of-mouth drive the rest. It’s noteworthy that
+stablecoin transaction volumes are already rivaling traditional networks – by late 2025, monthly
+stablecoin payments hit about \$1.4 trillion, roughly matching Visa plus Mastercard volume 59 . Reaching
+parity with legacy giants suggests a tipping point: stablecoins are moving from peripheral to mainstream
+infrastructure. So what? The existence of these thresholds means stablecoins could very rapidly go from
+niche to ubiquitous once certain adoption milestones are passed. We may be on the cusp of such a phase
+(“the stablecoin moment”). For policymakers and businesses, this underscores the urgency: if stablecoins
+indeed represent the next big monetary network, missing the wave could mean being locked out later due
+to switching costs.
+Switching Costs and Lock-In: Once people and businesses integrate a particular financial network,
+switching to an alternative can be costly or inconvenient – creating lock-in effects. With stablecoins, this is
+a double-edged sword. On one hand, if a user base becomes accustomed to, say, using USDC for commerce
+and savings, they may be reluctant to switch to a new CBDC or a local digital currency that doesn’t offer the
+same interoperability or global acceptance. As one analysis put it, “once such systems are established, network
+5effects make switching difficult” 60 . We’re already seeing a form of lock-in in crypto markets: many
+decentralized apps quote prices in USD stablecoins; if an app tried to use a different unit, users would likely
+not bother switching en masse. In the future, imagine a country where a large fraction of commerce is
+conducted in USD stablecoins. If that country introduces a domestic CBDC, merchants and consumers
+might resist adoption – why switch from a widely accepted, familiar stablecoin to a new currency that few
+external partners use? This could undermine local monetary initiatives (a scenario worrying some central
+bankers 26 27 ). Another example: corporate treasuries and investors are beginning to hold stablecoins for
+liquidity. If their systems and counterparties are set up for USDC, moving to anything else involves
+retraining staff, changing software, and accepting potential value fluctuations – significant friction. This
+resembles the lock-in credit card networks have with merchants (once you accept Visa, you might hesitate
+to invest in another system that few customers use). The result is path dependence: early stablecoin
+movers gain an entrenched position. Indeed, regulators have noted that private stablecoins, if widely
+adopted, could create “new forms of too-big-to-fail” infrastructure that the economy becomes
+dependent on 42 . So what? Lock-in means stablecoins are not a transient crypto trend; they could become
+embedded in the plumbing of finance. Every additional integration (a wallet, a point-of-sale system, an ATM
+network supporting stablecoins) increases the cost of uprooting them. This strengthens the thesis that
+stablecoins are the most significant upgrade since electronic banking – because like the shift to electronic
+payments, once we all moved online we never went back to paper, and once networks like SWIFT or Visa
+were in place, they became hard to displace. We may be witnessing stablecoins achieving a similar
+irreversibility. It also highlights that whoever sets the stablecoin standards now (whether private firms or via
+smart regulation) could define the architecture of money for decades. That is precisely why we see
+geopolitical jostling – for example, U.S. policymakers realizing that “stablecoins can reinforce dollar
+supremacy” if the U.S. leads, while rivals fear being left out 49 61 . In summary, stablecoins’ growing lock-in
+effects solidify their role as core financial infrastructure, making the current moment pivotal.
+Infrastructure and Ledger Innovation: The Ledger is the Revolution
+The Ledger, Not the Token, is the Innovation: Many economists and technologists argue that the true
+breakthrough of stablecoins lies in how value moves, not what the value is. The key innovation is the
+open, distributed ledger that records ownership and transfers of money. In other words, the rail itself
+is revolutionary, even though the “train” (the dollar) is familiar. MIT’s Digital Currency Initiative often
+emphasizes that cryptocurrencies have introduced a new ledger technology – one that is global, near-
+instant, and operates without centralized clearing 62 63 . Stablecoins harness this for fiat money. As
+Circle’s CEO Jeremy Allaire puts it, stablecoins “standardize the transport” of dollars without changing the
+dollars 64 . An American Institute for Economic Research piece made this vivid with an analogy: “What the
+shipping container did for physical goods, stablecoins now promise to do for money.” 65 Just as the
+container in the 1950s created a standard size and system that revolutionized global trade (making it
+frictionless to move goods between trucks, ships, and trains), stablecoins create a standardized digital
+container for value, allowing money to move across platforms and borders with minimal friction. This is why
+despite being “pegged” to old units, stablecoins feel like a new paradigm. They run on internet protocols
+instead of proprietary bank networks. They settle peer-to-peer with finality, rather than through multi-day
+interbank processes. Crucially, they are interoperable: any developer can integrate a stablecoin like USDC
+into an app with a few lines of code – a stark contrast to trying to integrate, say, ACH or SWIFT, which
+require bank partnerships and legal contracts. Prominent policy thinkers have explicitly highlighted this
+ledger vs money distinction. Bank of England officials noted that digital currencies create “a new payment
+infrastructure” alongside whatever novel form of money they represent 16 . Some economists liken
+stablecoins to “Internet of Money” protocols, where the focus is on the network standard (like HTTP for
+6data) more than the content itself. In practical terms, stablecoins provide a unified ledger where previously
+we had fragmented ones. Today’s financial system is a patchwork of ledgers – each bank has its own,
+central banks have theirs, payment processors maintain separate databases and messaging systems. By
+contrast, if a payment flows via a stablecoin on Ethereum, sender and receiver simply update the same
+global ledger (the blockchain) with no need for reconciliations between institutions. It’s a conceptual leap
+akin to the move from fax machines (point-to-point, incompatible systems) to the internet (one network of
+networks). So what? By reframing stablecoins as infrastructure, we see why they are a profound upgrade.
+They promise a world where value can be exchanged as seamlessly as information, unhampered by the
+siloed nature of legacy banking systems. Historical parallels underscore the significance: The invention of
+double-entry bookkeeping in the 15th century gave businesses a reliable ledger to track credits and
+debits, laying the groundwork for modern finance. The SWIFT network in 1973 standardized interbank
+messages worldwide, massively speeding up international transfers 66 . Stablecoins stand in that lineage:
+they introduce an even more radical ledger – unified, programmable, and public (or semi-public). An IMF
+blog described tokenized money as part of a “next-generation monetary system” where “tokenized central
+bank reserves, commercial bank money, and government bonds” might all reside on a shared ledger for
+efficiency 67 68 . While that vision includes CBDCs, stablecoins have been the pioneer in this space, forcing
+the conversation. In sum, stablecoins demonstrate that the medium is as important as the message: the dollar
+on a blockchain is not the same as a dollar in a bank database. The former can achieve things (instant
+global micropayments, atomic cross-border swaps, open-access financial apps) that the latter cannot. That
+is why stablecoins can be credibly called the most significant infrastructure upgrade since electronic
+banking – they reinvent the ledger upon which all banking runs.
+Historical Parallels – From Telegraphs to Containers: To appreciate the stablecoin leap, it helps to
+compare it with prior infrastructure breakthroughs. One parallel often drawn is the telegraph and
+telephone for money. In the 19th century, the telegraph enabled the first electronic fund transfers (think
+wire transfers via Morse code) – drastically reducing the time to send money across distances from weeks to
+minutes. Stablecoins similarly compress settlement times for modern transfers (e.g. an on-chain payment
+clears in seconds, 24/7, vs a wire that might take a day and only during banking hours). The SWIFT
+network, introduced in the 1970s, is another precursor: it set a common standard for cross-border
+payment messages, which is one reason global banking became scalable and relatively secure 66 . But
+SWIFT still just sends messages – the actual movement of funds still hops through correspondent banks.
+Stablecoins cut out those hops by moving the actual value on a single ledger. If SWIFT was a big step
+(electronic messaging instead of mailed instructions), stablecoins are perhaps bigger: electronic value
+transfer instead of just messaging. The most vivid analogy, as mentioned, is containerization. Before
+containers, shipping was labor-intensive and slow; after, global trade exploded 250x over decades 69 70 .
+The AIER article notes global trade rose from \$100 billion in 1960 to over \$25 trillion today largely thanks
+to container standardization 69 70 . The authors argue stablecoins could do the same for financial exchange,
+by standardizing how money moves 71 . By defining basic rules and formats (tech standards, reserve
+standards, disclosure) – analogous to defining container dimensions – governments can make stablecoins
+safe, interoperable, and scalable 72 . With those standards (e.g. the proposed U.S. “GENIUS Act” and
+similar bills 72 ), stablecoins could become a ubiquitous money-transfer standard globally. Already, in 2024
+stablecoins processed over \$27 trillion in transactions, more than Visa and Mastercard combined 47 .
+They achieved this with a fragmented regulatory environment; one can only imagine the volumes if a
+standardized legal framework existed across countries. Finally, consider the distinction between money vs
+payment rails some economists make. Central bank digital currencies (CBDCs) focus on the money issued
+by government, but even CBDC advocates often acknowledge the private sector might innovate better on
+payment rails. Stablecoins essentially are new payment rails carrying existing money. We see this in how over
+790% of stablecoin volume is in USD 73 – the unit of account hasn’t changed, but the rail (blockchain) has.
+This separation of currency and infrastructure is a key conceptual shift. It means a country could maintain
+its fiat currency, yet use a stablecoin network (even a privately run one) as the primary rail – a scenario that
+would have sounded far-fetched before stablecoins demonstrated it. So what? These parallels drive home
+the point: stablecoins belong in the same conversation as the telegraph, SWIFT, and even double-entry
+bookkeeping in terms of impact. They are compressing time and space in finance (telegraph analogy),
+creating uniform standards (container analogy), and enabling new levels of transparency/auditability (every
+transaction on a public ledger, akin to double-entry’s audit trail). For the thesis at hand, this solidifies
+stablecoins’ claim – they are not just incremental improvements; they are a leap to a new paradigm of how
+value is recorded and moved. Much like no one would downplay the container’s impact on trade, we should
+not downplay stablecoins’ impact on finance infrastructure. If money is the lifeblood of economies, then
+stablecoins are like a new circulatory system – faster heartbeat, broader reach.
+Money Rails vs. Money Itself – An Economic Perspective: Economists are increasingly distinguishing
+between the instrument of money and the infrastructure that transmits it. Nobel laureate Friedrich
+Hayek, for instance, believed competition could occur in either the currency or how it’s managed. With
+stablecoins, the competition so far is more in the management and delivery than in creating new units of
+account. A Bank for International Settlements report in 2025 critiqued stablecoins, noting they “exhibit some
+attributes of money” but fail certain tests as the core of the monetary system (due to issues like lack of
+lender-of-last-resort) 74 45 . However, that same report acknowledged stablecoins’ popularity as a “gateway
+to the crypto ecosystem” and their use in emerging markets for payments 75 76 . The takeaway is that even
+if stablecoins don’t replace sovereign money, they may replace or upgrade the payment rails on which
+sovereign money travels. Some central bankers have floated the idea of integrating stablecoins with
+central bank money – for example, allowing stablecoin issuers access to central bank reserves to back
+their coins 77 78 . This implies a possible future where the state provides the money (ensuring stability),
+while private innovators provide the rails (ensuring efficiency and user-friendly features). Stablecoins are
+the proof-of-concept for this model. They demonstrate that privately run ledgers can handle massive
+volumes (trillions per quarter) and innovate rapidly (adding features like smart contracts, microtransactions,
+etc.), far beyond what legacy electronic banking offers. So what? Recognizing stablecoins as primarily an
+infrastructure innovation clarifies why they are a big deal. It shifts debates from “are these new monies?” to
+“how can these new rails improve finance?” The latter is where their transformative potential lies. If one
+concludes that stablecoins are essentially financial infrastructure, then it follows they represent the most
+significant upgrade since the advent of electronic banking (which itself was an infrastructure leap – moving
+from branch-ledger banking to mainframes and online transfers). In the late 20th century, electronic
+banking digitized existing processes; stablecoins take the next step by decentralizing and unifying them on
+internet protocols. That’s an upgrade not just in degree (speed, cost) but in kind (architecture). It paves the
+way for a more integrated global economy – much as container shipping did for trade – by reducing the
+frictions and delays in the flow of money. And it addresses long-standing pain points: high remittance fees,
+slow cross-border settlements, unbanked populations (more on that in the next section), and siloed
+financial apps that can’t talk to each other. All of that can be alleviated by a common, neutral money
+infrastructure that stablecoins hint at. In conclusion, the infrastructure viewpoint cements stablecoins’ place
+as a historic innovation – the “shipping containers” of digital finance 79 , carrying economic value
+seamlessly and setting new standards for a truly open financial system.
+8Identity and Privacy Theory: Trust, Anonymity, and “Compliance
+without Surveillance”
+Self-Sovereign Identity (SSI) Meets Stablecoins: In a world of stablecoins, identity verification and privacy
+become central. Self-sovereign identity is the concept that individuals should own and control their digital
+identity credentials, sharing them only when necessary. How does this relate to stablecoins? Imagine a
+global stablecoin network where users can transact freely if they can prove certain attributes (not on a per-
+transaction basis to a bank, but perhaps via credentials stored in their wallet). For instance, a user might
+carry a verifiable credential proving they passed a one-time KYC check by a trusted authority, without that
+authority tracking all their transactions. Such a model is being actively explored. The IMF’s research
+highlights a “zkKYC” concept – KYC without revealing your customer data – leveraging SSI and zero-
+knowledge proofs 80 . In a compliance-by-design stablecoin system, before Alice can send funds to Bob,
+both undergo identity verification by a licensed credential issuer, which then stamps a hashed
+certificate on the ledger 81 82 . Their wallets can then generate zero-knowledge proofs (ZKPs) to show
+they are KYC’d without disclosing who they are 83 84 . Practically, this might mean Alice’s wallet proves “I
+am not a sanctioned person and I have a valid ID hash on file” to the network every time she transacts, but
+it never broadcasts her name or ID number. This aligns with SSI principles: the user holds credentials and
+proves compliance “without exposing them” 85 84 . The benefit is privacy for honest users and data
+minimization, while still enforcing that all participants are verified. If something nefarious occurs, an
+authority (given legal approval) could decrypt or demand the revealing of the identity behind a suspicious
+address, but routine transactions remain pseudonymous. This is a stark contrast to the status quo in
+banking, where your bank knows your full identity and can monitor all your spending, and governments can
+relatively easily obtain that data via subpoenas or data-sharing. SSI with stablecoins flips the model: you
+prove you’re allowed to transact, but no central intermediary sees all the details. This is often referred to as
+“compliance without surveillance.” A World Economic Forum report (2026) noted that zero-knowledge
+identity frameworks could let stablecoins expand access without compromising privacy or AML controls 80 .
+It’s not just theoretical: projects and protocols (like zkSNARK-based identity proofs, or the EU’s explorations
+of digital identity wallets) are actively testing this approach. So what? The intersection of SSI and
+stablecoins is crucial for the legitimacy of this new infrastructure. If stablecoins are to become as
+widespread as electronic banking, they must solve the identity puzzle in a way that balances law
+enforcement and individual rights. Achieving SSI-driven compliance would mean stablecoins improve on
+traditional banking by giving people more control over their identity data. That’s a societal upgrade. It
+positions stablecoins as part of a broader movement to empower individuals (you hold your money and
+your ID in your wallet, under your control). It also would address regulators’ biggest hesitation about
+stablecoins – that they facilitate illicit flows – by baking in strong identity checks, but in a privacy-
+preserving way. In summary, SSI could allow stablecoins to deliver on the promise of financial inclusion
+and privacy, something electronic banking has often struggled with (banks tend to either exclude the
+undocumented/unbanked or surveil the banked). That makes stablecoins’ infrastructure qualitatively better,
+not just faster.
+Financial Privacy as a Right – The Stablecoin Dilemma: Is financial privacy a human right? Privacy itself is
+recognized in the Universal Declaration of Human Rights and many constitutions. Some advocates argue
+this inherently covers financial transactions – that individuals have a right to spend or save without constant
+surveillance, barring suspicion of wrongdoing 86 87 . For example, the advocacy group Financial
+Transparency Coalition noted that while “financial privacy” isn’t explicitly enumerated, “privacy is [a human
+right], and it’s reasonable to include financial activities under that umbrella.” 86 87 . This perspective is gaining
+traction as digital payments expand. In the cash era, privacy was the default – handing someone paper
+9money is an anonymous transaction. But as society moves to digital, that privacy is eroding: bank digital
+payments are tracked by banks and often shared with governments; Big Tech payment apps gather data for
+profit; and proposed CBDCs raise fears of state surveillance of every transaction. Stablecoins enter this
+debate in an interesting position. By design, public stablecoin ledgers (like those on Ethereum, Tron, etc.)
+are transparent – all transactions are visible pseudonymously. This means stablecoins are more transparent
+than bank accounts (which are private to the parties and the bank) but more private in the sense that no
+personal name is attached on-chain by default. Chain analysis firms can often de-anonymize addresses
+through metadata or cluster analysis, but it’s not as straightforward as a bank handing over named account
+statements. There’s an argument that stablecoins, used peer-to-peer, “reduce direct surveillance” by
+cutting out the bank middleman that would normally KYC and flag transactions. A U.S. Congressman, Tom
+Emmer, even suggested that private stablecoins could preserve privacy better than a Fed-issued digital
+dollar, which might log all transactions centrally 88 . On the other hand, regulators worry that stablecoins’
+pseudonymity facilitates crime (as the BIS said: stablecoins have been “the go-to choice for illicit use to bypass
+safeguards” precisely because users’ identities are only behind blockchain addresses) 45 48 . They note that
+“the pseudonymity…can preserve privacy but also facilitates illegal use,” absent KYC and transaction
+monitoring 45 46 . Both things are true – the same feature (pseudonymous ledgers) provides some privacy
+for law-abiding users and some cover for bad actors. The policy question is how to tilt this balance.
+Technologically, as discussed above, zero-knowledge proofs and credentials could allow “privacy unless
+suspicion is detected” 89 . For instance, the IMF model describes encrypted identity tokens on-chain and
+smart contracts that only trigger alerts if certain risk indicators appear (large transfers, blacklisted addresses,
+etc.) 89 90 . In that scenario, compliant users enjoy full privacy (their personal data never leaves their
+device), while law enforcement still gets automated Suspicious Activity Reports for truly suspicious
+patterns 89 90 . It’s essentially mimicking the current AML system but without mass surveillance of
+everyone – a precision-guided approach rather than dragnet. From a legal scholarship view, this aligns with
+the principle of data minimization in privacy law and the idea that surveillance should be targeted, not
+ubiquitous. If stablecoin frameworks can achieve this, it flips the narrative: stablecoins could become more
+respectful of privacy rights than traditional e-banking, where banks routinely surveil accounts to meet
+compliance. For example, an American Banker op-ed insisted “stablecoins need privacy baked in, not
+bolted on”, warning that if the industry doesn’t build private-by-design payments, we risk a future of
+intrusive financial monitoring by default 91 92 . So what? Privacy is not just a “nice-to-have” – it’s
+increasingly viewed as a core feature of next-gen financial infrastructure. Stablecoins are at a crossroads:
+they could either entrench a new form of transparency (where every transaction is traceable on a public
+ledger), or they could pioneer novel privacy solutions that outperform legacy systems. If the latter path is
+taken, stablecoins would indeed represent a major societal upgrade, reconciling digital convenience with
+rights protection. They could allow individuals to transact with the anonymity of cash but the convenience
+of digital – a combination electronic banking never delivered (electronic banking prioritizes traceability and
+centralized control). This reinforces the thesis: stablecoins aren’t just faster wires; they have the potential to
+redefine the social contract around money by embedding privacy and individual control in the
+infrastructure. Few things could be more significant in a world of increasing surveillance concerns.
+Surveillance Trade-offs – Banks vs Blockchains: It’s instructive to compare how much information
+different systems reveal. In the bank-centric model, your privacy from the outside world is high (no one can
+see your bank transactions except you and the bank), but your privacy from the bank and government is
+low (the bank knows your identity and can monitor and must report certain transactions). In a pure-cash
+model, your privacy is high in both senses (nobody knows unless you tell them). In a public blockchain
+stablecoin model, your privacy from government depends on how well you obfuscate your on-chain identity
+(through self-custody, avoiding linking to exchanges, etc.), and your privacy from the public is moderate –
+10strangers can see amounts and addresses, but not names. This has given rise to scenarios both good and
+bad. On the bad side, we have seen hackers and sanctions evaders attempt to use stablecoins; although,
+interestingly, stablecoin issuers and analytics firms have developed the capacity to freeze addresses and
+track illicit funds when required (e.g. Tether and Circle have blacklisted scam-related addresses upon law
+enforcement request). On the good side, activists and ordinary citizens in repressive regimes have used
+stablecoins to escape financial repression. For instance, in Belarus and Nigeria during protests or
+crackdowns, people reportedly shifted to crypto dollars when banks were compromised or could surveil and
+shut accounts for dissidents. There’s also the case of Ukraine in 2022: when the war broke out, charities
+raised millions in crypto (including USDT/USDC) to support Ukrainians, doing so faster than traditional
+aid could flow. Those donors valued that they could contribute without going through banks (which might
+be slow or block transfers to certain groups) – an example of financial freedoms enabled by stablecoin
+networks. However, the transparency meant all those donations were visible on-chain (there are dashboards
+showing in real-time how much crypto has gone to Ukraine addresses). This is a double-edged sword:
+transparency builds public trust (one can audit how funds move) 93 , yet it also “risks exposure” of
+individuals and organizations (which can be dangerous in conflict zones) 93 . The key point: stablecoins
+amplify some forms of transparency while reducing others. They reduce reliance on institutional
+surveillance (you don’t need a bank watching over your shoulder to transact), but they introduce public
+transparency unless additional privacy layers are used. Looking ahead, if no privacy enhancements are
+made, we might see a world where every retail transaction (your coffee, your groceries) on a stablecoin is
+theoretically visible to any analyst – a scary thought for personal privacy. Conversely, if privacy tech is
+integrated, we might have the most open yet privacy-protecting payment system ever: regulators see proof of
+compliance, the public sees aggregated data maybe, but personal spending stays personal. This is why
+central banks like the ECB talk about “cash-like privacy” for digital currency – trying to replicate the
+anonymity of cash to some degree. Stablecoins are spurring this conversation in a way that electronic
+banking never did (because stablecoins prove it’s technologically feasible to have pseudonymous digital
+cash). So what? The treatment of privacy and surveillance in stablecoin design will greatly influence their
+societal acceptance. If stablecoins manage to “get it right,” they could be the answer to a very modern
+riddle: how to have a fast, digital economy without giving up all privacy. This would make stablecoins not
+just an upgrade in speed or cost, but an upgrade in the quality of financial freedom available to people.
+That certainly underpins the thesis of a major infrastructure improvement. Conversely, if they become
+hyper-transparent, they might still be an upgrade in efficiency but at a cost to privacy – something
+policymakers and users will have to weigh. Either way, the fact that stablecoins force us to grapple with
+these fundamental issues (privacy vs security, anonymity vs compliance) shows how deeply they are
+changing the financial landscape.
+Zero-Knowledge Proofs and “Compliance Without Surveillance”: A centerpiece of the emerging privacy-
+compliance solution are zero-knowledge proofs (ZKPs). These cryptographic tools let someone prove a
+statement is true without revealing the underlying information. In the stablecoin context, as detailed by
+researchers Pauwels (2021) and highlighted by the IMF 94 95 , this could mean proving “I am over 18 and
+not on a sanctions list” without revealing my name or age. Already, protocols like zkSync or Aztec have
+demonstrated basic private transactions using ZKPs on Ethereum, and projects are working on zk-proof
+based digital ID. The IMF’s model specifically describes embedding a “zkKYC token” into each transaction,
+which “proves KYC compliance without revealing user identities”, and notes that the actual identity
+credentials remain off-chain in the user’s wallet or with the credential issuer 96 97 . Only if a suspicious
+pattern triggers an alert would authorities follow legal process to decode the identity 89 98 . This approach
+has been called “privacy-preserving regulation” or “trustless compliance.” It turns the current paradigm on its
+head: rather than trusting a bank to surveil and report, the system itself enforces rules with code, while
+11keeping user data encrypted. It’s akin to having automated border control gates – your passport is verified by
+a machine which only outputs pass/fail, rather than handing your full identity to a human inspector every
+time. The IMF authors (which include notable Stanford professor Darrell Duffie) stress that this would
+“replace time-consuming off-chain manual reviews with proactive on-chain algorithmic
+supervision.” 99 96 In other words, compliance would be baked into transactions via smart contracts.
+This yields real-time oversight – a flagged transaction can be halted or investigated immediately, instead of
+after-the-fact. Importantly, compliant users’ privacy is largely preserved; the system only unveils data if
+red flags appear 89 90 . Technologists sometimes call this “selective transparency” or “granular disclosure.”
+For example, Alice can prove she’s not transacting above her allowed limit without stating the exact amount
+of her holdings or her identity – all the regulator sees is a proof that rules are met. This vision is not sci-fi;
+it’s being prototyped in projects like Mastercard’s recent work on zero-knowledge for CBDC, or startups
+enabling “regulated DeFi.” If successful, it addresses the main criticism of public blockchain finance (that it’s
+either too opaque for regulators or too transparent for users, or somehow both!). It shows a path where
+stablecoins could “have their cake and eat it too” – enjoy the openness and speed of blockchain, and
+satisfy regulatory demands, and uphold privacy rights. So what? If stablecoins adopt such ZK identity
+frameworks, it would represent an institutional breakthrough. The current financial system tends to treat
+privacy and compliance as opposing forces in zero-sum tension. A ZK-enabled stablecoin system could
+achieve something unprecedented: compliance with rules without mass surveillance. That is a qualitative
+improvement over electronic banking, where compliance is achieved through heavy surveillance and data
+collection (KYC documents, transaction monitoring, etc.). It means grandma could use a stablecoin to buy
+groceries with the same privacy as cash, but if someone tries to launder money, the system can catch it –
+ideally without revealing everyone else’s info. Achieving this would strongly validate stablecoins as the next-
+gen financial infrastructure: one that is more efficient, more inclusive, and more protective of civil liberties.
+It marries cutting-edge cryptography with everyday finance. And conceptually, it continues the trend of
+transferring trust from institutions to technology (first stablecoins transferred trust of value to
+code+collateral, now they might transfer trust of compliance to code+cryptography). In conclusion, the way
+stablecoins handle identity and privacy will significantly influence their legacy. They have the potential to
+set new standards for privacy in digital payments, which is a core pillar of a free society. If electronic
+banking was about convenience and speed (but at the cost of creating large centralized databases of
+personal finance data), stablecoin infrastructure can be about convenience, speed and personal
+autonomy. That would indeed be a momentous upgrade.
+Inequality and Development: Inclusion, Leapfrogging, and the
+Digital Divide
+Financial Inclusion – From M-Pesa to Global Stablecoins: A major promise of digital finance is to include
+the “unbanked” – those without access to traditional banking – thereby reducing poverty and inequality.
+Over the past decade, research on mobile money in developing countries provides encouraging
+evidence. The landmark example is Kenya’s M-Pesa. Launched in 2007, it allowed anyone with a simple
+mobile phone to send and receive money via SMS. By 2016, researchers Tavneet Suri and William Jack found
+M-Pesa had “increased per capita consumption levels and lifted 194,000 households (2% of Kenyan
+households) out of extreme poverty” 100 . Crucially, it had a particularly strong impact on women: an
+estimated 185,000 women moved from subsistence farming to business occupations thanks to
+mobile money access 101 . This demonstrates how digital payment infrastructure can empower people to
+save, invest, and diversify incomes, especially women who gained more financial independence 102 103 .
+The “M-Pesa model” – using ubiquitous mobile phones to offer basic financial services – has been replicated
+in other countries (Bangladesh’s bKash, Pakistan’s Easypaisa, etc.), generally with positive outcomes in
+12terms of convenience and sometimes formal savings. However, most such systems are national and often
+closed loops (run by a telco or consortium, with the local currency). Stablecoins represent an extension of
+this model to a global, open platform. They are to the smartphone and internet what M-Pesa was to
+feature phones and SMS. In fact, many emerging-market users already treat stablecoins as a higher-tech M-
+Pesa: a tool for remittances, saving in dollars, or transacting online where local money is unstable or
+payment infrastructure weak. For example, Nigeria and other African countries have high stablecoin
+usage for peer-to-peer transfers and commerce, precisely because a large young population is mobile-
+native but underserved by banks 104 105 . The Africa Financial Summit this year discussed how
+“stablecoins can help Africa leapfrog outdated payment rails and foster financial inclusion.” 104 In countries with
+double or triple-digit inflation, even those with bank accounts often choose stablecoins to preserve value –
+effectively giving ordinary people access to a stable savings instrument (the US dollar in digital form) that
+was previously out of reach or dangerous to hold in cash. This helps protect wealth from being eroded,
+which is a direct boon to poverty reduction. Remittances are another area: stablecoins can reduce fees
+dramatically (from Western Union’s ~5-10% down to under 1% in many crypto remittance services) and
+increase speed (minutes instead of days) 106 107 . The IMF notes “stablecoins could enable faster, cheaper
+cross-border payments…some remittances cost up to 20%...blockchains can reduce costs” 106 108 . Cheaper
+remittances mean more money in the hands of recipient families – a direct welfare improvement. A concrete
+example: an immigrant in the US can send USDC to family in Latin America who then convert it to local
+currency or use it via local crypto agents; this bypasses costly intermediaries. During the COVID-19
+pandemic, in some countries where lockdowns shut banks or cash agents, people turned to digital dollars
+as a lifeline for receiving aid or support. So what? If stablecoins can replicate and scale the successes of
+mobile money, the impact on global development could be substantial. They offer a way for people in any
+country to “access dollar liquidity outside of the U.S. banking system” 109 – both a benefit and a
+geopolitical controversy. For individuals, it means not being solely at the mercy of local financial instability.
+Importantly, stablecoins can knit together diasporas and domestic economies: a farmer in rural Guatemala
+might receive stablecoin remittances from her son in New York directly on her phone, something neither
+country’s banks made easy. This kind of leapfrogging of financial infrastructure mirrors how many
+developing regions skipped landline phones and went straight to mobiles. The IMF explicitly observes:
+“Many developing countries are already leapfrogging traditional banking with the expansion of mobile phones
+and … digital money.” 110 111 . Stablecoins supercharge that trend by providing a common currency (USD)
+and platform (internet/blockchain) that is not limited to one telecom or nation. It’s an infrastructure of
+inclusion: anyone with a basic internet connection can download a wallet app and effectively have a “dollar
+bank account” in minutes, often without onerous paperwork. Traditional electronic banking hasn’t achieved
+that ubiquity – billions still lack bank accounts, but billions do have mobile internet now. Thus, stablecoins
+can bring financial services to people who’ve been left out, at nearly zero marginal cost. That’s a profound
+upgrade in the inclusiveness of the financial system.
+The Digital Divide – Who Benefits, Who Might be Left Behind: While stablecoins can broaden access, we
+must consider who might be excluded. The digital divide refers to the gap between those with easy access
+to digital tech and those without. Stablecoins, by nature, require at least a device (smartphone or computer)
+and internet connectivity. Globally, about 5 billion people have mobile internet access, but that leaves ~3
+billion without, often among the poorest or in remote areas. Moreover, even among those with access,
+there’s a skills divide – using crypto wallets can be non-intuitive for newcomers, and there are language and
+literacy barriers. If stablecoins become a primary financial rail, there’s a risk the most marginalized (those
+without phones, or who are not digitally literate) could be further marginalized. This is similar to
+concerns from the rise of online banking: some older or rural folks struggled when branches closed in favor
+of apps. However, there are mitigations. First, phone penetration is rapidly growing; cheap smartphones are
+13proliferating. Many countries in sub-Saharan Africa already have ~50-60% smartphone usage and rising.
+Second, innovations can bring stablecoins to basic phones – for example, through SMS interfaces or USSD
+menus (some projects are working on “stablecoin via text message” to emulate M-Pesa’s approach). Also,
+agent networks – local shops or kiosks where people can deposit or withdraw cash for digital value – can
+be used with stablecoins as they are with mobile money 112 113 . The uploaded user guide lists ideas like
+“Agent network for cash-to-stablecoin conversion in underserved areas” 113 . If such on/off-ramp networks
+develop, even people without personal internet could use stablecoins via an intermediary (much like many
+M-Pesa users rely on agents). In effect, a village store could function like a micro-bank: converting cash to a
+stablecoin on the owner’s device that can then be sent cheaply to another village. Another consideration:
+costs and fees. Currently, using stablecoins might involve blockchain fees which can sometimes spike
+(Ethereum gas fees, etc.). Solutions include using cheaper networks or layer-2 scaling. Many stablecoin
+transactions have moved to low-fee chains (like Tron or Solana) to cater to emerging market users with tiny
+transaction sizes. As of 2025, an international USDT transfer on Tron costs a few cents – far less than a
+remittance wire. Over time, technology tends to drive these costs down (and there’s competition among
+blockchains to host stablecoin activity). So, the cost barrier is likely to keep falling. Perhaps the deeper
+challenge is education and consumer protection. The unbanked may be more vulnerable to scams if dealing
+with crypto – there have been instances of fraudulent “wallet apps” or Ponzi schemes targeting newbies. So
+financial literacy efforts must accompany rollouts of stablecoin services in developing areas. This is not
+unlike the early days of mobile money, which required community education on how to use PINs and avoid
+sharing them, etc. Governments and NGOs have a role to play in safe adoption. So what? Acknowledging
+the digital divide tempers the utopian view – stablecoins won’t automatically help everyone. But they greatly
+lower the barriers to inclusion. Unlike building bank branches or ATM networks (which are expensive and
+thus skip poor villages), extending stablecoin access is mainly a matter of network coverage and
+affordable devices, which are improving yearly. In a sense, stablecoins hitch financial inclusion to the
+broader trend of tech inclusion. If Starlink and similar initiatives succeed in bringing internet to remote
+regions, stablecoin financial access comes along for the ride. One speculative but intriguing idea is that
+stablecoins could motivate infrastructure: a government might push rural connectivity specifically to enable
+modern financial services via stablecoins/CBDCs to its citizens (similar to how seeing the economic benefits
+of M-Pesa led Kenya to ensure telecom coverage expanded). Ultimately, stablecoins can reach the “truly
+unbanked” to the extent that digital tech reaches them. And given that two-thirds of unbanked adults globally
+own a mobile phone (per World Bank Findex data), the potential is there. The development “so what” is that
+stablecoins could accelerate progress toward SDG goals on financial inclusion. They provide a toolkit for
+NGOs, fintechs, and social enterprises: e.g., distributing humanitarian cash aid directly as a token to
+refugees who can hold it securely on a phone – reducing theft or diversion, and allowing easier accounting.
+The American Red Cross, for instance, has piloted using stablecoins for aid in crisis zones where banking is
+destroyed. Such use cases show stablecoins as an infrastructure for resilience: when the traditional
+system is weak or compromised (be it by corruption, disaster, or hyperinflation), a stablecoin on a
+decentralized network can keep commerce and aid flowing. That resiliency is itself a boost for equality – it
+means vulnerable communities aren’t cut off from money flows when they need them most.
+Leapfrogging Legacy Systems: The concept of “leapfrogging” in development economics refers to
+skipping intermediate stages of technology. For example, many African countries moved from limited
+telephone access straight to ubiquitous mobile phones, bypassing the expensive rollout of landlines. In
+finance, a similar leapfrog may occur: instead of building dense branch networks, card payment
+infrastructure, and mass credit card issuance (which took decades in the West), a developing economy could
+jump to widespread mobile wallet and stablecoin use in a short span. There’s evidence this is happening.
+Cambodia’s central bank launched Bakong, a DLT-based payments system, achieving high adoption
+14without waiting for card penetration to catch up. In Nigeria, a huge portion of the population went from
+cash to mobile/digital app-based transactions within a decade, spurred by fintech and, more recently,
+crypto use amid currency issues. The Messari crypto report dubbed it “The Stablecoin Leapfrog”, noting that
+“Emerging markets are rapidly adopting stablecoins to bypass traditional banking systems” due to user-friendly
+apps and distrust in banks 114 115 . One could envision a future where, say, an African startup scene
+builds on stablecoins and decentralized finance, offering loans and savings to people who never had
+a bank account but do have a smartphone. That would skip the 20th-century model of branch-based
+banking entirely. Leapfrogging also applies to cross-border integration. Many emerging markets are not
+well-served by correspondent banking (some are “de-risked” out of global networks). Stablecoins allow them
+to plug into the global dollar network instantly. CARICOM countries and African nations are eyeing
+stablecoins as a way to integrate into global trade without fully relying on correspondent banks 109 .
+One analyst wrote that for small countries, “stablecoins allow access to dollar liquidity outside U.S. banking –
+both a benefit and a geopolitical risk”, hinting at a leapfrog that could undermine Western banking
+dominance but help local economies function in dollars during crises 109 . Another aspect is efficiency
+leapfrogging: stablecoins + smartphones can produce far lower transaction costs than legacy systems. A
+McKinsey report estimated digital finance (including mobile money) could add $3.7 trillion to GDP of
+emerging economies by 2025 through increased productivity and time savings – stablecoins turbocharge
+that by enabling instant, automated payments and lending, globally. For example, a farmer could get a micro-
+loan disbursed in a stablecoin via a smart contract after automatically proving collateral or identity through
+their mobile – no local bank needed. This is speculative but within the realm of possibility as DeFi and TradFi
+converge. So what? Leapfrogging with stablecoins suggests that late-developing countries might avoid
+many infrastructure traps – they might not need to build extensive ATM networks, or wait for everyone to get
+national ID and bank paperwork, or suffer from hard-currency shortages in banking. They can jump to a
+model where a widely accepted stablecoin (likely USD) circulates digitally, and local fintechs build user-
+friendly layers atop it (providing localized services, integration with retail, etc.). This could compress decades
+of financial sector development into a few years of tech rollout. It also means these countries could “skip a
+generation” of financial technology, with all the cost savings that entails. From a policy perspective, that’s
+both exciting and challenging: exciting because it can drive growth and inclusion quickly, challenging
+because regulators and institutions have to adjust to a new paradigm (e.g., managing monetary policy
+when much of the money supply is in privately issued digital dollars). The experience of M-Pesa is
+instructive: Kenya’s banking sector initially resisted it, then adapted and grew alongside it. We might see
+incumbent banks in emerging markets either collaborate with stablecoin providers (issuing their own or
+integrating them) or try to catch up with their own digital offerings. The ones that adapt could extend
+services to millions more; the ones that don’t might lose relevance. For the thesis, this leapfrogging
+underscores how stablecoins aren’t just making existing systems marginally better – they are allowing
+entirely new systems to emerge in places that lacked financial infrastructure. That’s arguably a more
+significant upgrade than what electronic banking did in rich countries (which was mostly digitizing existing
+account relationships). It’s more analogous to how cheap cellular tech brought communication to villages
+that never had phone lines at all. When you bring stable, internet-native money to a population that never
+had reliable banking, the leap in capabilities is dramatic. This can spur entrepreneurship (e.g., freelancers in
+a developing country can now easily get paid in stablecoin from global clients), improve livelihoods, and
+integrate these economies into global commerce on fairer terms. Of course, it raises issues of sovereignty –
+a world of dollar stablecoins could reduce use of local currencies. But some argue that might discipline bad
+policies and provide a more stable unit for daily life 26 . In any case, for individual welfare, being able to
+hold a stablecoin beats holding rapidly inflating cash under the mattress.
+15Measurable Impacts – Empirical Data and RCTs: As of now, stablecoins per se haven’t been around long
+enough for extensive academic impact evaluations (no long-run RCTs specifically on stablecoin distribution
+have been published to our knowledge). But we can extrapolate from related digital finance studies. A 2021
+meta-analysis of financial inclusion interventions (digital and otherwise) found small but positive effects
+on poverty reduction on average 116 117 . Digital finance particularly tends to improve consumption
+smoothing and lower transaction costs. For instance, randomised trials of giving out free basic mobile
+money accounts showed increased resilience to shocks for households. We can anticipate that stablecoins,
+by lowering cost and increasing access even further, would amplify such effects. One could imagine a future
+study where a village is randomly encouraged to use stablecoin wallets (with training and perhaps
+subsidies) and another similar village isn’t, and after a year the former might show higher savings, more
+remittances received, etc. Given the evidence from M-Pesa and others, it’s reasonable to expect positive
+outcomes. Another crucial dimension is cost savings. The World Bank tracks remittance costs – global
+average ~6.5%. If stablecoins cut that to say 3%, that difference puts billions of extra dollars into the hands
+of low-income families each year (remittances to developing countries were about \$626 billion in 2022, so a
+3.5 percentage-point reduction saves ~$22 billion annually for recipients). That’s akin to a major aid
+program, except it happens through technology efficiency. Moreover, stablecoins can help small businesses.
+Think of a small exporter in an emerging market: instead of waiting weeks for payment and losing 5% to
+forex fees, they could receive a stablecoin immediately upon shipment, and either use it to pay suppliers or
+convert at a crypto exchange locally at a tighter spread. This improves their cash flow and profitability,
+potentially allowing them to grow and hire more. These micro improvements accumulate economy-wide. As
+one Morgan Stanley report put it, stablecoins and related innovations are “modernizing financial
+infrastructure” and could boost GDP by streamlining trade and lowering friction 118 . So what? The macro
+implication is that countries who embrace this leap might accelerate economic development, much like
+those that quickly adopted mobile phones saw boosts in growth. Those who hesitate might fall behind. We
+already see some governments proactively exploring stablecoins or integrated digital currency frameworks
+(e.g., Brazil’s central bank is piloting a tokenized real that can interoperate with stablecoins, aiming
+to make their financial system more efficient 119 120 ). This competitive dynamic underscores that
+stablecoins are now part of the development toolkit. The World Economic Forum’s 2026 agenda includes
+stablecoins as a topic for expanding access to the underserved 121 , indicating high-level recognition.
+Summing up, stablecoins hold promise to reduce inequality by leveling access to a stable unit of account
+and modern payments. But they must be implemented with care to avoid creating a new underclass of
+“digitally invisible” people. If done right, stablecoins can help fulfill the long-standing goal of universal
+financial access. That is not just a fintech improvement – it’s a societal upgrade on par with bringing
+electricity or telecom infrastructure to everyone. Few innovations since electronic banking can claim that
+potential. Electronic banking widened access to some extent (e.g., microfinance and mobile banking
+helped), but stablecoins can universalize it across borders. This transformative potential is central to why
+stablecoins are viewed as a significant infrastructure advance: they could knit the world’s unbanked into the
+fabric of global finance in a way traditional banking has not managed to do in decades of effort. And that,
+ultimately, is a humanitarian and economic boon that strengthens the thesis of stablecoins as a
+revolutionary financial infrastructure.
+Key Findings and “So What” Summary: Across monetary theory, network economics, infrastructure,
+identity/privacy, and development, our deep dive yields consistent themes. Stablecoins fuse the credibility
+of fiat with the technology of crypto to create a novel monetary form that challenges old assumptions
+(Hayek’s private money vision partially realized, new categories of money beyond fiat/commodity) 11 10 .
+They shift power and profit in the monetary system (private seigniorage in the tens of billions 39 40 ,
+potential loss of monetary control by states 26 ). They operate on network dynamics that could entrench
+16them as global standards (exponential adoption curves, Metcalfe effects making them more useful as they
+grow 43 47 ). They upgrade the ledger infrastructure, making money transfer as interoperable and
+instant as data on the internet – a leap analogous to containerization in shipping or the telegraph in
+communication 71 64 . They bring forth the possibility of restoring privacy through cryptography in a
+digital age, addressing the tension between security and liberty by engineering compliance that doesn’t spy
+on everyone 84 89 . And they offer developing regions a chance to leapfrog, plugging into global
+commerce and stable value without waiting for legacy systems to trickle down 110 122 . In concrete terms:
+stablecoin transactions have exploded to $27+ trillion a year 47 , outpacing Visa; countries with high
+inflation see stablecoins acting as de facto stable currency for daily use 22 ; experimental evidence from
+mobile money suggests similar digital finance tools lift people from poverty 100 ; and technological pilots
+show that zero-knowledge identities can square the circle of privacy vs regulation 84 89 .
+All these pieces point to stablecoins being more than a speculative crypto fad – they constitute an
+infrastructural innovation with wide-ranging economic and social implications. Much like electronic
+banking (ATMs, ACH, online accounts) transformed finance in the late 20th century – enabling global
+commerce growth, card networks, and round-the-clock markets – stablecoins in the 21st century are poised
+to transform finance again. They promise an even more integrated and user-centric system: money that’s
+always on, borderless, and programmable; access that’s democratized; ledgers that are unified yet respect
+individual privacy. Challenges remain (regulatory clarity, managing risks, bridging the digital divide), but the
+intellectual foundations laid out here provide strong support for the thesis. Stablecoins can indeed be seen
+as “the most significant financial infrastructure upgrade since electronic banking” – not because they
+replace the dollar or euro, but because they upgrade the rails and rules by which money moves, potentially
+making the global financial system more efficient, inclusive, and innovation-friendly than ever before.
+Sources:
+• Hayek, Friedrich A. Denationalisation of Money: The Argument Refined. Institute of Economic Affairs,
+1976. (Hayek’s private currency model as context for stablecoin competition) 1 2
+• Cengiz, Firat. “Stablecoins and their regulation: a Hayekian approach.” Journal of International
+Economic Law, vol. 28, no. 2, 2025, pp. 204–223. (Finds stablecoins meet key conditions of Hayek’s
+model like stability and transparency, but not anti-inflationary) 11 12
+• Luther, William J. “Cryptocurrencies and the Denationalization of Money.” AIER, Dec 2018. (Explains
+Hayek’s theory and how cryptocurrencies and stablecoins align or differ, noting network effects and
+credibility issues) 43 123
+• MDPI (Basco et al.). “Hayekian Hurdles: Challenges to Cryptocurrency as a Viable Basis for a New
+Monetary Order.” Economies, vol. 13, no. 1, 2025, pp. 12. (Analyzes how stablecoins mimic Hayek’s
+idea via pegging to reserves, highlighting trade-offs of pegging to fiat) 5 6
+• Cato Institute (Caitlin Long). “Ten Stablecoin Predictions and Their Monetary Policy Implications.”
+Cato Journal, Spring/Summer 2021. (Documents stablecoins’ high velocity: average 109x/year
+turnover, with some at 900x, vs traditional money velocity) 30 33
+17• Project Syndicate (Armstrong & Snower). “The Stablecoin Threat.” Nov 17, 2025. (Argues
+stablecoins could undermine monetary sovereignty; notes private issuers now earn interest on
+reserves that used to go to public sector) 40
+• Chainalysis. 2024 Geography of Cryptocurrency Report – Latin America Excerpt. Oct 2024. (Shows rising
+stablecoin use in inflation-hit countries: Argentina 62% of volume stablecoins, correlation with
+inflation spikes) 21 22
+• Suri, Tavneet, and William Jack. “The long-run poverty and gender impacts of mobile money.” Science,
+vol. 354, issue 6317, 2016, pp. 1288-1292. (Found M-Pesa lifted 2% of Kenyan households out of
+extreme poverty and enabled 185k women to move to business jobs) 100 101
+• IMF Blog (Adrian, Miccoli, Sugimoto). “How Stablecoins Can Improve Payments and Global
+Finance.” IMF Blog, Dec 4, 2025. (Discusses stablecoins’ potential for cheap remittances and
+inclusion, and risks like currency substitution; notes developing countries leapfrogging with mobile
+and digital money) 106 110
+• BIS Annual Economic Report 2025, Chapter III. “The next-generation monetary system.” (Assesses
+crypto and stablecoins against criteria of singleness, elasticity, integrity; finds stablecoins fail as core
+system due to pseudonymity allowing illicit use and fragmentation, but acknowledges their role in
+emerging market payments and as catalyst for innovation) 45 48
+• AIER (Salter, Glazier, et al.). “What Shipping Containers Did for Trade, Stablecoins Can Do for
+Money.” Sep 8, 2025. (Draws analogy between container standardization and stablecoin regulatory
+standardization; cites $27T stablecoin transactions in 2024 > Visa+MC; argues stablecoins make
+moving money as efficient as moving goods post-container) 64 47
+• IMF F&D Magazine (Duffie et al.). “The Stablecoin Balancing Act.” Finance & Development, Sep 2025.
+(Proposes a compliance-by-design model with hashed credentials and zero-knowledge proofs for
+KYC in stablecoin systems; demonstrates how to achieve AML objectives without mass data
+exposure) 84 89
+• American Banker (Carpenter). “Stablecoins need privacy baked in, not bolted on.” Aug 2023.
+(Emphasizes building privacy features into stablecoin networks from the start, to protect salary info,
+personal data, etc., otherwise risk of financial surveillance) 91
+• Financial Transparency Coalition. “Is Financial Privacy a Human Right?” Nov 2019. (Discusses
+privacy rights in context of financial data, implying financial privacy falls under the fundamental right
+to privacy recognized internationally) 86 87
+• Messari Report. “The Stablecoin Leapfrog: How Emerging Markets are Bypassing Traditional
+Banking.” 2023. (Documents case studies of stablecoin adoption in Africa, LatAm; argues user-
+friendly apps and lack of trust in banks drive people to stablecoins, effectively skipping legacy
+financial systems) 122 115
+18• Morgan Stanley Research. “Stablecoins – Modernizing financial infrastructure.” June 2023.
+(Highlights that stablecoins combine fiat stability with blockchain efficiency; suggests that with
+regulation, institutional adoption will grow, improving cross-border payments and liquidity in
+financial markets) 118
+• World Economic Forum / Circle. “How stablecoins can expand financial access to the most
+underserved and unbanked.” Jan 19, 2026, by Elisabeth Carpenter. (Outlines use cases of stablecoins
+in emerging markets and humanitarian settings, supporting the view that stablecoins can include
+underserved communities in the financial system) 121
+• MIT News. “Mobile money services lift Kenyans out of poverty.” Dec 8, 2016. (Summarizes Suri &
+Jack’s findings; provides specific numbers on poverty reduction and women’s occupational shifts due
+to mobile money) 100 103
+• CashEssentials (Lepecq). “Financial Privacy is a Human Right.” Nov 2020. (Advocacy piece
+underscoring that privacy, including financial, is essential for civil liberties; often cited by cash
+advocates pointing to dangers of a cashless surveillance economy) 87
+(The above sources include academic journals, IMF and BIS reports, think-tank and policy analyses, and case
+studies from 2016–2025. Together, they provide the quantitative data, theoretical arguments, and real-world
+examples underpinning the assessment of stablecoins as a major financial infrastructure upgrade.) 1 64 22
+100
+1
+2
+3
+4
+28
+43
+123
+Cryptocurrencies and the Denationalization of Money | AIER
+https://aier.org/article/cryptocurrencies-and-the-denationalization-of-money/
+5
+6
+7
+8
+9
+Hayekian Hurdles: Challenges to Cryptocurrency as a Viable Basis for a New Monetary
+Order
+https://www.mdpi.com/2227-7099/13/1/12
+10
+14
+15
+17
+Stablecoin Toolkit
+https://bdap.wharton.upenn.edu/wp-content/uploads/2026/01/Stablecoin-Toolkit.pdf
+Stablecoins and their regulation: a Hayekian approach | Journal of International Economic Law |
+Oxford Academic
+11
+12
+13
+https://academic.oup.com/jiel/article/28/2/204/8139924
+16
+Andrew Bailey: Reinventing the wheel (with more automation)
+https://www.bis.org/review/r200903d.pdf
+18
+19
+20
+21
+22
+23
+24
+25
+56
+57
+119
+120
+2024 LATAM Crypto Adoption: The Rise of Stablecoins
+https://www.chainalysis.com/blog/2024-latin-america-crypto-adoption/
+26
+27
+54
+55
+77
+78
+106
+107
+108
+110
+111
+How Stablecoins Can Improve Payments and Global Finance
+https://www.imf.org/en/blogs/articles/2025/12/04/how-stablecoins-can-improve-payments-and-global-finance
+29
+30
+31
+32
+33
+34
+62
+63
+Ten Stablecoin Predictions and Their Monetary Policy Implications | Cato
+Institute
+https://www.cato.org/cato-journal/spring/summer-2021/ten-stablecoin-predictions-their-monetary-policy-implications
+1935
+37
+Tether's 99% Margin Claim: Stablecoin Seigniorage at Industrial Scale
+https://fintelegram.com/tethers-99-margin-claim-stablecoin-seigniorage-at-industrial-scale/
+36
+41
+42
+The Stablecoin Threat by Angus Armstrong & Dennis J. Snower
+https://www.project-syndicate.org/commentary/stablecoins-too-big-to-fail-and-eroding-monetary-and-fiscal-policy-by-angus-
+armstrong-and-dennis-j-snower-2025-11
+38
+Yield-Bearing Stablecoins Challenge Dominance of Tether, Circle
+https://www.bloomberg.com/news/articles/2025-05-20/yield-bearing-stablecoins-challenge-dominance-of-tether-circle
+39
+Stablecoin Issuers Earn $10 Billion Annually Driven by Reserve ...
+https://www.ainvest.com/news/stablecoin-issuers-earn-10-billion-annually-driven-reserve-interest-2507/
+40
+The Weekly Peg: Making seigniorage great again
+https://www.thepeg.co/p/the-weekly-peg-making-seigniorage
+44
+Forward to the Past? Hayek, Free Banking, and the Cryptocurrency ...
+https://ecaef.org/forward-to-the-past-hayek-free-banking-and-the-cryptocurrency-revolution/
+45
+46
+48
+67
+68
+74
+75
+76
+III. The next-generation monetary and financial system
+https://www.bis.org/publ/arpdf/ar2025e3.htm
+47
+64
+65
+69
+70
+71
+72
+73
+79
+What Shipping Containers Did for Trade, Stablecoins Can Do for Money |
+AIER
+https://aier.org/article/what-shipping-containers-did-for-trade-stablecoins-can-do-for-money/
+49
+50
+59
+61
+66
+Stablecoins: The Ultimate Tool of Currency Hegemony » Bot Populi
+https://botpopuli.net/stablecoins-the-ultimate-tool-of-currency-hegemony/
+51
+Stablecoins: Now the Web2 Fintech Giants and Banks Are Paying ...
+https://medium.com/fabric-ventures/stablecoins-now-the-web2-fintech-giants-and-banks-are-paying-attention-b1d74906aa77
+52
+Big Brands Launch Stablecoins, But Interoperability Holds Key
+https://www.linkedin.com/posts/pymnts-com_big-brands-are-launching-stablecoins-the-activity-7406763061987930113-WDFM
+53
+Stablecoins for remittances? A solution in search of a problem
+https://www.lowyinstitute.org/the-interpreter/stablecoins-remittances-solution-search-problem
+58
+FIS Research: Banks Hold the Key to Stablecoin Adoption
+https://fisglobal.gcs-web.com/news-releases/news-release-details/fis-research-banks-hold-key-stablecoin-adoption
+60
+The stablecoin moment - State Street
+https://www.statestreet.com/us/en/insights/stablecoin-moment
+80
+81
+82
+83
+84
+85
+89
+90
+94
+95
+96
+97
+98
+99
+The Stablecoin Balancing Act - International Monetary
+Fund
+https://www.imf.org/en/publications/fandd/issues/2025/09/the-stablecoin-balancing-act-darrell-duffie
+86
+Is Financial Privacy a Human Right? (More Unlikely Questions)
+https://financialtransparency.org/is-financial-privacy-a-human-right-more-unlikely-questions/
+87
+[PDF] Privacy of Financial Information and Civil Rights Issues
+https://insight.dickinsonlaw.psu.edu/cgi/viewcontent.cgi?article=1387&context=psilr
+88
+STATEMENT: Rep. Emmer should center user's financial privacy ...
+https://www.fightforthefuture.org/news/2023-02-22-statement-rep-emmer-should-center-users-financial-privacy-not-private-
+sector-profit/
+2091
+92
+Stablecoins need privacy baked in, not bolted on - American Banker
+https://www.americanbanker.com/opinion/stablecoins-need-privacy-baked-in-not-bolted-on
+93
+The Promise of Targeted Advertising and the Perils of Privacy
+https://mph-intl.com/blog/stablecoins/stablecoins-the-promise-of-targeted-advertising-and-the-perils-of-privacy/
+Study: Mobile-money services lift Kenyans out of poverty | MIT News | Massachusetts
+Institute of Technology
+100
+101
+102
+103
+https://news.mit.edu/2016/mobile-money-kenyans-out-poverty-1208
+104
+105
+stablecoins & sovereignty: africa's digital money revolution - air
+https://regulationinnovation.org/podcast/stablecoins-sovereignty-africas-digital-money-revolution/
+109
+Stablecoins, Sovereignty, and Survival: Why CARICOM and Africa ...
+https://www.boniltd.com/post/stablecoins-sovereignty-and-survival-why-caricom-and-africa-might-leapfrog-the-financial-status-q
+112
+113
+100 Stablecoin Company Opportunities.pdf
+file://file_0000000045e071f59b28fda8496b600e
+114
+115
+The Stablecoin Leapfrog: How Emerging Markets are Bypassing ...
+https://messari.io/report/the-stablecoin-leapfrog-how-emerging-markets-are-bypassing-traditional-banking
+116
+117
+The impact of financial inclusion initiatives: Evidence from meta ...
+https://onlinelibrary.wiley.com/doi/full/10.1002/jid.3943
+118
+Stablecoins – Modernizing financial infrastructure | Morgan Stanley
+https://www.morganstanley.com/im/en-us/individual-investor/insights/articles/modernizing-financial-infrastructure.html
+121
+Circle - The World Economic Forum
+https://www.weforum.org/organizations/circle-internet-financial/
+122
+Stablecoins: Leapfrogging Africa's Financial System
+https://hashedem.substack.com/p/stablecoins-leapfrogging-africas
+21
