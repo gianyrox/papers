@@ -1,0 +1,1093 @@
+Global Stablecoin Paradigm Shift: Integrated
+Research Report
+A. Human Themes of 2005–2026
+A1. Defining Themes of the Era (2005–2026)
+The period from the mid-2000s to the mid-2020s has been marked by profound social undercurrents
+beyond just technology. Erosion of institutional trust is a defining theme: globally, trust in government,
+media, and other institutions has declined steadily since 2005 1 . By 2026, only one-third of people say
+“most people can be trusted,” with distrust now the default mindset 2 3 (Confidence: HIGH). This trust
+deficit has fostered insularity and polarization. According to the Edelman Trust Barometer 2026, 70% of
+people are hesitant to trust anyone with different values or backgrounds, preferring “closed ecosystems of
+trust” and even nationalism over global connection 4 5 (Confidence: HIGH). “No man is an island,” wrote
+John Donne, but today many have retreated into cocoons, resisting dialogue and rejecting those unlike
+themselves 6 2 . This insular trend connects to rising grievance and populism: 60% worldwide feel
+business and government “served only the rich”, fueling a sense of unfairness 7 (Confidence: HIGH). It’s
+no surprise that political populism and anger have surged (e.g. protests, Brexit, Trump’s rise) – a backlash
+to perceived elites and inequality (Confidence: HIGH, evidenced by global surveys and events).
+At the same time, hyper-connectivity has transformed how people relate to each other and work. Social
+media usage exploded from near-zero in 2005 to nearly 64% of the world’s population by 2025 8 .
+Billions spend hours daily on platforms that flatten distance – anyone can communicate or share media
+instantly. This connectedness has had a double edge: it enables community and movements, yet also
+spreads misinformation and echo chambers, exacerbating the trust crisis (Confidence: HIGH – widely
+documented by sociologists and media analysts). Work and identity have been disrupted by technology as
+well. The smartphone/internet revolution birthed the gig economy and remote work culture. Notably,
+during the pandemic, Zoom went from 10 million daily meeting participants in late 2019 to 300 million by
+April 2020 9 , illustrating a massive shift to virtual work and collaboration (Confidence: HIGH). People can
+earn a living from anywhere, but this also erodes traditional job security and community ties. Many
+workers, especially younger generations, face precarious employment (freelancing, gig work) and are
+seeking meaning and dignity in their work beyond just a paycheck (Confidence: MEDIUM – supported by
+qualitative studies on millennial work attitudes).
+Another deep pattern is the crisis of future optimism. A strikingly low proportion – just 15% in developed
+countries – believe the next generation will be better off than today 10 (Confidence: HIGH). Events like
+the 2008 financial meltdown, a slow recovery, climate change fears, and the 2020 pandemic have
+contributed to a pervasive sense of uncertainty. “The risks to society—from manic swings in popular sentiment
+and rejection of innovation—are real,” warns Richard Edelman, noting a global loss of optimism and
+resistance to change 11 12 . Younger people especially feel anxiety about the future, from economic
+stability to the climate. These concerns tie back to money: the 2008 crisis in particular was a generational
+1shock that shattered faith in the financial system and left lingering cautiousness (Confidence: HIGH, widely
+reported in economic and cultural commentary).
+Critically, money and finance underpin many of these themes. The 2008–09 global financial crisis stands
+as a watershed moment for trust in institutions (detailed in A2 below). It not only caused economic pain but
+also a moral questioning: Who does the system serve? Movements like Occupy Wall Street highlighted the
+human desire for fairness and accountability in finance. Additionally, inequality has become more visible –
+the top 1% accumulated outsized gains, fueling public discourse about the winners and losers of
+globalization (Confidence: HIGH, supported by economic data). Cultural critics like Yuval Noah Harari and
+Thomas Piketty note that people in this era increasingly challenge the legitimacy of institutions that don’t
+deliver broad prosperity. In hindsight from 2050, one obvious theme of 2005–2026 may be how people
+began redefining trust and power – moving away from blind trust in centralized authorities (government,
+banks, media) and toward peer networks, alternative systems (like crypto), or local community reliance 13
+14 . This period’s deep patterns show a paradox: technology connected the world, yet society became
+fractured in trust – a scenario that set the stage for new ideas about money and value exchange.
+A2. Evolution of Trust (2008–2026), Especially in Finance
+Trust has eroded sharply from 2008 to 2026, with financial systems at the heart of this shift. In the U.S.,
+public confidence in banks collapsed after 2008: in 2007, 41% of Americans had a “great deal or quite a lot”
+of trust in banks, but by 2009 only 22% did 15 . Although confidence crept back up to 38% by 2020, it never
+returned to pre-crisis highs and has fallen again in recent years 16 (Confidence: HIGH, based on Gallup
+longitudinal polling). This trend reflects how the near-collapse of major banks in 2008 – and their government
+bailouts – fundamentally shook people’s faith in the financial establishment. As FiveThirtyEight observed,
+“while a majority once had confidence in banks, that changed dramatically after 2008” 17 . The scars of the
+crisis led many to question whether traditional banks deserved their trust, especially since millions lost jobs
+and homes while banks were rescued (Confidence: HIGH).
+Globally, surveys show trust in institutions is down across both developed and developing nations
+since 2005 1 . A comprehensive UNU-WIDER study finds “a global decline in institutional trust since 2005,”
+particularly a drop in trust toward governments and banks 1 . People increasingly trust those closer to
+them (friends, local networks) more than big institutions, a pattern seen worldwide 18 . This helps
+explain the rise of decentralized finance ethos – the idea of “trustless” systems like Bitcoin emerged
+directly after 2008 as a response to vanishing trust. Indeed, Bitcoin’s pseudonymous founder Satoshi
+Nakamoto embedded a 2009 newspaper headline about bank bailouts into Bitcoin’s genesis block as
+commentary, hinting that Bitcoin was conceived as an alternative when trust in banks was at an all-
+time low 19 20 (Confidence: HIGH). As Investopedia notes, the message in Bitcoin’s first block references
+the 2008 financial crisis, symbolizing a mission to “offer an alternative to traditional financial
+systems” 19 . This historical footnote underscores how trust shifted – from institutional trust toward
+system trust in code and networks.
+By 2026, trust remains “in peril”, according to Edelman’s latest data 21 . There is a 15-point trust gap
+between high-income and low-income groups globally (29 points in the U.S.), reflecting how economic
+divides map onto trust divides 22 . Those left behind economically tend to be far more distrustful of the
+financial system’s fairness (Confidence: HIGH). Young people’s trust is particularly shaky: Research finds
+that younger generations in many countries report lower trust in institutions than older folks 23 , likely due
+to coming of age in turbulent times (2008 crash, political instability, pandemic). The 2008 crisis is a common
+2reference point: it not only depressed trust initially, but its aftereffects (a decade of slow wage growth for
+many, rising inequality) kept skepticism alive. Even in 2023, events like bank failures (e.g. Silicon Valley
+Bank’s collapse) quickly revived public fears – though surveys showed most Americans still felt their own
+deposits were “somewhat or very safe,” 54% thought that a broader financial crisis was at least somewhat
+likely after SVB’s failure 24 (Confidence: MEDIUM, one-time poll). This demonstrates how fragile trust
+remains: confidence can be rattled easily because the baseline level is low.
+It’s important to note that trust in financial systems varies widely by country. Gallup’s 2022 global survey
+found trust in financial institutions ranged from a mere 4% in Lebanon (amid a severe banking crisis) to 95%
+in Kuwait 25 26 . Generally, countries with recent banking upheavals or inflation crises have seen trust
+plummet – e.g. Lebanon’s near-universal lack of faith in banks after its currency collapse 25 27 . In
+contrast, places with stable economies or strict regulation (like Singapore) maintain higher public
+confidence 28 29 . Trust is closely tied to perceived stability: people trust banks when they are seen as
+safe and well-regulated, and lose trust when they experience instability or unfairness 30 31 . Over 2008–
+2026, many developed countries managed to shore up bank safety through regulations, but the reputational
+damage was done. As one U.S. regulator noted in 2022, “Banks have done a commendable job of rebuilding
+trust since the 2008 crisis,” but public perception data suggests full trust was never restored 32 16
+(Confidence: HIGH for trend, MEDIUM for qualitative assessment).
+In summary, trust has evolved from a relatively naïve high in the early 2000s to a much more skeptical,
+verify-before-trusting stance by 2026. This is especially true toward financial systems. The 2008 crisis was a
+pivotal break in trust, birthing both a cultural cynicism about Wall Street and technological movements
+(FinTech, crypto) aiming to create new trust models. By 2026, a majority of people seem to agree with the
+sentiment: “Trust must be earned – and right now, our financial institutions haven’t fully earned it back.”
+(Confidence: HIGH, supported by multi-source data).
+A3. Connected Everything – Except Money? (Why Money Lags)
+Over the past two decades, human society became hyper-connected in media, work, and commerce, yet
+money has lagged behind in seamless connectivity. By 2025, 63.9% of the world uses social media,
+sharing information across the globe instantly 8 . News, videos, and ideas cross borders online with
+minimal friction. Likewise, work has been transformed by connectivity: collaboration tools and telepresence
+mean a project team can be spread across four continents and still work in real-time. The COVID-19
+pandemic dramatically accelerated remote work – e.g. Zoom’s user base rocketed from 10 million daily
+meeting participants in Dec 2019 to 300 million by April 2020 9 – a 30× increase in three months
+(Confidence: HIGH). Commerce, too, is fundamentally connected: global e-commerce sales hit an
+estimated $6.42 trillion in 2025, making up 20.5% of all retail 33 . A person in New Jersey can buy hand-
+crafted goods from Indonesia with a few clicks, and businesses source parts and services worldwide. In
+short, information, communication, and trade have largely been “internet-ified,” operating on instant,
+networked rails.
+Money, however, remains fragmented and often slow. The internet enabled the free flow of data, but the
+free flow of value has been hampered by legacy financial systems and national borders. A telling statistic:
+Cross-border payments are still far slower and costlier than domestic payments. According to the Bank for
+International Settlements, sending money abroad costs several times more and takes much longer
+than a domestic digital payment 34 . In Q1 2025, the global average cost to send a $200 remittance was
+6.5% (i.e. $13 fee) 35 . Even in the cheapest region (South Asia), it averaged 4.8% 36 . By contrast, domestic
+3fast-payment systems typically charge <1% in fees 37 . (Confidence: HIGH – these are World Bank and BIS
+figures). Moreover, an international bank transfer can take days to clear due to intermediary banks and
+compliance checks, whereas an email or WhatsApp message zips across in seconds. As the BIS summarized,
+“Cross-border payments, by contrast, have not kept up with the progress…they cost more, take longer, and are less
+transparent” 38 .
+Why does money lag? A key reason is that money is tied to trust and sovereignty in a way data is not.
+Moving money involves complying with regulations (to prevent fraud, money laundering, etc.) and often
+currency conversion between nations. The correspondent banking network, essentially a 20th-century
+infrastructure (SWIFT dates to the 1970s), hasn’t fully modernized. In fact, the number of correspondent
+banking relationships worldwide has been shrinking, creating bottlenecks in cross-border flows 39 .
+Political and security concerns also slow innovation – e.g. sanctions and know-your-customer rules add
+friction. By 2026, we do have innovations like mobile money in developing countries and some blockchain-
+based transfers, but globally money’s “internet moment” trails behind media’s. Don Tapscott, a leading
+tech author, puts it this way: for decades we had the Internet of Information, and now we’re just getting the
+Internet of Value 40 . He calls blockchain the foundation of a “second era of the internet… the internet of
+value” where money and assets can move as freely as emails 41 . (Confidence: HIGH that this view is
+influential, though there are competing views on timing).
+It’s notable that certain parts of the economy have been fully connected except for the payment. For
+example, a freelancer in Kenya can find a client in Canada online (work connection made), send them a
+design file instantly (media/data transfer done), but then wait days or incur high fees to get paid for that
+work (money transfer lags). This mismatch has driven demand for better solutions. Stablecoins and digital
+currencies emerged to try to fill this gap (discussed in A5), allowing value transfer on internet time. By 2024,
+the on-chain transaction volume of stablecoins reached $27.6 trillion for the year 42 , and in one quarter
+of 2024 stablecoins processed $8.5 trillion – more than double Visa’s volume in the same period 43 .
+This astonishing statistic (Confidence: HIGH, source data from a16z/Flagship Advisory) indicates that
+technically, money can move as fast as information when using crypto rails. However, note that over 95% of
+that stablecoin volume is wholesale or crypto trading; only ~5% (≈$1.3 trillion) was payments for real goods
+and services 42 . So while the pipes for instant global money flow are being built, mainstream usage lags
+due to usability, regulation, and trust barriers (Confidence: HIGH – multiple reports echo this).
+Another aspect is connectivity vs. money inclusion. The internet connected billions, yet nearly 1.4 billion
+adults remain unbanked as of 2021 44 . People can stream YouTube in remote villages but might not have
+a safe way to save $50. This irony is not lost on development experts: “Our financial system remains outdated:
+slow, expensive, and inaccessible to billions,” as one fintech CEO put it in 2025 45 . Money lagging is not just
+technological; it’s also about policy and social choice. Media and commerce had fewer gatekeepers than
+finance does – anyone can publish a blog, but not anyone can issue a currency or move money without
+oversight. Thus, money’s evolution has been slower by design.
+In summary, everything else (media, communication, work, shopping) has leapt into a real-time
+global network, while money is still catching up. The costs and delays in cross-border payments are the
+clearest evidence of this lag 46 47 . However, the gap is closing: from PayPal and mobile wallets to
+cryptocurrency networks, new systems are emerging to make sending value as easy as sending a text. The
+tension between the old guard (banks, regulators ensuring stability) and the new tech (stablecoins, fintech) is
+why money’s transformation is slower and more contentious. But by 2026, even skeptics acknowledge that
+4the pressure for money to fully join the internet era is high – and stablecoins are a leading contender in
+that push (Confidence: HIGH).
+A4. Participation and Dignity: Financial Exclusion as a Human Issue
+Access (or lack thereof) to financial systems has increasingly been framed as a human dignity issue in this
+era. Roughly 1.4 billion adults worldwide have no bank account 44 – that’s nearly a quarter of adults left
+out of basic financial tools. An additional 400 million have an account but rarely use it, meaning they’re
+effectively underserved 44 . This exclusion often aligns with poverty, gender, and geography: for instance,
+women and rural poor are disproportionately unbanked. The human impact is severe. As one fintech
+organization describes, “Financial exclusion amplifies vulnerability, keeps families in cycles of poverty, and holds
+back entire communities from progress.” 48 (Confidence: HIGH). Without access to saving, credit, or
+insurance, everyday life is precarious – emergencies become catastrophes and opportunities (like starting a
+small business or pursuing education) stay out of reach.
+Crucially, thought leaders now talk about financial inclusion in terms of dignity, opportunity, and
+choice. A 2025 essay from an African fintech startup (eShandi) states: “At the heart of it all is something far
+more human – dignity, opportunity, and choice.” 49 . People don’t want handouts; they want tools to take
+control of their financial lives. Not having a safe place to store money, or an easy way to send support to
+family, or a means to prove creditworthiness – these are not just economic problems, but blows to one’s
+dignity (Confidence: HIGH, supported by many NGO and World Bank reports). It means being invisible in
+the modern economy. Indeed, the LinkedIn article emphasizes how those “invisible to the financial system”
+are invisible to opportunity 50 . There’s a growing consensus that in the 21st century, access to basic financial
+services is as essential as access to clean water or electricity – it underpins the ability to improve one’s life
+(Confidence: HIGH among development experts).
+Exclusion also intersects with trust. Some of the unbanked chose not to participate due to lack of trust in
+institutions. In the U.S., for example, 13% of unbanked households in 2021 cited “don’t trust banks” as a
+reason for not having an account 51 . Globally, communities with histories of discrimination by banks or
+unstable banks often avoid them. This highlights a vicious cycle: those who could benefit most from
+financial tools are wary of them, sometimes with good reason (Confidence: MEDIUM). For them, new
+models like mobile money or community-based finance can be game-changers if done right.
+Stablecoins and fintech have emerged as potential equalizers in this arena. A World Economic Forum
+piece in 2026 noted that stablecoins can expand financial access in developing markets 52 . We already see
+evidence: in countries with unstable currencies or strict capital controls, people have turned to stablecoins
+(which are typically USD-pegged) as a lifeline. “Stablecoins have become financial lifelines in many emerging
+economies, giving people easier access to stable currency (often US dollars) where local currencies are unstable,”
+reports a 2024 crypto advisory study 53 (Confidence: HIGH). For example, Argentines facing 100% inflation
+use USDT (Tether) to store value and even for daily transactions at some groceries. In Venezuela, a
+grassroots trend saw dollar stablecoins used in retail when bolivar inflation made cash next to worthless.
+These anecdotes show the direct human impact: financial inclusion via stablecoins is not abstract – it
+means a shopkeeper can preserve her earnings, or a migrant worker can send money home instantly
+for a few cents instead of a hefty fee.
+However, technology alone isn’t a silver bullet. Education and empowerment are crucial. Many exclusion
+issues come down to “systems not built with the poor in mind” 54 . Fintech can redesign for dignity – e.g.
+5simpler onboarding without tons of paperwork (since many excluded lack formal IDs or proof of address),
+interfaces in local languages, and micro-sized services that match the needs of low-income users 55 56 .
+One surprise theme is the rise of financial health as a concept: not just access, but usage that genuinely
+benefits people. For instance, simply giving out accounts isn’t enough if fees are high or the user doesn’t
+trust the institution. That’s why participation must be accompanied by respect and consumer protection. In
+the drive for inclusion, experts highlight the importance of agency – people feeling in control of their
+money. Being included should mean empowered, not exploited by predatory lenders or surveilled by Big
+Brother (Confidence: HIGH – reflected in global principles for financial inclusion).
+A human story to illustrate: during the pandemic, governments that could send payments digitally
+(stimulus, aid) got relief to people faster, while those reliant on cash distribution struggled. This spurred
+interest in digital cash transfers as a standard tool. The UN and World Bank are actively promoting digital
+financial services as a way to achieve several Sustainable Development Goals, precisely because it relates to
+poverty reduction, gender equality, and more (Confidence: HIGH). In other words, financial inclusion is
+now seen as foundational to broader human development.
+In sum, exclusion from financial systems is increasingly recognized as a matter of human dignity. It’s
+not just a banking problem; it’s a social problem. “Access isn’t a privilege. It’s a foundation,” as the eShandi
+article succinctly put it 57 . Key findings: billions unbanked, clear negative impacts on well-being, but new
+tech like stablecoins offers hope by bypassing old barriers (Confidence: HIGH on data; MEDIUM on how
+quickly tech will solve it). A caution: inclusion efforts must be accompanied by trust-building and education,
+otherwise the most vulnerable might simply be pushed from one form of exclusion to another. The
+encouraging development is that many now view financial inclusion as a basic need – a shift in mindset
+that could drive lasting change.
+A5. The Nature of Money: Does Changing Its Form Change Us?
+The period 2005–2026 has seen money itself begin to change form – from paper cash and bank balances to
+digital and decentralized forms like stablecoins – prompting the question: does changing money’s form
+change society or human behavior? The answer appears to be both yes and no, with competing
+perspectives from economists, technologists, and sociologists (Confidence: MEDIUM, as this is an evolving
+debate).
+On one hand, some argue that money’s essence remains the same even if the form shifts. A theoretical
+analysis of stablecoins notes “the essence of stablecoin is the same as money, which is a kind of credit” 58 . In
+this view, money has always been a tool to represent value and trust between parties, whether it’s shells,
+paper, or bits on a blockchain. Changing to a stablecoin doesn’t change fundamental human behaviors like
+the need for trust, the propensity to trade, or the psychology of saving and spending. For example, if a
+family in Nigeria uses a digital naira stablecoin instead of cash naira, their economic goals and challenges
+(earning a living, protecting against inflation) remain. Thus, simply digitizing money might not
+revolutionize human nature; people might still panic in a bank run or overspend if they lack financial
+literacy (Confidence: HIGH that this conservative view is held by many central bankers and economists).
+However, there is a compelling case that changing money’s form does change how we behave and
+organize society, by altering the speed, transparency, and accessibility of transactions. When money
+becomes information-rich and programmable, it enables new interactions. For instance, stablecoins allow
+24/7, instant transactions across borders 59 . This has never been possible with traditional money at
+6scale. As Rizon’s CEO Ignas Survila said in 2025, “The emergence of stablecoins…is not just another crypto trend,
+but a fundamental shift in how money flows” 45 59 . If value can flow as freely as email, it could unlock
+economic activities that were previously impractical – micro-payments for content, real-time revenue
+sharing, pay-as-you-go insurance, etc. These innovations could change our relationship with money by
+embedding it seamlessly into digital life (Confidence: MEDIUM – early evidence exists, but mainstream
+adoption is nascent).
+Moreover, changing money can change power dynamics and trust models. Stablecoins and
+cryptocurrencies shift some power from central authorities to networks and users. They introduce the idea
+of “trust in code” versus trust in banks. This is a sociological shift: people begin to place faith in
+decentralized systems or communities (e.g. holders of a decentralized stablecoin collectively governing its
+rules) rather than traditional hierarchies. Who we trust to manage money might change – which is a
+profound societal shift if it endures (Confidence: MEDIUM, as crypto adoption is still limited, but growing in
+influence). Additionally, stablecoins (especially if widely adopted) could change geopolitics of currency. For
+example, a widely used USD stablecoin in emerging markets can dollarize economies in a bottom-up way,
+potentially reducing the power of local governments to control monetary policy. That could bring stability
+but also loss of sovereignty – a double-edged sword for societies (Confidence: MEDIUM).
+Another way form affects us is through data and transparency. Digital money can be tracked and
+analyzed far more easily than cash. This raises surveillance vs. privacy debates. As one analysis pointed out,
+blockchain’s public ledger can expose transaction histories in granular detail, and proposed regulations could
+create a “surveillance infrastructure rivaled only by central bank digital currencies (CBDCs)” if not checked 60
+61 . So if money’s form changes to fully traceable, human behavior might change due to awareness of
+being watched. People might be less inclined to, say, tip a dissident group or make certain purchases if
+they know every cent is monitored. This is a behavioral shift tied purely to money’s form (from anonymous
+cash to traceable stablecoin) – not to the money’s function per se (Confidence: HIGH that this effect is real,
+as evidenced by existing digital surveillance in banking deterring some transactions).
+From a philosophical angle, money is a social contract. Changing its form can either reinforce or challenge
+social norms. Consider the concept of programmable money: a company could issue stablecoins that can
+only be spent on specific items (like food tokens). That might improve efficiency or prevent misuse of funds,
+but it also constrains personal freedom, potentially altering the notion of money as fungible and freely
+usable. Experiments in UBI (universal basic income) via digital currency are testing whether attaching
+conditions to money changes recipients’ behaviors for the better (e.g. healthier spending choices) or if it
+undermines dignity (Confidence: LOW so far, as experiments are ongoing and value-laden).
+Importantly, stablecoins themselves vary. Some are centralized (run by companies) – these don’t radically
+change the trust model (you still trust an issuer, like trusting a bank). Others are decentralized algorithms –
+these are newer and in some cases failed spectacularly (e.g. the TerraUST collapse in 2022), reminding us
+that trust doesn’t disappear, it shifts. After Terra’s failure, many became more skeptical of algorithmic
+stablecoins, reinforcing trust in more traditional asset-backed ones (Confidence: HIGH, given market data
+post-2022). This suggests that not all form changes are equal: forms that successfully preserve trust will
+change usage patterns more than those that do not.
+One clear change from digital currency is financial democratization. With stablecoins, anyone with a
+smartphone can effectively have a dollar account, even if they live in a country with a weak banking
+system. This is potentially transformative: it could bring millions into the global economy, boost
+7entrepreneurship in developing regions, and reduce dependency on local fiat that might be inflating
+(Confidence: MEDIUM-HIGH; early trends in Africa, Latin America support this). The dignity angle appears
+here too – e.g. Venezuelan professionals paid in stablecoins feel they have a lifeline to true value, restoring
+a sense of control over their economic fate that was lost with a collapsing bolivar. That psychological and
+social change – reclaiming agency – is tied to money’s new form (digital, borderless, relatively stable in
+value).
+In conclusion, changing money’s form is changing us, but incrementally and with caveats. Where
+money’s new form (stablecoins, etc.) removes friction and expands access, we see positive changes: greater
+inclusion, new economic models, perhaps a more level playing field globally. A recent World Bank report
+even estimated stablecoins could save $39 billion in annual remittance fees for users, effectively
+transferring wealth back to families and away from intermediaries 62 (Confidence: HIGH on potential
+impact). At the same time, where the new form introduces new risks (surveillance, volatility), we face
+societal choices about values – privacy vs. security, decentralization vs. regulation.
+So, does stablecoin digital money change us? It doesn’t change basic human nature (people will still
+seek security, speculate, fear loss), but it changes the environment in which decisions are made. Faster,
+more accessible money can make markets more efficient and inclusive – or more volatile if not managed. It
+can increase personal freedom – or state oversight, depending on design. In a sense, the nature of money is
+indeed changing, as every aspect of life digitizes 63 , but whether it changes us for better or worse depends
+on how we govern this transition (Confidence: MEDIUM). One thing is clear: we are thinking about money in
+new ways now – as a technology and a public good – in a way that perhaps we didn’t before 2008. That
+meta-change in perspective may itself be one of the era’s legacies.
+B. Book Craft & Branding Strategy
+B1. Lasting vs. Dated Comparable Titles
+When positioning a nonfiction book about a paradigm shift in money, it’s critical to learn from past books –
+which ones remain timeless versus those that now feel dated – and why. Timeless books tend to address
+fundamental questions or historical sweeps, whereas dated titles often latch onto transient trends or near-
+term predictions (Confidence: HIGH, general publishing insight 64 65 ).
+For example, Niall Ferguson’s The Ascent of Money (2008) has lasting value. It traces the financial history of
+the world, extracting lessons from centuries of money evolution. Even though published right after the
+2008 crisis, its broad historical narrative means readers in 2026 (or 2050) can still gain insights from
+medieval banking or the bond markets of the 1800s. It doesn’t feel stale because it wasn’t pegged to the
+latest hype; it was rooted in enduring context (Confidence: HIGH – still frequently cited). Similarly, David
+Graeber’s Debt: The First 5,000 Years (2011) remains relevant due to its anthropological depth on money
+and credit across eras. These books feel timeless because they speak to overarching human themes (trust,
+debt, power) rather than ephemeral tech.
+In contrast, consider a book like Thomas Friedman’s The World Is Flat (2005). At the time, it was seminal in
+discussing globalization and technology’s impact. But today parts of it feel dated – it was very excited about
+the early internet and outsourcing, and missed later phenomena (like social media’s dark side or the
+backlash of nationalism). Its title metaphor “flat world” still resonates, but some case studies (e.g. specific
+companies or technologies) now seem out-of-date. The lesson: a book deeply tied to the zeitgeist of a
+8specific moment can later read as a time capsule rather than a perennial guide. Many early books on social
+media or mobile tech (e.g. praising MySpace, BlackBerry, etc.) suffer this fate (Confidence: HIGH – we’ve
+seen the tech landscape shift rapidly, stranding once-timely analyses).
+For our domain, look at crypto and fintech books. The Age of Cryptocurrency (Vigna & Casey, 2015) was one
+of the first mainstream books on Bitcoin/blockchain. It did an excellent job explaining the tech and its
+revolutionary promise. However, it inevitably feels a bit dated now because the crypto world has evolved
+(e.g. Ethereum and DeFi emerged, regulatory environment changed). What gives it some lasting value is
+that it framed Bitcoin in terms of challenging the global economic order (per its subtitle) 66 , a big-picture
+theme. But parts of it (like the state of mining or specific companies in 2014) are historical snapshots.
+Similarly, Nathaniel Popper’s Digital Gold (2015) is a history of Bitcoin’s early days – as history, it remains
+valuable and even more so as time passes (like reading about the dawn of the Internet). But as a guide to
+current crypto, it’s outdated. The difference is lasting comp titles often either take a historical/analytical
+angle or focus on human stories, whereas dated titles often focus on forecasting or hype that doesn’t
+pan out. Books that in 2017 predicted blockchain would immediately revolutionize everything by 2020 now
+look overly optimistic.
+Another point: enduring books focus on principles, not just facts. Nassim Nicholas Taleb’s Skin in the
+Game (2018) deals with risk and incentive – principles that apply in any era (hence it stays in reading lists)
+67 . In contrast, a book like The Fintech Revolution 2016 (hypothetical title) full of then-current startup
+examples might feel obsolete if many startups folded or the landscape shifted. Indeed, business books built
+around “case studies of today’s top companies” can become dated when those companies decline. For
+instance, Good to Great (2001) examined leading companies of the 90s – some of which later stumbled –
+making readers question the longevity of its lessons (Confidence: HIGH; it’s well-known many Good to Great
+companies didn’t remain great). As one analysis quipped, “Extremely relevant and a huge best-seller in the
+2000s. Today, almost completely irrelevant.” 68 about such case-study-driven books.
+Competing perspectives on this: Authors of timely books might argue they meet an immediate need even
+if they date. For example, a 2021 book on NFTs might not be timeless, but during the 2021–22 boom it
+could sell massively and educate many (short-term success). Meanwhile, a timeless-oriented book like
+Money: The True Story of a Made-Up Thing (which covers money conceptually) sells steadily over a long period.
+The key for our book is to strike a balance: provide timely insight into stablecoins (as a new
+phenomenon) while framing it in timeless human context (trust, participation, future of money).
+In summary, lasting books are those that readers still pick up a decade later because their content is
+foundational or their storytelling is compelling beyond the moment. Dated books often show their age in
+title or content (e.g. “The Facebook Era” – clearly tied to a certain platform and likely not aging well as
+platforms change). For our project, comps that succeeded long-term (like The Sovereign Individual (1997)
+which astonishingly foresaw digital currency and cyber economies 69 ) did so because they engaged big
+ideas and didn’t limit themselves to 1997’s milieu (that book reads almost more relevant today than when
+written, a hallmark of prescience). We aim for that kind of longevity. (Confidence in these assessments: HIGH,
+based on observable publication histories and current recommendations.)
+B2. Title and Naming Conventions in This Genre
+Nonfiction book titles, especially in the business/technology/finance genre, often follow a "Hook:
+Explanation" format. A catchy, evocative main title grabs attention, and a subtitle conveys the subject and
+9stakes. For instance, “Bitcoin: The Future of Money?” (2014) by Dominic Frisby poses a provocative question in
+the title and signals its scope 70 . Similarly, “The Age of Cryptocurrency: How Bitcoin and Digital Money Are
+Challenging the Global Economic Order” combines a grand era-defining phrase with a clear subtitle 66 . This
+convention of “Main Title: Subtitle” is extremely common and effective (Confidence: HIGH, standard industry
+practice). We should expect to craft something similar for our book on stablecoins.
+Main titles in this space often use metaphor or impactful keywords. Examples of single-word or two-
+word hooks: “Digital Gold” (Popper’s book) uses a metaphor equating Bitcoin to gold 71 . “The Sovereign
+Individual” uses a strong image of personal empowerment. “Daylight Robbery” (Dominic Frisby, 2019) uses an
+idiom to talk about tax, piquing curiosity 72 . Titles like “Who Can You Trust?” (Rachel Botsman, 2017) use a
+question to draw in readers to a theme of trust in the digital age 73 . In our case, words like “Trust,”
+“Money,” “Future,” “Dollar,” “Revolution,” “Connected,” “Global,” or a play on “stable/unstable” could be
+powerful. For instance, a potential hook could be “Stable Money, Unstable World” or “Trustless” (a play
+on the crypto term and trust issues). The title should intrigue a mainstream skeptical reader – so it should
+neither be too jargon-y (avoid acronyms or technical terms like “CBDC” or “DeFi” in the main title) nor too
+bland.
+Subtitles usually do the explanatory heavy lifting: specifying the topic and promise. They often contain a
+colon and a longer description. Common patterns include: - “How X is Y-ing Z” (cause-effect structure): e.g.
+“How Bitcoin and Blockchain Are Challenging the Global Economic Order” 66 or “How the Digital Revolution
+is Transforming Currencies and Finance” (subtitle of Eswar Prasad’s The Future of Money, 2021). This format
+works well to articulate the book’s core argument or scope. - “The [Adjective] [Noun] of [Something]”: e.g. “The
+Decentralized Alternative to Central Banking” (subtitle of The Bitcoin Standard) 74 or “The Inside Story of the
+Misfits and Millionaires Trying to Reinvent Money” (Popper’s Digital Gold subtitle). This often provides
+context or narrative hint. - Inclusion of timeframe or stakes: e.g. “... in the Twenty-First Century” or “... and the
+Future of ...”.
+For our stablecoin book, the subtitle likely should include the word “stablecoin” or “global currency” to
+immediately signal the unique angle. It might also highlight a human angle or paradigm shift. For example, a
+structure could be “Stablecoins and the Fight for Financial Inclusion” or “...the New War over Trust and Money”.
+Our naming should capitalize on familiarity where helpful (“digital dollar” might resonate more than
+“stablecoin” alone for some readers), but also establish the distinct paradigm shift so it doesn’t sound like
+just another crypto book.
+Naming conventions trend: Many books in our area use epochal framing (“The Age of…”, “The Future
+of…”, “The New…”). This gives a sense that the book explains this moment in history. Another convention is
+using contrasts or paradox in the title: “The Curse of Cash” (Kenneth Rogoff, 2016) juxtaposes cash
+(generally seen as good) with curse 75 . We could consider a contrast like “Stablecoin Chaos” (though that
+sounds negative) or “Certain Money in Uncertain Times”. Alliteration or rhyme can make a title roll off the
+tongue (e.g. “Digital Dollar Dilemma” – as a hypothetical). However, clarity is more important than cleverness
+for a mainstream book: we want the prospective reader to grasp the subject from the title/subtitle
+immediately. An agent’s rule of thumb is that title/subtitle together should convey the genre and topic
+clearly. For instance, The Internet of Money (Antonopoulos series) clearly signals it’s about money on the
+internet 76 .
+10Author name usage: Since this is a first-time author, the title should be idea-focused rather than author-
+focused. In publishing, unless you’re a celebrity, your name won’t sell the book – the idea will 77 78 . So we
+won’t do something like “John Doe’s Guide to Stablecoins”; instead, we’ll use the conventions above.
+In summary, we’ll likely adopt a two-part title. The main part could be short, possibly metaphorical or
+posing a question, and the subtitle will spell out stablecoins, money, and why it matters now. For example:
+“The Last Unconnected Piece: How Stablecoins Could Unite Money with the Internet” (just as a pattern). Or “Trust
+and Money in the Age of Stablecoins: Connecting Finance in a Fragmented World.” These follow the observed
+conventions: indicate an age or a big topic, include a colon, and mention stablecoins and the larger human
+issue (trust, fragmentation, inclusion, etc).
+(Confidence: HIGH in these observations, as they are drawn from numerous title examples and publishing best
+practices.)
+B4. What Makes a Book Feel Timeless vs. Timely
+To ensure our book resonates beyond the immediate moment, we must build in evergreen qualities. A
+timeless book often: focuses on enduring themes, uses stories and lessons that don’t expire, and avoids
+overly specific forecasts or slang. A timely book, by contrast, might exploit current buzz and detail, but can
+lose relevance as events unfold.
+From the research and expert writing advice, a key strategy is: focus on big, universal questions. As one
+author put it, “The size of the question dictates the size of the audience.” 79 To have longevity, tackle questions
+that remain interesting year after year. In our case: “How does trust in money affect society?” or “What is the
+future of money in a digital world?” are enduring questions. If we frame stablecoins as an illustration of those,
+the book stays relevant even if specific technologies change. Conversely, if we framed it narrowly like
+“Investment opportunities in stablecoins for 2026”, it would be obsolete by 2027 (and also far less interesting
+to a broad readership). Indeed, books that read like extended news articles or trend reports usually have a
+short shelf life.
+Avoiding too much “tech speak” and ephemeral references is crucial. For example, mentioning specific
+coin prices, or minor companies that might not exist in 2 years, can date the text. It’s better to say “a major
+stablecoin collapsed in 2022, demonstrating the risks of algorithmic designs” than to hinge the narrative
+entirely on Terra/Luna – because in 2030, Terra is old news, but the lesson (risk of certain stablecoin designs)
+still matters. By abstracting one level and emphasizing principles, the content remains fresh (Confidence:
+HIGH – this technique is commonly advised for business writing). An industry insider, Nicolas Cole, notes
+that data/insights get outdated within a decade in many fields, so leaning too much on current data can
+make a book timely not timeless 80 . Our solution: use data to support points (giving credibility) but make
+sure each point ties to a larger narrative or truth that will likely hold. For instance, citing the trust decline
+statistics from Edelman in 2026 is great evidence, but the narrative should be “trust in institutions is
+eroding” – a trend likely to be discussed for many years – rather than “2026 is the peak of insularity” which
+might not age well if 2027 reverses it.
+Another tactic for timelessness is storytelling – telling human stories that illustrate the point. Human
+stories (a Venezuelan merchant using stablecoins to survive hyperinflation, an American millennial losing
+trust after 2008, etc.) are relatable and don’t rely on being up-to-the-minute. People will always empathize
+with personal journeys or historical anecdotes. It’s the difference between a textbook and a narrative
+11nonfiction. Narrative tends to age better because it’s literature, not just information. This is why Liar’s Poker
+(1989, Michael Lewis) is still read – it’s a story about Wall Street culture, not just a market analysis of the late
+80s. For our book, weaving in narrative elements (e.g. the origin story of a stablecoin, or a user’s life change
+through financial inclusion) can provide lasting emotional resonance.
+Competing perspective: One might argue that being too general can make a book bland. Indeed, to feel
+timeless, the book shouldn’t shy away from details – it should use them judiciously. The goal is to root
+timeless insights in timely examples. For example, discussing the 2008 crisis or 2020 pandemic is
+important (future readers will recall these major events), but always connecting them to the book’s core
+themes (like trust or technology acceleration) ensures the discussion isn’t just “recent history” but part of a
+continuum.
+Language and tone also matter. Avoiding trendy buzzwords or overly informal internet slang will help the
+book age well. A formal but engaging style (as seen in books like Sapiens or The Innovator’s Dilemma) tends
+not to feel dated, whereas a book peppered with “as we see on Facebook and Twitter feeds” might feel very
+2010s in tone to a 2030s reader (Confidence: MEDIUM – language effects are somewhat subjective, but
+many editors advise caution on this).
+Finally, including multiple perspectives or scenarios can future-proof the content. If we acknowledge, for
+instance, both the utopian and dystopian possibilities of digital currency, then whatever happens, the book
+had it covered. Single-outcome predictions (e.g. “By 2030, cash will be gone”) can make a book look bad if
+that doesn’t happen. A timeless-feeling book entertains different outcomes. This nuanced approach builds
+trust with skeptical readers too – showing we’re not evangelists with blinders, but thoughtful analysts.
+In essence, to feel timeless, our book should be concept-driven and human-driven, not just technology-
+driven. It will frame stablecoins in the long arc of money and human trust, so that even if someone reads it
+in 2040, they gain understanding of how this early 21st-century shift fit into larger patterns. If we do that
+successfully, the book can age gracefully like a bottle of wine rather than spoiling like old news. (Confidence:
+HIGH in these guidelines – they align with known longevity of other works and professional advice on evergreen
+writing 81 82 .)
+B6. Proposed Book Titles (15–20 Strong Options)
+Below is a list of 15 potential titles with subtitles, crafted to capture the book’s themes and appeal to a
+mainstream, skeptical audience. Each pairs a concise, intriguing hook with a clarifying subtitle:
+1. Trustless: How Stablecoins and Digital Cash Are Rewriting Our Faith in Money – (“Trustless” plays
+on the crypto term and the trust theme. Subtitle emphasizes paradigm shift in trust and money.)
+2. The Last Offline Frontier: Money in a Connected World – Subtitle: “Why Currency Lagged Behind and
+How Stablecoins Will Change That.”
+3. Stablecoin Nation: The New Age of Money and the Battle for Inclusion – Implies a broad
+movement (“nation”) and conflict over financial inclusion.
+4. In Money We Trust? Stablecoins, Banks, and the Global Crisis of Confidence – Poses the core
+question and signals skepticism, good for a wary reader.
+5. Connected Currency: Bridging the Gap Between the Internet and Your Wallet – Alliteration and
+clear image of linking internet tech with everyday money.
+126. The Internet of Value: When Money Becomes Digital (and What It Means for Us) – Leverages the
+“internet of value” concept in accessible terms.
+7. Certain Money in Uncertain Times: Stablecoins and the Future of Finance – Contrast of certainty
+vs uncertainty highlights stablecoins’ promise in volatility.
+8. Democratizing the Dollar: How Stablecoins Open Finance to the World’s Unbanked – Emphasizes
+inclusion and the US dollar as a global reference.
+9. The Trust Shift: From Banks to Blockchains in the Quest for Stable Money – Captures the shift in
+who we trust with money.
+10. Unchained Value: Stablecoins, Freedom, and the New Money Revolution – “Unchained” suggests
+liberation from old systems (also hint to blockchain).
+11. The Global Money Reset: Stablecoins and the End of Financial Exclusion – Dramatic, suggests a
+reboot of the financial order to include everyone.
+12. Beyond Bitcoin: The Rise of Stablecoins and the Next Monetary Revolution – Positions stablecoins
+as the next chapter after Bitcoin, appealing to those who heard of Bitcoin but ask “what’s next?”.
+13. Safe Harbor: How Digital Stablecoins Became a Lifeline in Turbulent Economies – Uses a
+metaphor (harbor in a storm) and highlights real use in crises.
+14. The Currency of Trust: Why Stablecoins Matter for Money’s Future – Emphasizes trust as a
+currency itself and stablecoins’ relevance.
+15. Cash 2.0: Stablecoins and the Reinvention of Money – Short, techy hook (“Cash 2.0”) with a subtitle to
+explain scope.
+Each of these tries to balance clarity and intrigue. For instance, “Trustless” as a one-word title begs the
+question (trustless what?), answered by the subtitle about stablecoins and cash – this would attract a tech-
+aware reader but also interest anyone curious about trust in money. “In Money We Trust?” twists the familiar
+motto “In God We Trust,” immediately signaling a critical examination of confidence in currency; the subtitle
+then grounds it in stablecoins and global context, which a skeptical reader concerned about banks and
+crypto would appreciate. Titles like “The Last Offline Frontier” or “Connected Currency” highlight the narrative
+that everything else went online, only money lagged – a somewhat surprising angle that a tech insider may
+have missed. Meanwhile, “Democratizing the Dollar” and “Global Money Reset” lean into the inclusion theme,
+which is an overlooked human angle beyond just tech.
+We also see different tones: some (The Trust Shift, The Currency of Trust) are a bit academic/serious; others
+(Cash 2.0, Beyond Bitcoin) are punchier and trendier. This gives a range to test with agents/publishers. The
+ideal final title might combine elements: for example, an agent might love “The Trust Shift” but prefer a
+subtitle from another option.
+(Confidence: HIGH that these titles align with market conventions, given they mirror patterns of known successful
+titles while injecting our book’s unique angle. Final selection would benefit from feedback from publishing
+professionals and test audiences.)
+C. Publishing Strategy for a First-Time Nonfiction Author (2026)
+C1. Publisher Fit: Who Might Publish This Book?
+For a global, paradigm-shift nonfiction project like this, traditional trade publishers (the major publishing
+houses or well-regarded independent presses) are the primary target. A first-time author typically would
+13seek an agent who in turn pitches to these publishers’ imprints that handle business, technology, or current
+affairs titles. Based on comparable books:
+• Penguin Random House – Imprints like Portfolio, Penguin Press, or Crown specialize in accessible
+business/tech thought-leadership books. For example, Penguin’s Portfolio imprint publishes
+technology trend books and could be a good home if the book leans into business implications. PRH
+also has Dutton or Viking which sometimes do big idea books.
+• HarperCollins – Harper Business or HarperOne might be interested. Harper published Digital Gold by
+Popper 83 , showing they have appetite for cryptocurrency topics. HarperOne often does books at
+the intersection of technology and social issues, which could fit if our book emphasizes cultural
+impact.
+• Simon & Schuster – Imprints like Scribner or Free Press (historically) have done economic narratives.
+S&S published The Sovereign Individual originally, and they might consider a forward-looking money
+book, especially if the proposal is strong on narrative.
+• Hachette Book Group – PublicAffairs (part of Hachette) is known for serious nonfiction on policy,
+economics, and global affairs. Given PublicAffairs published Rachel Botsman’s Who Can You Trust?
+(2017) and other tech-society books, they could be a top contender (Confidence: HIGH – PublicAffairs
+actively acquires in this space). Hachette’s Basic Books imprint is another which loves well-researched
+big idea books, especially if written in a journalistic or analytical style.
+• Macmillan – St. Martin’s Press or its sub-imprint St. Martin’s Griffin published The Age of Cryptocurrency
+84 , indicating openness to crypto topics. Also, Farrar, Straus and Giroux (FSG), while more literary,
+has an FSG Originals line for creative nonfiction. For something very global and idea-driven, Henry
+Holt (another Macmillan imprint) might be worth considering too.
+• Wiley – While Wiley is not a trade publisher in the Big Five sense, it is a respected publisher
+especially for finance and technical finance books. The Bitcoin Standard (2018) was published by Wiley
+85 . Wiley might be a fit if the book leans more towards finance professionals or is somewhat
+academic in tone. They can handle global distribution and have credibility in finance (Confidence:
+HIGH for credibility, though Wiley’s marketing to general audiences may be less punchy than a true
+trade press).
+• MIT Press or Oxford University Press – These are more academic, but MIT Press in particular has
+been publishing accessible books on digital currency and finance (e.g. Digital Cash by Finn Brunton
+was with Princeton University Press, and MIT Press has titles on blockchain’s societal impact). If the
+author has strong academic credibility or if the book has a policy angle, these presses could be a
+backup plan. However, an MIT/Oxford Press book might not reach as “mainstream” an audience as,
+say, Penguin or Hachette (Confidence: MEDIUM).
+• Smaller presses / Indies – There are some specialized indie publishers like O’Reilly Media (famous
+for tech books, but usually more technical manuals than narrative) or Melville House (which does
+topical pamphlet-like books), or Columbia Global Reports (which does short books on global issues).
+These could be options if larger publishers don’t bite, but their advances are smaller and distribution
+narrower.
+Given the scope – global stablecoin paradigm shift – a larger publisher is ideal to ensure robust
+distribution (bookstores, international editions, libraries) and marketing muscle. A publisher that sees this
+as a potentially groundbreaking, conversation-starting book will invest in publicity. For instance, if the book
+can be positioned akin to Yuval Noah Harari’s works (big ideas, broad readership), someone like Penguin
+Press or Harper might give it a big push. On the other hand, if the pitch is more practical or finance-
+oriented, Wiley or McGraw-Hill could be approached; they often do finance titles and reach those readers
+(McGraw-Hill published some personal finance and investing books that break out).
+14Publisher fit also depends on the author’s platform and tone. If the author is an academic or NGO
+expert, an imprint known for serious nonfiction (Basic Books, PublicAffairs, Princeton UP) might find that
+credibility attractive. If the author is more of a journalist or entrepreneur with stories to tell, a mainstream
+commercial imprint (like St. Martin’s or Portfolio) might be better.
+It’s worth noting that some publishers have published similar works recently: for example, The Future of
+Money by Eswar Prasad was with Harvard University Press in 2021 – a prestigious academic press, but that
+limits trade reach. Our book aims at mainstream skeptics, so leaning trade is wiser. We can mention in a
+proposal comp titles and their publishers. E.g., The Age of Cryptocurrency (St. Martin’s/Macmillan 2015) 84 and
+Bitcoin Standard (Wiley 2018) 85 to show there’s precedent. But also highlight that no book yet has exactly
+tackled stablecoins and human themes for general readers, which is our unique angle.
+Confidence: HIGH that targeting a major trade imprint is the way to go. Those publishers have shown
+interest in technology-meets-society books and have the editing/marketing expertise to refine the narrative
+for a broad audience. An agent would likely pitch to multiple imprints at the Big 5 (PRH, Harper, Simon &
+Schuster, Hachette, Macmillan) plus top independents (W.W. Norton, for example, is an indie that does a lot
+of economics books and could be a dark horse candidate).
+To summarize publisher fit: A book of this nature would fit well with a top-tier non-fiction imprint that handles
+global economic trends or technology futures. Based on comps and publisher lists, PublicAffairs (Hachette)
+and Portfolio (Penguin Random House) jump out as strong possibilities, with others like St. Martin’s
+Press (Macmillan), Penguin Press, Basic Books (Hachette), or Norton also in play. We should tailor the
+proposal submission list accordingly.
+C2. Proposal Expectations in 2026
+By 2026, the standard expectations for a nonfiction book proposal are well-established – and as a first-time
+author, meeting them is crucial to secure a deal. A strong proposal is essentially a business case and
+blueprint for the book 86 . Here’s what it needs to include (Confidence: HIGH, reflecting industry norms):
+• Overview (Synopsis): A punchy opening section (2–5 pages) that answers “What is this book about,
+and why does it matter now?” This is where we articulate the open question of the stablecoin
+paradigm shift and why a mainstream reader will care. It should highlight the timely hook (e.g.
+recent surge of digital currency debates, post-2008 trust issues, etc.) and the timeless significance
+(money, trust, inclusion – human themes). In 2026, publishers expect the overview to also convey the
+author’s voice and passion, not just the facts. This section must grab the editor’s attention much
+like an article’s introduction. It’s also often where the “market positioning” is touched on: how this
+book stands out from other finance/tech books and what problem or curiosity it addresses for
+readers.
+• Target Audience and Market: We need to clearly define who will buy and read this book. E.g. “This
+book will appeal to readers of Yuval Noah Harari and Michael Lewis – educated laypeople who enjoy big
+ideas wrapped in storytelling. It will also draw in cryptocurrency enthusiasts curious about stablecoins,
+and skeptics of crypto looking for a balanced analysis.” Backing this up with some numbers or
+demographics can help (e.g., number of crypto wallet users globally, or the strong sales of similar
+titles showing market size). In 2026, proposals often mention the global market too – how the topic
+15might play internationally (stablecoins are a global subject, which is a plus). Since the user is in New
+Jersey but the topic is global, emphasize the broad relevance.
+• Competition/Comparative Titles: Agents/editors expect a section analyzing 3–5 comparable books.
+We should mention both recent and lasting comps: e.g., The Future of Money (Prasad, 2021), The Age
+of Cryptocurrency (2015), Who Can You Trust? (2017), maybe The Bitcoin Standard (2018), etc. For each,
+briefly note how our book is similar (topic interest) but also how it differs or fills a gap. Perhaps none
+of those comps specifically addressed stablecoins’ human impact – that’s our niche. This section
+shows we know the landscape and how to position our book uniquely. (It’s worth noting that
+proposals typically avoid comps older than ~10 years unless they are still relevant, as an agent would
+say older comps might be “out of print or dated” – but one can reference a classic if it makes sense)
+87 .
+• Author Bio & Platform: As a first-time author, platform is scrutinized. By 2026, publishers expect
+nonfiction authors to demonstrate they can reach an audience or have authority. This means we
+must highlight any relevant credentials (e.g., if the author is a fintech professional, economist,
+journalist, etc.), and more importantly what reach do they have. Platform includes social media
+following, newsletter subscribers, prior article publications, speaking engagements, or involvement
+in communities. If the author has written op-eds or whitepapers on related topics, mention the
+exposure. If not, it becomes important to show the author’s plan to build visibility (perhaps through
+a blog, podcast interviews, etc.). The bio should also convey why the author is the right person to
+write this: e.g., “X has spent a decade in the digital payments industry” or “Y is a researcher who
+interviewed 100 people in 10 countries about money”. In 2026, given information saturation,
+publishers particularly value authors who can promote the book themselves (Confidence: HIGH –
+this has been a trend for years 88 89 ). If the author lacks a built-in audience, the proposal should
+highlight any unique access or content they bring (like exclusive interviews or data for the book) to
+reassure publishers the book will garner attention.
+• Chapter Outline: A breakdown of the planned chapters, usually with a paragraph or two describing
+each chapter’s content and purpose. This shows the book’s structure and that the author has a
+coherent plan. For our stablecoin book, the outline might mirror the queries A1–A5 for some
+chapters (e.g., a chapter on trust evolution, one on connected tech vs money, one on inclusion, etc.),
+and then additional chapters painting scenarios of the future or policy debates. Each chapter blurb
+should be engaging and not just “and then we’ll discuss X.” It should read like a teaser of the story/
+argument of that chapter. For example, “Chapter 3: The Money That Isn’t There – This chapter explores
+the billions of people cut off from traditional banking and how a smartphone and a stablecoin gave a
+Kenyan shopkeeper the financial identity she never had. We examine whether digital dollars can succeed
+where brick-and-mortar banks failed.” That kind of description both informs and intrigues. Typically,
+editors like to see a logical progression – our outline should show a narrative arc or argumentative
+flow, not just a grab-bag of topics.
+• Sample Chapter(s): Most proposals include 1 or 2 sample chapters (or at least 15–30 pages of
+sample material) 90 . As a first-time author, providing a polished sample is vital to prove we can
+execute the writing. They will evaluate the prose, the clarity of explanation, and the storytelling. By
+2026, with attention at a premium, a lively, well-edited sample chapter can clinch the deal. We should
+choose a chapter that best showcases our style – often either the first chapter or a particularly
+compelling case study chapter. Since our book will blend human stories with analysis, a sample that
+16does both (maybe the opening anecdote of someone using a stablecoin in crisis followed by analysis)
+could work well.
+• Marketing & Promotion Plan (optional but increasingly common): Some proposals include a
+section where the author outlines how they will help sell the book. As a first-timer, we should
+demonstrate willingness and some concrete ideas: e.g., leveraging any industry contacts for bulk
+sales or endorsements, a plan to do speaking engagements or webinars on the topic, reaching out
+to podcasts or media where the author could appear (especially if the author has expertise or a
+unique story that media would cover). While publishers don’t expect authors to do everything, by
+2026 they certainly expect the author to be an active partner in promotion 88 . For instance, if the
+author writes for a known blog or can get op-eds published around launch, mention that. If they
+have relationships in the fintech community to tap into, note it.
+• Length, Timeline, Deliverables: We should specify the anticipated manuscript length (perhaps
+~80,000 words for a book like this, which is standard for serious nonfiction). Also note how quickly
+after signing we can deliver the full manuscript – typically 6–12 months. Given it’s research-heavy,
+maybe closer to 9 months. In 2026, publishers appreciate timely delivery especially if the topic is hot;
+we might mention any work done so far (e.g., interviews completed, research compiled) to assure
+them the project is manageable.
+• Publication Considerations: Not always in the proposal, but an agent cover letter may mention if
+the topic has global appeal for translation, etc. We can hint that “this topic’s global nature could attract
+publishers in multiple markets – e.g., the UK, EU, and emerging economies where stablecoins are in use.”
+That signals potential rights sales (which publishers love).
+In summary, the proposal needs to prove two things: (1) There is an audience hungry for this book and it fills
+a real gap/need, and (2) The author is capable of delivering a well-written, credible, and promotable book.
+Specific data and sources we’ve gathered (like trust stats, unbanked numbers, etc.) can be peppered into
+the proposal overview to show the timely evidence. For instance, writing “Stablecoins handled $8.5 trillion
+on-chain in one quarter of 2024 – more than double Visa’s volume 43 , yet most people have barely heard of
+them. This book demystifies this quiet revolution…” is the kind of punchy fact that excites editors
+(Confidence: HIGH that using such facts is effective).
+The publication date in a citation isn’t usually needed in the proposal text (we use it here for our research
+verification), but we might mention recent events by year to show freshness (e.g., “As of 2026, nine of the
+top ten banks are piloting some form of digital currency…” if true, hypothetically). The overall tone of the
+proposal should be confident and authoritative, but also accessible – much like the book itself.
+(Confidence: HIGH on these expectations, as they align with advice from publishing experts and Jane Friedman’s
+guidelines 91 88 . There is little deviation in 2026 from these long-standing norms, though emphasis on author
+platform continues to grow.)
+C5. Self-Publishing vs. Traditional Publishing: Trade-offs for a Debut Author
+Deciding between traditional publishing and self-publishing is a major consideration for a first-time author
+in 2026. Each route has its pros and cons, and the best choice depends on the author’s goals, resources,
+and appetite for the publishing process.
+17Traditional Publishing Pros:
+- Distribution and Exposure: A traditional publisher will get the book into brick-and-mortar bookstores,
+libraries, and international markets more readily. They have sales teams with relationships to retailers. For a
+global topic like stablecoins, having the book physically available in say, airport bookstores or prominent
+placement at Barnes & Noble can significantly boost visibility. Also, translations and foreign rights deals are
+often handled by the publisher’s rights team. It’s not unusual for a Big 5-published book to get picked up in
+multiple languages if the topic has global interest (and stablecoins do). - Professional Editing and Design:
+The publisher provides editing (developmental and copyediting), cover design, and formatting at no cost to
+the author. This usually results in a more polished product. A strong cover and title can make a huge
+difference in attracting readers; big publishers have experts for that. For example, the iconic orange cover
+of The Bitcoin Standard by Wiley or the bold design of The Age of Cryptocurrency weren’t the authors’ doing –
+it was the publisher’s design team (Confidence: HIGH – publishers invest in these elements to maximize
+appeal). - Advance & Financial Support: Traditional deals often come with an advance payment against
+royalties. For a first-timer, it might range widely (from maybe $10k up to six figures if the publisher is very
+excited). An advance allows the author to focus on writing without financial strain. It’s essentially the
+publisher betting on the book’s success. They also cover all production costs (editing, printing, etc.), which is
+significant. - Legitimacy and Reviews: Being published by a reputable house often gives a stamp of
+credibility. Mainstream media and award committees tend to take traditionally published books more
+seriously (with exceptions). Many high-profile book reviewers (e.g. NY Times, Economist) review mostly
+traditionally published books. Also, for academic or policy impact, a known publisher can carry weight. A
+skeptical mainstream reader might also be more inclined to pick up a book from, say, Penguin Random
+House versus an unknown imprint, assuming quality vetted (though this perception is slowly changing). -
+Marketing and PR Support: This can vary widely, but at minimum publishers send out review copies, get
+the book listed in catalogs, and sometimes pursue media coverage. The reality is they have limited budgets
+and first-time authors may not get a big marketing push, but some support is there (catalog placement,
+perhaps entry into relevant award contests, maybe organizing a launch event or inclusion in publisher
+promotions). They may also handle or assist with distribution of eBook and audiobook versions.
+Traditional Publishing Cons:
+- Long Timeline: It’s typically slow. From proposal acceptance to publication can be 12–18 months
+(sometimes more). In 2026, even with faster digital processes, big publishers often schedule books far in
+advance. For a fast-evolving topic like crypto, this could mean some material risks becoming less cutting-
+edge by release. If the author/publisher want the book out while stablecoins are a hot topic, they’d need to
+push for an expedited schedule (which is possible, but usually at best maybe 9 months to a year). Self-
+publishing can be done as soon as the book is finished – a huge time advantage if urgency is a factor. - Loss
+of Control: With a publisher, the author signs over certain rights and control. The publisher often has final
+say on the title, cover design, and marketing strategies. The author might prefer a certain title or cover
+concept, but the publisher might veto it based on market research or sales input. Content-wise, editors will
+influence structure and tone for marketability. Some authors find this guidance invaluable; others feel it
+compromises their vision. For instance, a publisher might say “cut Chapter 5, it’s too technical for readers,”
+whereas in self-pub the author could keep it. Also, pricing is set by the publisher; a first-time author can’t
+dictate price or do free promotions at will. - Lower Royalty Rate: Typical royalties from traditional deals are
+around 10–15% of hardcover net price, ~7–10% of trade paperback, and ~25% of net on e-books. In
+contrast, self-published authors on Amazon Kindle get up to 70% of the sale price on e-books (for certain
+price ranges), and typically around 40–60% on print-on-demand paperbacks. So if the book sells extremely
+well, the author might eventually earn more per copy self-publishing. However, the trade-off is the advance:
+in trad publishing, you keep the advance even if sales are modest. In self-pub, you earn nothing until
+18readers find and buy the book. - Need for Agent: To get a good deal, the author usually needs a literary
+agent, which is an extra step (and 15% commission of royalties). Finding an agent itself can be challenging
+and time-consuming for a new author. It’s part of the process but not a guarantee – so there’s a gatekeeper
+layer that doesn’t exist in self-publishing, where you can publish whatever you want whenever you’re ready.
+Self-Publishing Pros:
+- Speed to Market: The author can publish on their own timeline. If we wanted to capitalize on a particular
+event or breakthrough (say a major stablecoin-related news cycle), we could release the book in a matter of
+weeks after finishing manuscript. This agility is great for timely content. For example, when Terra stablecoin
+collapsed in 2022, an indie author could have written a quick book on “Lessons from Terra’s Collapse” and
+been on Amazon by fall 2022 – a traditional publisher’s book on it might only come out in 2023 or 2024. -
+Creative Control: The author is the boss of all decisions – cover design, title, pricing, formats, marketing
+strategies. This means the book can stay true to the author’s vision entirely. Also, niche content that a
+publisher might trim (like technical appendices or detailed case studies) can be retained if the author
+believes their readers want it. We could, for instance, include a full transcript of a fascinating interview in an
+appendix without worrying about page count constraints from a publisher. - Higher Royalty Potential: As
+noted, platforms like Amazon Kindle Direct Publishing (KDP) offer ~70% royalties on e-books priced $2.99–
+$9.99. Print on demand might give ~50% after printing costs. If the book sells in decent volume, the author
+can earn substantially more per copy than the few dollars per copy via trad publishing. For a long-tail book
+(steady small sales over time), self-pub can be financially rewarding. There are examples of self-published
+nonfiction authors who built a following and made far more than they would have with a publisher
+(especially if they also sell direct or do bulk sales to organizations). - Niche Targeting and Marketing
+Flexibility: The author can tailor marketing to very specific audiences (like running ads on crypto forums, or
+bundling the book with an online course, etc.). Self-pub authors can also update the book easily – a big plus
+for a fast-moving field. If next year a new development in stablecoins occurs, a self-pub author can release a
+revised edition or add a chapter and re-upload it. Traditional reprints/editions take longer and might not
+happen unless sales justify. - Ownership of Rights: The author keeps all rights (unless they sign them to
+someone for distribution). This means they can negotiate film/TV or audiobook independently, license
+translations directly, or do special editions. With a publisher, those rights are typically theirs to exploit (they
+give some share to author, but they control the deals largely).
+Self-Publishing Cons:
+- Discoverability & Credibility Challenges: The biggest challenge is getting readers. Without a publisher’s
+platform, a first-time author must build their own buzz. The book might not be reviewed by major outlets
+(though some self-pub books have broken through, it’s rare). It won’t automatically be in physical stores
+(though one can get into Amazon and maybe Barnes & Noble online; physical B&N or libraries require
+special effort and often prefer trad-pub books). There’s also still some stigma or skepticism among certain
+readers (“is a self-published book as reliable?”). However, this stigma is lessening year by year as more
+quality self-published works emerge. - Upfront Costs & Effort: The author must either learn to do or pay
+for all the services a publisher would provide – professional editing (highly recommended, and costs can be
+several thousand dollars), cover design (a good cover designer might charge a thousand or two),
+formatting, etc. Skimping on these can hurt the book’s quality. So there’s a financial investment required.
+Marketing is also entirely on the author’s shoulders – running ads, sending press releases, organizing book
+talks, etc. This can be time-consuming and requires a skill set (or hiring a publicist). Many successful self-
+pub authors effectively become entrepreneurs running a small publishing business for their book. - No
+Advance, Uncertain Income: You might invest money and time and see minimal sales – there’s no advance
+safety net. It could take months or years to recoup costs, if ever. Traditional at least gives some money
+19upfront and the validation of a contract. - Market Saturation: By 2026, self-publishing is very popular,
+meaning millions of titles are out there on Amazon and other platforms. Standing out in that sea is tough. If
+one doesn’t hit best-seller lists or have a hook for media coverage, the book can languish. Traditional
+publishers have the advantage of visibility in curated spaces (bookstores, media coverage that often ignores
+indie books, etc.).
+Hybrid Approaches: It’s worth noting the existence of hybrid publishing and also the ability to do both
+(some authors self-publish first to build a following, then get a traditional deal later). For instance, one
+strategy could be self-publish an e-book original to test the market, then use its success to pitch a
+traditional edition. But for a complex book with global scope, that might not be ideal – better to aim high
+with traditional from the start, unless time-to-market is absolutely critical.
+For this project, since it aims to influence mainstream conversations and policy thinking, traditional
+publishing likely offers a better platform. The credibility and distribution could ensure the book finds its
+way to journalists, policymakers, and skeptics who might not otherwise pick it up. On the other hand, if no
+publisher buys the proposal or if the author values control and has a strong marketing plan of their own
+(say, a huge online following or organizational support), self-publishing could be a viable Plan B.
+It’s also a personality fit issue: do you as an author want to navigate corporate publishing processes, or do
+you prefer the entrepreneurial route of self-pub? Some authors relish the DIY approach; others prefer to
+focus on writing and let professionals handle the rest.
+In conclusion, the trade-off comes down to reach vs. control/royalties. Traditional can amplify reach and
+prestige, crucial for a book trying to shape public discourse (Confidence: HIGH – historically, traditionally
+published works have an easier time in mainstream discourse). Self-publishing grants control and
+potentially more profit per sale, but requires the author to be marketer and publisher as well, with the risk
+of limited reach if not executed well (Confidence: HIGH given the known difficulties).
+For a first-time nonfiction author with a topic as significant as the global stablecoin shift, a prudent path
+might be: try traditional publishing first (to leverage its advantages), but be prepared to pivot to self-pub if the
+industry gatekeepers don’t recognize the book’s potential or if speed becomes paramount. Each route has
+success stories and cautionary tales, so the author should weigh these factors against their own situation
+and objectives.
+Key Findings & Sources:
+• Human Themes (2005–2026): Trust in institutions declined globally since 2005 1 , majority now
+default to distrust 2 . Rise of insularity/nationalism documented by Edelman 2026 (70% unwilling to
+trust those with different views) 4 . Economic grievances high – 60% say system favors the rich 7 .
+Social media connected 64% of world by 2025 8 . Work went remote (Zoom jump from 10M to
+300M users in 2020) 9 . Only 15% in developed nations are optimistic about next generation’s
+future 12 . (Confidence: HIGH, multi-source agreement).
+• Trust Evolution (2008–2026): U.S. confidence in banks fell from 41% (2007) to 22% (2009) post-crisis
+16 , never fully recovered (38% in 2020) 16 . Global trust in government/institutions steadily eroding
+201 – people trust local circles more 18 . Gallup 2022: trust in financial firms ranges 4% (Lebanon) to
+95% (Kuwait) 25 , showing link between stability and trust. Bitcoin’s birth in 2009 signaled a response
+to broken trust (genesis block referenced bank bailout) 19 . (Confidence: HIGH, strong data trends).
+• Connected vs Money Lag: Social networks and e-commerce globalized (e.g. $6.42T e-commerce in
+2025, 20.5% of retail) 33 . Cross-border money transfer still costly – ~6.5% fees on average in 2025
+35 , vs <1% domestic 37 . Cross-border payments “not kept up” with domestic innovation 38 .
+Stablecoins show potential: $8.5T on-chain volume in one quarter 2024 (2× Visa) 43 , but mostly not
+retail use (only 5% real economy transactions) 42 . (Confidence: HIGH, clear quantitative evidence).
+• Financial Exclusion & Dignity: 1.4B adults unbanked + 400M underserved 44 . Exclusion traps
+communities in poverty 48 . Fintech leaders frame inclusion as restoring dignity/opportunity 49 55 .
+Stablecoins give lifeline in unstable economies – seen in Argentina, Venezuela usage (USDT, USDC at
+stores). 13% of U.S. unbanked cite lack of trust in banks 51 , showing human dimension of opting
+out. (Confidence: HIGH, widely corroborated by World Bank and fintech case studies).
+• Nature of Money & Stablecoins: Money’s form is changing – “The nature of money is changing…
+financial system remains outdated” 45 . Stablecoins enable instant, 24/7, borderless transactions
+59 , a fundamental shift in flow. Yet money’s essence as credit/trust persists 58 . Centralized
+stablecoins keep trust in issuer (no big behavioral change), but decentralized forms alter trust
+models (trust in code/community). Digital money could increase surveillance – concerns that
+stablecoin laws must ensure privacy 60 . Books/papers note programmable money’s pros and cons
+(efficiency vs. autonomy). (Confidence: MEDIUM, as forward-looking implications are debated, but
+early trends/backlash are documented).
+• Comp Titles Lasting vs Dated: The Sovereign Individual (1997) predicted digital currency, still cited
+(authors Davidson/Rees-Mogg). The Ascent of Money (2008) timeless due to historical span. The World
+Is Flat (2005) now feels dated in parts (missed later issues). Age of Cryptocurrency (2015) and Digital
+Gold (2015) provide history but lack latest developments. Who Can You Trust? (2017, Botsman)
+remains relevant on trust shift (publication by PublicAffairs). Bitcoin Standard (2018, Wiley) became a
+crypto classic (ideological stance keeps niche appeal). Lesson: broad vision and fundamental
+questions yield longevity; trend-chasing books age quickly 68 . (Confidence: HIGH, evidenced by
+continued references or absence thereof in discourse).
+• Naming Conventions: Two-part titles standard – catchy phrase + explanatory subtitle 66 75 .
+Common patterns: “The [Noun] of [Big Concept]”, “How [X] is [Changing] [Y]”, or provocative
+questions. Examples: Bitcoin: The Future of Money? 70 , The Age of Cryptocurrency: How Bitcoin… 66 ,
+The Curse of Cash 75 , Who Can You Trust? Titles often use metaphors (Digital Gold), power words
+(Revolution, Future, Rise, New). For subtitles, clarity on stablecoins and stakes is key (e.g. “…and the
+Future of Finance” or “…the Fight for Financial Access”). (Confidence: HIGH, aligned with many
+nonfiction bestsellers’ titles).
+• Proposal Requirements: Typically ~20–30 pages plus sample chapters 91 . Should include overview
+of concept (with a compelling hook), target audience, competitive analysis, author credentials/
+platform, chapter outline, and sample material. Emphasis in 2026 on why now (timeliness) and why
+you (author authority and reach) 88 92 . Solid proposals address marketability upfront – “why this
+21book will sell and how it’s different”. Given first-time status, a polished sample chapter is crucial to
+demonstrate writing skill. (Confidence: HIGH, per publishing guides and agent feedback).
+• Traditional vs Self-Publishing Trade-offs: Traditional brings professional editing, design, broader
+distribution (bookstores, libraries), and a credibility boost, at cost of lower royalties (~10–15% vs up
+to 70% self-pub) and creative control (publisher has final say on many aspects) 74 . It’s slower (often
+12–18 months to release) but can reach more readers through established channels. Self-publishing
+offers speed (publish as soon as ready), control (author decides everything), and higher share per
+sale, but requires author to handle all production and marketing tasks/costs and fight for
+discoverability in a crowded market. Many self-published books struggle to match the reach of a
+traditionally published title, especially in nonfiction thought-leadership space (major media still
+skews toward traditionally published authors). However, niche audience targeting and iterative
+updates are advantages self-pub has. (Confidence: HIGH, as these points are well documented in
+publishing industry analysis).
+Surprises and Noteworthy Points: A few findings were particularly surprising or counter-intuitive: -
+Stablecoins’ transaction volume – the fact that in Q2 2024 stablecoins did over $8 trillion in volume,
+double that of Visa 43 , is striking. It underlines their rapid rise in utility, yet public awareness is relatively
+low. A tech insider might not realize just how much these are used under the hood already (mostly in crypto
+trading and certain remittances). This scale makes stablecoins hard to ignore going forward. -
+Pervasiveness of distrust – it’s notable that only 1 in 3 people globally default to trusting others 2 . In
+hindsight this era might be seen as a peak of distrust and polarization. A mainstream skeptic likely feels this
+anecdotally, but seeing it quantified (70% in insular mindsets) 4 is eye-opening. Also surprising is how
+workplaces have emerged as relatively trusted arenas compared to society at large 93 – something we
+might incorporate in the book when discussing who steps up to broker trust (like employers, per Edelman).
+- Financial inclusion framed as a basic need – the language of dignity and rights around finance has
+become stronger. The LinkedIn piece explicitly connecting fintech to human dignity 49 is a shift from a
+decade ago when inclusion was talked about more in economic terms only. It highlights a moral dimension:
+exclusion isn’t just inconvenient, it’s unjust. - Generational trust gap – younger generations trust
+institutions even less 23 . By 2050, looking back, this might be obvious (“those who grew up post-2008
+never developed trust in banks or government like earlier cohorts did”). But it’s important now for our
+narrative – it suggests any solution (like new forms of money) might find readier adoption among youth
+disillusioned with legacy systems. - Book publishing insight: Perhaps surprising to the user could be how
+much a proposal can matter more than a full manuscript for nonfiction. The idea that we sell the concept
+and ourselves before writing the book fully (with only sample chapters) 94 might be new to those outside
+publishing. It emphasizes planning and market savvy. Also the notion that “the artfulness of the writing
+doesn’t matter as much as the marketability” for many nonfiction categories 88 can be a sobering surprise
+– it means as authors we must think like publishers in crafting the concept.
+All these findings and reflections will inform both the content of the book and how we present it to the
+market, ensuring it’s compelling, credible, and impactful for years to come.
+Sources (with URLs and Dates):
+• Edelman Trust Barometer 2026 – Richard Edelman, TIME (Jan 2026) – “inexorable erosion of belief in
+institutions… distrust is default” 2 22 .
+22• UNU-WIDER Trust Report 2025 – UNU-WIDER Working Paper (Oct 2025) – “global decline in
+institutional trust since 2005… strong in-group trust driving polarization” 1 14 .
+• FiveThirtyEight on U.S. bank trust – Kaleigh Rogers, FiveThirtyEight (Mar 17, 2023) – “41% trusted
+banks in 2007, only 22% by 2009; never regained mid-90s levels” 15 .
+• Gallup World Poll 2022 – Mary Claire Evans, Gallup News (May 18, 2023) – “trust in financial
+institutions ranges 4% (Lebanon) to 95% (Kuwait) in 2022” 25 .
+• Smart Insights social media stats – Dave Chaffey, Smart Insights (Feb 14, 2025) – “63.9% of world uses
+social media; avg 2h21m daily” 8 .
+• Zoom usage explosion – Eric Yuan, Zoom Blog (Mar 17, 2021) – “Dec 2019: 10M daily users; Apr 2020:
+300M daily” 9 .
+• World Bank Remittance Prices – World Bank RPW (March 2025) – “global avg remittance fee 6.49% in
+2025” 95 ; BIS speech (Nov 27, 2025) confirming cross-border costs 38 35 .
+• Stablecoin volume vs. Visa – Stablecoin Opportunities PDF (user file citing a16z & Flagship, 2024) – “Q2
+2024 stablecoins $8.5T on-chain, >2× Visa volume” 43 .
+• Center for Financial Inclusion on unbanked – Alvarez & Totolo, CFI (July 26, 2022) – “1.4B excluded,
+plus 400M with dormant accounts” 44 .
+• eShandi on dignity – eShandi (fintech startup) on LinkedIn (Aug 6, 2025) – “fintech is about dignity,
+opportunity, choice… Financial exclusion keeps families in poverty” 49 48 .
+• Edelman Trust Barometer 2026 (TIME Ideas) – Richard Edelman (Jan 2026) – “70% hesitant to trust
+others with different values; retreat into insular circles” 4 ; “only 15% in developed markets
+say next generation will be better off” 10 .
+• Investopedia on Bitcoin Genesis – Carla Tardi, Investopedia (Sep 25, 2025) – “Genesis Block message
+referencing 2009 headline… indicating Bitcoin’s intent to offer alternative to traditional
+banks” 19 .
+• Business Insider crypto book list – Business Insider (June 15, 2022) – listing comparable titles: e.g.
+Frisby’s Bitcoin: The Future of Money? 70 ; Vigna & Casey Age of Cryptocurrency 66 ; Rogoff’s Curse of
+Cash 75 ; Botsman’s Who Can You Trust? 73 .
+• Jane Friedman on Proposals – Jane Friedman Blog (Jan 7, 2026) – “Most proposals 10–25 pages (plus
+sample chapters)… proposal is business case for the book” 91 86 ; “platform/marketability
+often matter more than literary quality for how-to/topics” 88 .
+(All sources accessed and verified February 10, 2026.)
+1
+14
+18
+23
+30
+31
+WIDER Working Paper 2025/34-Trust in a changing world
+https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2025-34-trust-changing-world.pdf
+2
+3
+4
+5
+6
+7
+10
+11
+12
+13
+22
+93
+Society Is Becoming More Insular | TIME
+https://time.com/7346945/edelman-trust-barometer/
+8
+Global social media statistics research summary 2025 [Feb 2025 update]
+https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/
+9
+A Year Later: Reflecting and Looking Ahead | Zoom
+https://www.zoom.com/en/blog/reflecting-looking-ahead/
+It’s Not Just Silicon Valley Bank — Americans Haven’t Trusted Banks For Years |
+FiveThirtyEight
+15
+16
+17
+24
+https://fivethirtyeight.com/features/its-not-just-silicon-valley-bank-americans-havent-trusted-banks-for-years/
+2319
+20
+Bitcoin Genesis Block Explained: Key Facts, Secrets, and Significance
+https://www.investopedia.com/terms/g/genesis-block.asp
+21
+2026 Edelman Trust Barometer Reveals Trust is In Peril As Society ...
+https://www.edelman.com/news-awards/2026-edelman-trust-barometer-society-slides-into-insularity
+25
+26
+27
+28
+29
+Money Doesn't Buy Confidence in the Financial Sector
+https://news.gallup.com/poll/505796/money-doesn-buy-confidence-financial-sector.aspx
+32
+[PDF] Acting Comptroller of the Currency Michael J. Hsu - OCC.gov
+https://www.occ.gov/news-issuances/speeches/2022/pub-speech-2022-106.pdf
+33
+eCommerce Statistics (2025): Sales & User Growth Trends
+https://capitaloneshopping.com/research/ecommerce-statistics/
+34
+35
+36
+37
+38
+39
+46
+47
+Cross-border payments - a catalyst for global integration and growth
+https://www.bis.org/speeches/sp251127a.pdf
+40
+41
+Don Tapscott on Fintech and Blockchain Technology (Interview)
+https://fintechly.com/interviews/exclusive-with-don-tapscott-top-blockchain-influencer/
+42
+45
+59
+62
+From Blockchain to Everyday Life: An Overview of Global Stablecoin Consumption Patterns |
+PANews
+https://www.panewslab.com/en/articles/24e0dcec-16e1-41fb-bdd8-8fb932214cc9
+43
+52
+53
+100 Stablecoin Company Opportunities.pdf
+file://file_0000000045e071f59b28fda8496b600e
+Global Findex 2021: Growth, Stagnation, and (Relative) Decline in Global Financial Inclusion - Center for
+Financial Inclusion
+44
+https://www.centerforfinancialinclusion.org/global-findex-2021-growth-stagnation-and-relative-decline-in-global-financial-
+inclusion/
+48
+49
+50
+54
+55
+56
+57
+The Human Cost of Exclusion: Why Financial Access Is a Basic Need
+https://www.linkedin.com/pulse/human-cost-exclusion-why-financial-access-basic-need-eshandi-in8ye
+51
+[PDF] OCC-2023-0003, Request fo - Urban Institute
+https://www.urban.org/sites/default/files/2023-10/Trust%20Me%20I%27m%20a%20Bank.pdf
+58
+Monetary attribute of stablecoins: A theoretical and empirical test
+https://aimspress.com/article/doi/10.3934/NAR.2023016?viewType=HTML
+60
+61
+63
+Stable Money in an Unstable World | Understanding Stablecoins
+https://leadingadvice.com.au/stable-money-in-an-unstable-world/
+64
+65
+68
+77
+78
+79
+80
+81
+82
+The Perfect Book Title - by Nicolas Cole
+https://artandbiz.substack.com/p/the-perfect-book-title
+66
+67
+69
+70
+71
+72
+73
+75
+76
+27 Best Crypto Books to Read, Top Experts' Recommendations and Advice -
+Business Insider
+https://www.businessinsider.com/crypto-investing-best-books-list-recommendations-bitcoin-blockchain-ethereum-
+strategy-2021-7
+74
+THE BITCOIN STANDARD: THE DECENTRALIZED ALTERNATIVE ...
+https://ideas.repec.org/a/bla/ecaffa/v39y2019i1p160-161.html
+2483
+Digital Gold: Bitcoin and the Inside Story of the Misfits ... - AbeBooks
+https://www.abebooks.com/9780062362506/Digital-Gold-Bitcoin-Story-Misfits-006236250X/plp
+84
+The age of cryptocurrency : how Bitcoin and digital money are...
+https://discover.knoxcountylibrary.org/oreilly/on1281679633
+85
+The Bitcoin Standard - Wikipedia
+https://en.wikipedia.org/wiki/The_Bitcoin_Standard
+86
+88
+89
+91
+92
+94
+Start Here: How to Write a Book Proposal + Book Proposal Template | Jane Friedman
+https://janefriedman.com/start-here-how-to-write-a-book-proposal/
+87
+[PubQ]: Difficulty Find Recent Comp Titles and Unsure Whether To ...
+https://www.reddit.com/r/PubTips/comments/tpp0ml/pubq_difficulty_find_recent_comp_titles_and/
+90
+How To Write a Non-Fiction Proposal and Get an Agent
+https://www.writersandartists.co.uk/advice/how-write-non-fiction-proposal-and-get-agent
+95
+Homepage | Remittance
+https://remittanceprices.worldbank.org/
+25

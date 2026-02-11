@@ -1,0 +1,122 @@
+Real Freelancers Using Stablecoins for Payments –
+Case Studies
+Mika Reyes – Freelance Designer Turned Startup Founder (USA/
+Philippines) – Confidence: HIGH
+Timeline & Background: Mika Reyes is a freelance UX designer and entrepreneur who grew up in the
+Philippines and later studied and worked in the United States 1 . By 2021, she was doing contract projects
+for clients overseas. Frustrated with the friction of traditional cross-border payments, Mika tried accepting
+stablecoins (specifically USDC on Solana) for her freelance work 2 3 .
+Experience with Stablecoin Payments: In an interview on Artemis Analytics (Feb 19, 2025), Mika recounted
+the “magical” experience of being paid in USDC instead of via bank or PayPal. One European client sent her
+a payment in USDC, which arrived within seconds to her Phantom crypto wallet – a stark contrast to
+waiting days for international wire transfers 3 . “In these freelance projects, I got paid in USDC…and was
+floored at how quickly it arrived from my client in Europe! It’s a big upgrade from keeping a ledger between my
+dad and I,” she said 4 . (Before stablecoins, she and her father literally kept a manual ledger of IOUs when
+moving money between the US and the Philippines, due to the hassle of bank transfers 1 4 .) After
+seeing USDC’s speed and near-zero fees, Mika started relying on stablecoin payments for her gigs: “The
+transfer was instant with virtually no fees! This method quickly became essential for my freelance work.” 5
+Benefits Over PayPal/Bank Transfers: Mika emphasizes that digital dollar stablecoins solved many
+problems she faced with traditional payments. With stablecoins, there were no surprise conversion fees or
+delays. “Freelancers are tired of waiting days for bank processing and dealing with opaque fees,” she explained,
+whereas USDC payouts give instant access to earnings with low, transparent costs 6 . Unlike PayPal or
+wire transfers that can take 3–5 days and charge 4–6% in hidden forex and service fees, her USDC payments
+arrived 24/7 and preserved value 6 7 . This not only saved money but also protected her from the
+exchange rate headaches she’d experienced sending money home to the Philippines.
+Current Status: Mika was so impressed by stablecoin payments that she co-founded a startup, Parallax, to
+help other freelancers and remote workers receive pay in USDC smoothly 8 9 . As of early 2025, Parallax
+reported ~93% wallet adoption among users, reflecting freelancers’ eagerness for faster, cheaper payments
+10 . Mika’s story shows the real emotional impact of stablecoins: they turned a once-stressful payday into
+an instant, borderless transaction. “I was struck by the potential of stablecoins to move money instantly across
+borders without high costs or long waits,” she says, noting that what started as a personal solution for her
+now benefits a growing global user base 8 .
+Key Quote: “I got paid in USDC…and was floored at how quickly it arrived from my client in
+Europe! It’s a big upgrade from [the old way]. The transfer was instant with virtually no fees – this
+quickly became essential for my freelance work.” 2 3
+1Mohamed A. – Upwork Developer (East Africa) – Confidence:
+MEDIUM
+Timeline & Background: “Mohamed A.” is a pseudonymous example based on a real freelance software
+developer from East Africa (featured in a VaultLeap case study, July 21, 2025). For years, he contracted with
+global clients via Upwork, but getting paid was a nightmare due to the limited local banking options 11
+12 . His earnings were in USD, but he needed local currency, so he juggled multiple services just to convert
+his pay.
+Old Payment Friction (PayPal/Wise): Mohamed’s original payout routine involved five steps across different
+platforms:
+1. Upwork → PayPal: Clients’ payments were first routed to PayPal (incurring ~3–5% in fees).
+2. PayPal → Wise: He’d then transfer USD from PayPal to Wise to withdraw internationally. Timing was
+critical – if a transfer hit on a weekend or month’s end, extra fees or poor rates applied 13 .
+3. Wise → Crypto Exchange: Because local banks weren’t reliable for USD, he would send the money
+from Wise to Binance, a crypto exchange 14 . However, Wise often flagged or froze transfers
+involving crypto, putting his funds at risk 15 16 .
+4. Buy USDT via P2P: On Binance, he’d purchase USDT (a dollar stablecoin) through peer-to-peer
+traders, hoping for a decent exchange rate 17 .
+5. USDT → Cash: Finally, he’d sell the USDT for local currency to actually use the money at home 17 .
+Each hop could introduce delays of several days and layered fees eating up 10%+ of his income 16 .
+“Transfers could take days…fees added up fast, cutting deep into his earnings,” the case study notes, and any
+account along the chain (PayPal, Wise, or Binance) could unexpectedly freeze funds 16 . Mohamed
+described this process bluntly: “I used to convert my Upwork earnings through 3 apps just to get USDT. It was
+slow and full of fees.” 18 19 His frustration with PayPal’s high fees and Wise’s bureaucracy will resonate with
+any freelancer who has watched a chunk of their pay disappear in transfer and conversion costs.
+Switch to Stablecoins: In mid-2025, Mohamed discovered a stablecoin payroll service (VaultLeap) that cut
+out PayPal and Wise entirely. Now his clients’ USD payments go directly to a USDC account in his name,
+and are instantly settled in USDC (USD Coin) on-chain 20 . This means no more waiting for PayPal to
+release funds or for Wise’s transfer windows. Once he receives USDC, he can convert it to local currency
+when convenient, or even hold it as dollars to protect against local inflation. According to the report, what
+used to take 3–7 days now takes seconds 21 22 : “Now I link my VaultLeap USD account [to Upwork] and my
+payment lands as USDC instantly,” he says 23 . From there, he only has one step left – swapping USDC to local
+cash – instead of five steps.
+Benefits Realized: The impact on Mohamed’s life was significant. He went from worrying about “account
+holds and frozen wires” 16 to enjoying “a simple, repeatable system that just works.” 24 He cut out multiple
+middlemen, saving an estimated 70–90% on fees and avoiding the week-long payment lag he and many
+peers had accepted as “normal.” Now, “no hidden fees, no surprise conversions” – he sees exactly how much
+he’s getting, and it arrives in minutes, not days 24 . Perhaps most importantly, he gained peace of mind:
+“Time – cut days of waiting down to seconds…no blocked accounts…[and] peace of mind,” the case study notes of
+his new stablecoin process 24 . This reflects a medium confidence source (the story comes from the
+platform’s own blog), but the details and direct quotes align with common experiences reported by many
+2freelancers in Africa, Latin America, and beyond who have turned to stablecoins for relief from high
+remittance costs.
+Key Quote: “I used to convert my Upwork earnings through 3 apps, just to get USDT. It was slow
+and full of fees. Now [my client’s payment] lands as USDC instantly…No flags. No friction.” 18 20
+Sources:
+• Artemis Interview with Mika Reyes – “Real World Crypto: Mika Reyes at Parallax,” Feb. 19, 2025 2
+• VaultLeap Case Study – “From Five Steps to Three: How Mohammed Fixed His Broken Payment Flow,”
+Medium (company blog), Jul. 21, 2025 12 16 .
+• VaultLeap Testimonial (Mohamed A.) on official site 18 23 .
+• Bitwage Blog – Various insights on stablecoin vs. bank transfer costs 7 .
+1
+2
+3
+4
+5
+6
+8
+9
+10
+3
+Artemis
+https://www.artemisanalytics.com/resources/real-world-crypto-mika-reyes-at-parallax
+7
+How Blockchain Technology Simplifies Cross‑Border Contractor Payments | Bitwage Blog
+https://bitwage.com/en-us/blog/how-blockchain-technology-simplifies-crossborder-contractor-payments
+11
+12
+13
+14
+15
+16
+17
+20
+22
+24
+From Five Steps to Three: How Mohammed Fixed His Broken Payment
+Flow | by VaultLeap | Medium
+https://medium.com/@Klydo/from-five-steps-to-three-how-mohammed-fixed-his-broken-payment-flow-50e24b7836cf
+18
+19
+23
+VaultLeap – USD & EUR Accounts Without LLC
+https://vaultleap.com/
+21
+Klydo Inc. | LinkedIn
+https://www.linkedin.com/company/klydo-io
+3
+.

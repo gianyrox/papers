@@ -1,0 +1,113 @@
+Why the “Three-pass Method” For Reading Research Papers Does Not Work!
+Gianyrox
+Gianyrox
+5 min read
+·
+May 5, 2022
+64
+
+
+2
+
+
+
+
+
+Press enter or click to view image in full size
+
+If you are in the academic field and have wondered how to elevate your academic reading level, you have probably stumbled upon the paper, “How to Read a Paper” by S. Keshav at the University of Waterloo.
+
+The paper teaches a three-pass method where you get a deeper understanding of the paper after every pass.
+
+The key idea is that you should read the paper in up to three passes, instead of starting at the beginning and plowing your way to the end. Each pass accomplishes specific goals and builds upon the previous pass:
+
+The first pass gives you a general idea about the paper.
+
+The second pass lets you grasp the paper’s content, but not its details.
+
+The third pass helps you understand the paper in depth.¹
+
+Here is a brief summary of each pass:
+
+First Pass
+The first is a quick skim and consists of the following steps:
+1. Read the title, abstract, and introduction.
+2. Read all headings and subheadings, but not their content.
+3. Read the conclusions.
+4. Glance over the references.¹
+
+This pass should not take more than 10 minutes.
+
+At the end of the first pass, you should be able to answer
+the five Cs:
+
+Category: What type of paper is this?
+
+Context: Which other papers is it related to?
+
+Correctness: Do the assumptions appear to be valid?
+
+Contributions: What are the paper’s main contributions?
+
+Clarity: Is the paper well written?¹
+
+This pass is meant to give you an idea of the paper and help you decide whether or not you should continue reading it.
+
+2. Second Pass
+
+Become a member
+The paper was interesting and worth your time in the first pass, so you decide to move on to the second pass.
+
+In the second pass, read the paper with greater care, but ignore details such as proofs. It helps to jot down the key points or to make comments in the margins, as you read.
+
+1. Look carefully at the figures, graphs, diagrams, and illustrations in the paper.
+
+2. Mark relevant unread references for further reading.¹
+
+The second pass should not take more than an hour. After this pass, you should have a strong grasp of the paper and be able to explain it to a friend with supporting evidence. Although sometimes, you may not understand the paper after the second pass, and need to read some background material.
+
+You can now choose to:
+
+a) set the paper aside, hoping you don’t need to understand the material to be successful in your career,
+
+b) return to the paper later, perhaps after reading background material, or
+
+c) persevere and go on to the third pass.¹
+
+3. Third Pass
+
+After the second pass and maybe reading some background material, you have decided to take your third pass to fully understand the paper. At the end of this pass, you should be able to rebuild the paper from memory while identifying its strengths and weaknesses.
+
+The key to the third pass is to attempt to virtually re-implement the paper: that is, make the same assumptions the authors made and re-create their work. By comparing this re-creation with the actual paper, you can identify and challenge a paper’s innovations, hidden failings, and assumptions.
+
+This pass requires great attention to detail. Moreover, you should think about how you yourself would present a particular idea. During this pass, you should also jot down ideas for future work.
+
+This pass can take about four or five hours for beginners, and about an hour for an experienced reader.¹
+
+Now that we know what the three-pass method is, why does it not work?
+
+Ok. Maybe it is not the worst method, and maybe it is actually a very good method… but it could be better.
+
+In my latest post, “Stop Reading Top to Bottom! This Is How To Read An Academic Paper,” I discuss a few methods that help you read research papers. Here are a few ways that the three-pass method could be improved with those methods and more.
+
+Reorganization
+A great way to understand a paper better is by reorganizing the structure. Instead of starting at the beginning and plowing your way to the end¹, read the Abstract → Conclusion → Introduction → Data & Analysis. This is especially helpful for the first pass to gain a quick understanding of the paper and its results.
+
+2. Search Engine
+
+The second suggestion is to have your favorite search engine like Google or Duckduckgo with you to look up any words or concepts as you go. This effective strategy may take too long for the first pass, however, it is perfect for the second pass when you want a stronger grasp of the paper.
+
+3. Text To Speech
+
+The last method may just be the most effective. There are tools such as Microsoft Immersive Reader and Voice Dream which immerse you within the text and read the text to you as you read.
+
+voice dream logo
+It is one of the most effective methods for learning and has been shown to increase reading and speaking skills³. So why not use them yourself for papers that you are struggling to understand? This method is great for the third pass when you want to understand every sentence, word, and assumption within the paper.
+
+Yes, yes… I have lied to you once again. The three-pass method does work! I must give a BIG thank you to Professor Srinivasan Keshav for giving the academic community such an amazing three-pass method for reading research papers. It is an extremely effective method, and I only hope that I can help improve it with today’s technology!
+
+[1]Keshav, S. “How to Read a Paper.” ACM SIGCOMM Computer Communication Review, vol. 37, no. 3, 2007, pp. 83–84., https://doi.org/10.1145/1273445.1273458.
+
+[2]Dichio, Gianangelo. “Stop Reading Top to Bottom! This Is How To Read An Academic Paper.” Medium.com/@Gianyrox, Apr. 2022, https://medium.com/@gianyrox/stop-reading-top-to-bottom-this-is-how-to-read-an-academic-paper-239a9f820e72. Accessed Apr. 2022.
+
+[3]Muslem, Asnawi, and Merza Abbas. “The Effectiveness of Immersive Multimedia Learning with Peer Support on English Speaking and Reading Aloud.” International Journal of Instruction, vol. 10, no. 01, 2017, pp. 203–218., https://doi.org/10.12973/iji.2017.10113a.

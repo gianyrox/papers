@@ -1,0 +1,74 @@
+The barrier to enter the research industry is too high. A reformation is needed to help beginners become researchers and researchers communicate with beginners.
+College student struggling to read a paper.
+The image above was created using OpenAI’s DALL-E 2 image creating software with the prompt, “A drawing of a college student having difficulty reading an academic paper.”
+In 2011, less than 1% of the world’s human population read and used research papers in their work. This was estimated by founder of Academia, Richard Price, with data from the National Science Foundation and the Bureau of Labor Statistics in a blogpost from 2011.
+
+So why are there so little?
+Why do 99% of humans not read the frontier of human knowledge everyday? It seems to be that academic articles are not written for the 99%, they are written for other academics and researchers to read. What’s the point of the research if most humans never see it? Why are we not writing research papers so that they can be understood by those not in our field? Today, young students interested in research decide against a career in research due to the following barriers:
+
+Access to research papers is too expensive;
+Research papers are hard to read;
+Research itself is difficult.
+Access to research papers is expensive.
+Academics gain access to research by subscribing to publishers such as Elsevier. Researchers must pay to gain access to the research and then pay once more to publish their research. This does not make sense. Researchers should not need to pay to gain access to their own work.
+
+What’s worse is if a non-researcher wants to learn about a research topic, they need to pay a subscription cost just to read the paper. This non-researcher is not conducting their own research where they need to give back to their contributors, they are merely trying to learn about the topic.
+
+Fortunately, many publishers and journals have built some open access venues such as Elsevier’s Science Direct. On the other hand, having an affiliation with an institution gives you much more access to non open access papers on Science Direct and other journals on Elsevier. If a student has this access, they are already past the first barrier, however, there is another challenge within these publishers and journals of finding high quality research, or even, simply finding what they are looking for.
+
+There are tons of journals and finding the right articles for the research they are interested in is not easy. This causes young students to become demotivated when pursuing their research interests even with access. So once a student has access, the next barrier comes from a lack of legibility and reading ability.
+
+Research papers are hard to read.
+For people with no research paper reading experience, the likelihood that they drop the paper mid-abstract is high. They may find that they need to look up 20 unknown words in Google just to get through the abstract - let alone the rest of the paper! If they decide to trudge forward and struggle to understand the paper contents, they are in for hours let alone days of reading the paper before they fully understand. Believe it or not, this is the case for active researchers as well! If a biology researcher starts to read a physics paper, there is a likely chance they will make it through the abstract and get lost in the introduction.
+
+The problem is, researchers do not present their work for any common person to understand — they present their work for other researchers in their field. Researchers within the specific field may understand it but those outside, not so much. To further the point that researchers present their work for other’s in their field, they submit to specific journals — journals specifically for biology or chemistry or physics. This and the legibility of the papers leads to little to no interdisciplinary discourse. Researchers must write articles that can be easily grasped and further studied to increase interdisciplinary discourse and new researchers.
+
+On a side note, even researchers within the field may struggle to understand a paper. Academic Journal Science Magazine details this in an article on the proof of the Poincaré Conjecture - one of the seven Millenium Problems presented by the Clay Mathematics Institute with a $1 million prize in the year 2000 (hence the name Millenium).
+
+In November 2002, Grigori Perelman posted on the Internet the first of three preprints outlining a proposed proof of the geometrization conjecture (Poincaré Conjecture).
+
+To experts, it was immediately clear that Perelman had made a major breakthrough…
+
+In 2003, many mathematicians doubted that he could have pulled off all of these feats. By 2006, however, the mathematical community had finally caught up. Three separate manuscripts, each more than 300 pages in length, filled in key missing details of Perelman’s proof.
+
+It took nearly 4 years for mathematicians to understand and organize Perelman’s proof. In this case, the mathematics was quite rigorous. It was indeed a Millenium Problem.
+
+Become a member
+As you can see, sometimes it is not just the legibility that is hard. If a new researcher is able to finally read their first papers, they are in for a long and hard journey because…
+
+Research is difficult.
+For those interested in research, not only do they need to have academic journal subscriptions and learn how to read academic papers, they need to learn to conduct research and write an academic paper… Quite daunting. To begin, one may try to find a research group and then try to understand complex papers that the group works with to gain experience. Often times, researchers don’t even conduct new research, they just try to replicate other researchers’ results (which is good for studies, but people interested in research may not know this).
+
+In this field, it seems one cannot just begin doing private research and publishing. They must be affiliated with an institution, do research under an advisor, and use previous research within the field for their own research. No wonder groundbreaking results are difficult to come by.
+
+Researchers may also be looking for easy ways to add to their resume instead of conducting quality research. One example of this is p-hacking. In her article “Science Isn’t Broken,” previous FiveThirtyEight science author Christie Aschwanden describes how researchers try to find significant results with low p-values to add to their credibility as a researcher even if their evidence is biased or not a proper sample.
+
+The research industry must stray away from outputting content solely to boost credibility and land a tenure or job at a university. The growth of human knowledge is far more important.
+
+So what can we do?
+Well, the research industry could use a great reform. On a good note, open access papers and results have become more and more popular. We could also use the power of computers to make visuals and interactive academic papers instead of blocky papers full of text. In terms of researchers getting paid, a better model must be used because it seems that, in the current model, researchers are used by universities to gain standing and academic journals to make money.
+
+Researchers should be able to have independence to monetize their research. A novel solution is needed to democratize research that gives researchers ownership over their research.
+
+Luckily, we have one!
+
+The Bucket Foundation is leading the digital renaissance by reforming the education system so that anyone can learn anything, anywhere.
+
+We believe that there is no better way to begin this reform than by starting with the research industry. If we want anyone, not just researchers to be able to learn from research articles and the cutting edge technology within, the barriers in this industry must be dropped.
+
+Our system will be open access for all to learn. Free Education. However, an open access system does not get researchers paid. So, our solution is to have a verification system for research. If you do research, you can upload it onto the bucket platform for everyone to see. But, if they want to use your research for their own research, to give you credit, they must own a verified copy of your research.
+
+Putting a price on knowledge is like putting a price on air.
+
+Works Cited
+
+Aschwanden, Christie. “Science Isn’t Broken.” FiveThirtyEight, FiveThirtyEight, 19 Aug. 2015, https://fivethirtyeight.com/features/science-isnt-broken/.
+
+Collison, Patrick, and Michael Nielsen. “Science Is Getting Less Bang for Its Buck.” The Atlantic, Atlantic Media Company, 28 Nov. 2018, https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/.
+
+Price, Richard. “The Number of Academics and Graduate Students in the World.” Tumblr, 15 Nov. 2011, https://richardprice.io/post/12855561694/the-number-of-academics-and-graduate-students-in.
+
+
+
+
+

@@ -1,0 +1,536 @@
+Sidebar menu
+Search
+Write
+Notifications
+
+Gianyrox
+Home
+Library
+Profile
+Stories
+Stats
+Following
+Jonathan Ramesh
+Jonathan Ramesh
+Mikkel Dengsøe
+Mikkel Dengsøe
+Sam Schmitt
+Sam Schmitt
+Krishna Rao
+Krishna Rao
+Anujeet Chatterjee
+Anujeet Chatterjee
+a place of mind
+a place of mind
+Marco Salazar
+Marco Salazar
+Brendan Probst
+Brendan Probst
+A History Of The Multiverse
+A History Of The Multiverse
+Seth
+Seth
+
+More
+Get unlimited access to the best of Medium for less than $1/week.
+Become a member
+
+
+1
+
+·
+
+SocialVibes, Farid Khan
+, and 3 others highlighted
+
+
+Wolfgang Klinger, Blaine Coleman
+, and 1 other highlighted
+
+
+Blaine Coleman
+ highlighted
+
+
+eastYang_ and Taeyoon Song
+ highlighted
+
+
+Abdiaziz Qulle
+ highlighted
+
+
+eastYang_, Lu LaLoop
+, and 4 others highlighted
+
+
+Robert Krause and BallyHoo Friedrich SFDVD Elk
+ highlighted
+
+
+Phillip Lagoc, SocialVibes
+, and 4 others highlighted
+
+
+김선호
+ highlighted
+
+
+Blaine Coleman, Lombe-Junior
+, and 2 others highlighted
+
+
+terminalvalue, Taeyoon Song
+, and 6 others highlighted
+
+
+Lombe-Junior, Kuu Keith
+, and 4 others highlighted
+
+
+Blaine Coleman and Lombe-Junior
+ highlighted
+
+
+1
+
+·
+
+BloggingMyWay
+ highlighted
+
+
+Blaine Coleman and Neil Scott
+ highlighted
+
+
+Blaine Coleman
+ highlighted
+
+
+Angshuman Saha
+ highlighted
+
+
+Blaine Coleman, Farid Khan
+, and 2 others highlighted
+
+
+Tati Santos
+ highlighted
+
+
+Prime Deviation
+ highlighted
+
+
+Blaine Coleman
+ highlighted
+
+
+1
+
+·
+
+Kuu Keith, Tom Graczkowski
+, and 4 others highlighted
+
+
+Doug Jennings
+ highlighted
+
+
+김선호
+ highlighted
+
+
+김선호
+ highlighted
+
+
+Blaine Coleman
+ highlighted
+
+
+Farid Khan
+ highlighted
+
+
+Jared Hendrickson
+ highlighted
+
+
+Lu LaLoop
+ highlighted
+
+
+Blaine Coleman
+ highlighted
+
+
+Bruno Wozniak and Phillip Lagoc
+ highlighted
+
+
+Phillip Lagoc, eastYang_
+, and 1 other highlighted
+
+
+Abdiaziz Qulle
+ highlighted
+
+
+UnMarchand, eastYang_
+, and 4 others highlighted
+
+How ChatGPT Will Ruin the World
+From libraries, to Google, to ChatGPT — knowledge seeking has evolved over time, and has become more efficient at every stage.
+Gianyrox
+Gianyrox
+7 min read
+·
+Jan 11, 2023
+1.5K
+
+
+37
+
+
+
+
+
+Press enter or click to view image in full size
+
+Image created on OpenAI’s DALL-E 2 Image generating software with prompt, “evil Robot in space clutching earth in it’s hand like an overlord.”
+For those unaware, ChatGPT is an OpenAI software that gives precise human-like answers to any prompt or question queried.
+
+So how does ChatGPT work?
+
+The tool is built on GPT-3 AI technology. The “3” stands for the third generation and GPT stands for “Generative Pretrained Transformer.” Now what does that mean? It seems quite complex but it does not take too much thinking to understand. “Pretrained” means the model is trained before usage. Easy enough, right? It is trained with 175 billion parameters taken from around 50 years of internet data! It is trained using a “Transformer” architecture. A “Transformer” is a novel data architecture used in Natural Language Processing that relies on Self-Attention… It is basically an efficient and accurate method for training a data model, and in this case, helps to quickly and accurately respond to questions. The transformer allows for “Generative” responses, meaning, the AI responds to a query word after word, instead of finding an answer in it’s huge pool of knowledge. You can think of this as if someone were to ask you to present them with a method for solving the following math problem:
+
+What is the value of x if x + 2 = 3?
+One option would be to find a method for solving the problem in a Pre-Algebra Textbook, cut it out, and present them with the method.
+Another would be to actively create and write down a method for solving the problem using your memory and brain.
+If ChatGPT were to answer this question, it would do the latter! The “Generative” part of GPT effectively makes ChatGPT respond and think like a human.
+
+A little freaky isn’t it.
+
+So, unlike Google — which gives loads of unneeded answers because it uses the former copy and paste answer method discussed above — ChatGPT provides one detailed answer to a query. From asking about the population of giraffes in Africa, to debugging 2000 lines of code, ChatGPT knows it all. If you have not used it yet, check it out here.
+
+https://chat.openai.com/auth/login
+
+Simply sign up and search away! You may be astounded at how quickly you find your desired answers. (Be aware that at the time of posting this article, ChatGPT was exploding with new users and had to halt new users from joining until they could handle a higher capacity. This may not be the case anymore.)
+
+So why will ChatGPT ruin the world?
+
+Well, the way it seems, there are three areas that the tool impacts:
+
+The Individual;
+The Job Market;
+The Tech Economy.
+The Individual
+Due to the rate at which ChatGPT can solve problems and find answers, the individual is at a great disadvantage if they do not use ChatGPT in their endeavors. ChatGPT empowers individuals so much that if one is not using ChatGPT for aid, they will fall behind. Normally, a digital creator may take a couple hours to write and post an article, but with ChatGPT, they can enter a prompt and post the response in minutes. There are already tons of creators using AI to create content.
+
+The scary part here is that people reading an article on the internet may not know if the article was written by a human or by an AI…
+
+As such, many may become “imposter experts” as they can pretend to be experts in a subject using ChatGPT. One does not need to know much about anything if they mindlessly use ChatGPT. Another scary aspect is the possibility of an echo chamber of human knowledge if everyone gains inspiration from ChatGPT instead of finding it within themselves. Since ChatGPT relies on internet data from the past 50 years, it can not come up with anything new — humans must use their own inspiration to find new ideas or our intelligence will be capped at ChatGPT’s knowledge base.
+
+The ability to become a faux expert in any subject removes the need for one to hire experts in different fields. The next section discusses how the tool affects the job market.
+
+The Job Market
+With the immense increase in individual efficiency that ChatGPT creates, one loses the need to hire an expert in a given field. This can be of great detriment to current experts and to the individual. Someone who has specific knowledge in a given field can not only provide knowledge on the subject, they can also teach valuable lessons based on their experience in the field. This is a valuable asset that ChatGPT does not offer. Take the example of a startup founder. ChatGPT can:
+
+write a co-founder contract agreement instead of speaking with a lawyer;
+make a logo instead of hiring an artist;
+write blogposts instead of hiring a digital marketer.
+The founder can do all this without speaking to another human and may not be able to build lasting connections or learn from others’ experiences. The founder may only be thinking of the desired output and the very basic skills needed.
+
+There are many more examples of how chatGPT may empower an individual, and you may think that these empowerments may already exist using google, however, ChatGPT’s ease of use and accuracy is beyond compare to any other software created to answer a person’s prompts and questions.
+
+Become a member
+Continue reading to see how this technology fits in the market.
+
+The Tech Economy
+ChatGPT has already become individuals’ dominant knowledge seeking system. It is only a matter of time before search engines like Google become obsolete. With quick and accurate satisfying results, ChatGPT will unresistably become the primary searching system for individuals.
+
+The OpenAI product will also allow startups and businesses to iterate and put out content much quicker. Thus, there will be rapid growth across all markets that adopt this AI technology. However, this is not the only AI gaining traction. Here are a couple more examples of AI using GPT-3 technology:
+
+Copy.ai is an AI copywriting and editing software used for marketing a business.
+https://www.copy.ai
+Jasper.ai is a content and art generator for marketing businesses and Digital Creators.
+https://www.jasper.ai
+Hypotenuse AI is a factual content creator used for marketing businesses.
+https://www.hypotenuse.ai
+As you can see, AI technology based on GPT-3 seems to be taking over content-based digital marketing. Where else may this technology be applied?
+
+One great application of GPT-3 is the education industry. Programmers have already used ChatGPT to find quick and exact answers to their coding questions. Instead of looking for a 10 line solution to their problem on google and various forums for a couple hours, they can find a 1 liner bit of code in seconds that targets the exact issue. As you can see, ChatGPT teaches programmers how to become more efficient programmers.
+
+Beyond programming, it is only a matter of time before the technology gains widespread usage. This technology can help any person in any walk of life. ChatGPT has also already become a buzzword among tech enthusiasts and News Outlets. One can only wait anxiously for these impacts to take effect.
+
+So is there anything good that comes from ChatGPT?
+
+YES, obviously.
+
+It has been mentioned a few times in this article that individuals gain massive amounts of power with ChatGPT — with expert level knowledge, quick accurate answers, and human like written responses; individual human efficiency levels will increase tenfold, if not a hundred fold with the help of ChatGPT.
+
+The fact is that when one encounters a roadblock, the amount of time it would have taken to overcome the roadblock has been minimized to the amount of time that it takes to properly articulate it to ChatGPT; maximum of a few minutes and as small as a couple seconds.
+
+Human efficiency increases… but what about intelligence? What stops people from using it to complete tasks and not learn from it?
+
+One must understand that completion of tasks has become effortless with ChatGPT. Priority must be given to the growth of human knowledge and learning so to keep humans from becoming mindless task completers. This defines a future where assignments (whether at work or in school) inspire and demand growth and learning over simple completion. ChatGPT can complete nearly anything, so we must prioritize a responsible usage of the tool.
+
+It must also be recognized that ChatGPT amplifies the identity of its users. It empowers users in a way that allows them to pursue their passions efficiently. It also shows user intentions. If a person uses ChatGPT just to copy results instead of learning from the results, they are effectively becoming robotic and mindless. Their use of ChatGPT would be of detriment to themselves as they would have no acquired knowledge or skills to show. (However, it is quite difficult to believe that a human could never learn from results presented by ChatGPT.)
+
+A responsible usage of ChatGPT would be to treat every response as a lesson, as if the questions you ask are to a teacher, not a robot that completes tasks.
+
+This technology could inspire curiosity and makes it quite easy to seek knowledge. A future society of generalists, polymaths, and inventors seems to be in course as opposed to a future of humans with heavy specialization in one area and no broad knowledge or understanding. (A polymath is someone who is knowledgeable ina. wide range of subjects. skilled in any subject which involves math. )
+
+If you are interested in joining the frontier of the Digital Rennaissance, The Bucket Foundation is leading the movement.
+
+The Bucket Foundation aims to teach individuals how to get involved in research and help researchers gain funding. By using a Decentralized Autonomous Organization (DAO) structure, The Bucket Foundation democratizes research and gives power to individuals to conduct and/or fund research.
+
+We are a community of knowledge seekers and innovators who prioritize the growth of human knowledge and understanding.
+
+We are currently deploying the next version of our website and are putting much effort into building research tools, including; research grant and academic paper search tools, research paper writing tools and guides, and a research funding DAO.
+
+The Bucket Foundation was founded with a mission to reform the education system.
+
+If you have a similar mission, join the community! Here is our discord link;https://discord.gg/TeJ5j5Nx,
+
+and our website; http://bucket.foundation.
+
+If you would like to stay updated, you can also follow our linkedIn page here; https://www.linkedin.com/company/the-bucket-foundation/.
+
+I hope this article has inspired you to become a knowledge seeker! Follow up with a question or comment below.
+
+Gianyrox
+
+ChatGPT
+Gpt 3
+AI
+OpenAI
+Future
+1.5K
+
+
+37
+
+
+
+
+Gianyrox
+Written by Gianyrox
+188 followers
+·
+16 following
+On a mission to reform the education system. https://bucket.foundation
+
+Edit profile
+Responses (37)
+
+Gianyrox
+Gianyrox
+﻿
+
+Cancel
+Respond
+Lars Oestreicher
+Lars Oestreicher
+
+Jan 16, 2023
+
+
+The problem with ChatGPT is that you still have to know something (quite a lot, actually) about the topics you use it for. The program snippets are sometimes really buggy, and in the best case you get compilation errors, so you notice them. The text…more
+57
+
+
+2 replies
+
+Reply
+
+Lannie Rose
+Lannie Rose
+
+Jan 19, 2023
+
+
+No mention of the fact that ChatGTP will gleefully provide plausible-sounding incorrect answers with as much confidence as correct ones? In fact, the article leaves the impression that ChatGTP is infallible, while it is quite the opposite. Because…more
+45
+
+
+3 replies
+
+Reply
+
+György Balázsi
+György Balázsi
+
+Jan 22, 2023
+
+
+A polymath is someone who is skilled in any subject which involves math.
+
+After having read this sentence in your post, I cannot take a word of yours seriously. Goggle or ask ChatGPT what “polymath” means.
+36
+
+
+1 reply
+
+Reply
+
+See all responses
+More from Gianyrox
+The Magical One-Shot App Builder’s Guide to Bringing Ideas to Life
+Gianyrox
+Gianyrox
+
+The Magical One-Shot App Builder’s Guide to Bringing Ideas to Life
+An AI-powered method to turn ideas into apps in minutes — fast, repeatable, and feels like magic.
+May 28, 2025
+
+
+Math, the Path to Polymath
+Gianyrox
+Gianyrox
+
+Math, the Path to Polymath
+Polymath: “a person of various learning who has learned and knows much”
+Oct 6, 2024
+1
+
+
+College student struggling to read a paper.
+Gianyrox
+Gianyrox
+
+Why the Research Industry Needs a Major Reform
+Nov 13, 2025
+
+
+New MCP Newsletter: The Daily Gauss
+Gianyrox
+Gianyrox
+
+New MCP Newsletter: The Daily Gauss
+Your 24 Hour Intellect powered by MCP.
+Nov 13, 2025
+
+
+See all from Gianyrox
+Recommended from Medium
+Stanford Just Killed Prompt Engineering With 8 Words (And I Can’t Believe It Worked)
+Generative AI
+In
+
+Generative AI
+
+by
+
+Adham Khaled
+
+Stanford Just Killed Prompt Engineering With 8 Words (And I Can’t Believe It Worked)
+ChatGPT keeps giving you the same boring response? This new technique unlocks 2× more creativity from ANY AI model — no training required…
+
+Oct 19, 2025
+23K
+606
+
+
+I Stopped Using ChatGPT for 30 Days. What Happened to My Brain Was Terrifying.
+Level Up Coding
+In
+
+Level Up Coding
+
+by
+
+Teja Kusireddy
+
+I Stopped Using ChatGPT for 30 Days. What Happened to My Brain Was Terrifying.
+91% of you will abandon 2026 resolutions by January 10th. Here’s how to be in the 9% who actually win.
+
+Dec 28, 2025
+3.8K
+161
+
+
+The AI Bubble Is About To Burst, But The Next Bubble Is Already Growing
+Will Lockett
+Will Lockett
+
+The AI Bubble Is About To Burst, But The Next Bubble Is Already Growing
+Techbros are preparing their latest bandwagon.
+
+Sep 14, 2025
+22K
+937
+
+
+6 brain images
+Write A Catalyst
+In
+
+Write A Catalyst
+
+by
+
+Dr. Patricia Schmidt
+
+As a Neuroscientist, I Quit These 5 Morning Habits That Destroy Your Brain
+Most people do #1 within 10 minutes of waking (and it sabotages your entire day)
+
+Jan 14
+26K
+459
+
+
+I Handed ChatGPT $100 to Trade Stocks — Here’s What Happened in 2 Months.
+Coding Nexus
+In
+
+Coding Nexus
+
+by
+
+Civil Learning
+
+I Handed ChatGPT $100 to Trade Stocks — Here’s What Happened in 2 Months.
+What happens when you let a chatbot play Wall Street? It’s up 29% while the S&P 500 lags at 4%.
+
+Sep 2, 2025
+9.2K
+271
+
+
+Forget ChatGPT & Gemini — Here Are New AI Tools That Will Blow Your Mind
+Nitin Sharma
+Nitin Sharma
+
+Forget ChatGPT & Gemini — Here Are New AI Tools That Will Blow Your Mind
+Here, I’m going to talk about the new AI tools that are actually worth your time.
+
+Nov 17, 2025
+4.6K
+155
+
+
+See more recommendations
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Rules
+
+Terms
+
+Text to speech
