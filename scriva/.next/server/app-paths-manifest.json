@@ -1,7 +1,0 @@
-{
-  "/api/github/tree/route": "app/api/github/tree/route.js",
-  "/shelf/page": "app/shelf/page.js",
-  "/api/github/files/route": "app/api/github/files/route.js",
-  "/book/page": "app/book/page.js",
-  "/book/[...path]/page": "app/book/[...path]/page.js"
-}
