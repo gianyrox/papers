@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# System files
+Thumbs.db
+
+# Cursor & VSCode
+.vscode/
+.cursor/
+
+# OS generated files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Build output
+dist/
+build/
+out/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Sensitive credentials/configs
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Misc
+*.sublime-workspace
+*.sublime-project
+.idea/
+*.swp
+# End of Selection
+```

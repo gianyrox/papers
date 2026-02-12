@@ -1,0 +1,205 @@
+# Your Money Is Broken Research Dossier  
+_US inflation, debanking, T‑bill symbiosis, and CBDCs — with book-ready numbers, dates, and principal quotes (as available in sources)._
+
+## Inflation is a rich-country problem, and the US has already lived it
+
+The cleanest “developed-world reader” framing is not “the US could become Argentina.” It’s: **the US has repeatedly shown that inflation can spike hard enough to force policy trauma**; even when CPI is “contained,” **asset prices can inflate faster than wages**; and the **2020–2024 episode re-taught Americans what it feels like when cash yields zero and necessities jump.** citeturn1view0turn37search0turn16search9turn0search8turn33search6
+
+**The Great Inflation (1965–1982) had a true “double hump” feel, ending only after extreme rates.** The BLS historical CPI analysis notes that the **largest 12‑month CPI increase** in the post‑WWII dataset occurred **March 1979 → March 1980: 14.8%** (this is the “14.8% in March 1980” peak most writers reference, and it is CPI‑based). citeturn1view0  
+At a causal level, Fed and Reserve Bank histories emphasize a bundle of forces that mapped cleanly onto the lived story Americans remember: energy shocks (1973 embargo; 1979 Iran), macro policy errors and stop‑go stabilization, wage/price dynamics, and fiscal strains. citeturn37search0turn37search7turn37search11
+
+**Volcker’s core narrative leverage (even if you don’t over-quote him) is credibility-by-pain.** A St. Louis Fed “maverick” inflation retrospective is useful because it explicitly frames the era as a policy lesson about inflation expectations and credibility. citeturn37search7  
+One practical structural tie-in for your stablecoin framing: the “Volcker moment” is what happens when your currency’s **store-of-value function is forced to be restored** by policy — and the restoration is expensive.
+
+**2008: deflationary shock, then balance-sheet-era policy — CPI stayed tame, but the financial system learned to levitate assets.** A Kansas City Fed retrospective quantifies the scaffolding: the Fed’s balance sheet expanded from roughly **$0.9T pre-crisis** to about **$4.5T** through QE programs. citeturn16search9  
+This is where your “K-shaped” social texture lands: CPI didn’t explode immediately, but the monetary regime shifted into one where asset prices and balance sheets mattered as much as wages.
+
+**2020–2024: the CPI spike Americans felt in the checkout line, plus the fastest modern hiking cycle.** The BLS CPI press release for June 2022 records that the **12‑month CPI increase hit 9.1%** (widely cited as the post‑COVID peak). citeturn0search8  
+On the rates side, the Fed tightened aggressively; a clean milestone to cite is the target range reaching **5.25%–5.50%** by mid‑2023 (FOMC statement). citeturn5search3  
+For “what it felt like,” the most defensible, data-forward proxy is: **real earnings pressure** (inflation beating nominal wage growth in key stretches) plus public salience. BLS “Real Earnings” releases document sustained periods where inflation outpaced wage gains for typical workers. citeturn4search0
+
+**International “this isn’t just Argentina” comparison (tight, verifiable anchors):**  
+The UK’s post‑COVID CPI inflation peak is commonly anchored at **11.1% (Oct 2022)** in official UK statistics. citeturn4search2  
+The euro area’s harmonized inflation peak is commonly anchored at **10.6% (Oct 2022)** in Eurostat’s HICP series. citeturn4search3  
+These are useful because they let you say: “Even the G7 ran hot enough to force households into real purchasing-power triage.”
+
+## Purchasing power loss and the “cash trap” problem stablecoins monetize
+
+### What $1 “became” after the post‑COVID price level shift  
+To keep this book-usable, pick a single, explicit index and apply it consistently. The standard public series is CPI‑U, not seasonally adjusted, available as **FRED CPIAUCNS** (BLS source). citeturn59view0turn37search6
+
+Using CPI‑U (NSA) mechanics, the core ratio is:
+
+- **Purchasing power = (CPI at start) / (CPI at end)** (so values <1 mean your dollar buys less). citeturn59view0turn37search6
+
+Book-ready approximations (CPI‑U NSA; “late 2024” as an endpoint):  
+- **$1 from early 2020 ≈ $0.83–$0.84 by late 2024** in purchasing power terms (roughly a **16–17%** loss of buying power). Method: CPI ratio from the CPI‑U NSA series. citeturn59view0turn37search6  
+- **$1 from 1970 ≈ $0.13 by late 2024** (roughly **~87%** of that 1970 dollar’s purchasing power is gone). Same CPI ratio method. citeturn59view0turn37search6  
+- **$1 from 2000 ≈ $0.55 by late 2024.** Same CPI ratio method. citeturn59view0turn37search6  
+
+These are the numbers that let you tell the developed-world reader: “You already live in a world where dollars melt — you just don’t feel it hour to hour.”
+
+### The savings account gap (what you can prove with FDIC national-rate data)
+Your strongest “slow money” critique is not “banks are villains.” It’s: **the US system structurally tolerates depositors receiving near-zero while inflation is nontrivial** — and that gap is a quiet transfer from savers to the system.
+
+The FDIC’s _National Rate: Savings_ series (monthly; weighted by domestic deposits under the revised rule) shows that for most of **2021 through early 2022**, the national savings rate was essentially **~0.06%**, only rising meaningfully later (e.g., **0.30% by Dec 2022**, **~0.46% by late 2023**, and still around **~0.42% by Dec 2024**). citeturn58view0  
+
+That one series supports a blunt, defensible sentence: **“Even after the Fed’s hiking cycle, the average savings account rate stayed well under 1%.”** citeturn58view0  
+
+### Real return example (book math you can show on one page)
+Assumptions (state them, because the honesty is part of your voice):  
+- Start: **$10,000**.  
+- Bank example: **0.01% APY** (a common “big-bank savings” headline rate proxy), compounded annually.  
+- Inflation adjustment: CPI‑U NSA ratio method (CPIAUCNS). citeturn59view0turn37search6  
+
+Illustrative outcomes (order-of-magnitude is the point; the narrative is “cash didn’t keep up”):
+
+| Scenario | Nominal end value | Inflation-adjusted (“real”) end value | What happened |
+|---|---:|---:|---|
+| Big-bank style cash at **0.01% APY** | ~$10,005 | **~$8,360** | You “kept your dollars” and still lost meaningful buying power. citeturn59view0turn37search6 |
+| Stablecoin yield **4%** (illustrative, not guaranteed) | ~$12,167 | **~$10,166** | You roughly preserved and slightly grew purchasing power. citeturn59view0turn37search6 |
+| Stablecoin yield **8%** (higher-risk / incentives / cyclic) | ~$14,693 | **~$12,277** | You clearly out-ran inflation — but spent risk budget to do it. citeturn59view0turn37search6 |
+
+If you want a live-market “this is not hypothetical” screenshot-worthy anchor for onchain yield, Aavescan’s market table shows multiple USD‑stable assets on Aave markets with **~4–5% total APR** when incentives are included (examples shown on the page include PayPal USD and other stable assets at roughly ~4%+ at the time of capture). citeturn46view0turn50search8  
+
+The honest footnote you can put in your book voice: “Onchain yields move. Sometimes they’re 0. Sometimes they’re 8. That variability is the product.”
+
+## Debanking: access to the payments system is conditional, not a right
+
+### Operation Choke Point as precedent: “pressure the bank, don’t ban the business”
+The Obama‑era Operation Choke Point story matters because it demonstrates a durable policy pattern: **if you can’t (or won’t) outlaw an industry, you can make banking it feel like touching a live wire**.
+
+Primary, quotable government framing exists even in DOJ’s congressional materials. For example, DOJ’s Office of Legislative Affairs hosts testimony materials related to Operation Choke Point (2014). citeturn51search0  
+On the adversarial side, the US House Oversight staff report is explicit about the alleged intent — that the initiative aimed to “choke out” disfavored but legal merchants by focusing on reputational risk and bank relationships. citeturn51search8  
+
+Even if you ultimately steelman the pro‑Choke‑Point argument (“fraud, money laundering risk, bad actors hiding in high‑risk categories”), your mechanism paragraph is the same: **banks respond to supervisory heat.** And that response can look indistinguishable from “deplatforming,” even without a statute.
+
+### “Choke Point 2.0” and the crypto reboot: coined language, then document dumps
+The phrase **“Operation Choke Point 2.0”** is widely credited as being coined by **Nic Carter**, and its modern usage centers on claims of coordinated pressure discouraging banks from serving crypto. citeturn52search0turn52search11turn52search8  
+
+What makes the post‑2022 episode unusually sourceable is that the discussion is not purely vibes anymore — it’s **FOIA productions** plus **agency statements**:
+
+- **Coinbase’s FOIA Reading Room** catalogues FDIC litigation productions and “pause letters” batches, with dated production sets and indices. citeturn53view0  
+- The **FDIC itself** later released a large batch of documents and — critically — described what those documents show. Acting Chairman **Travis Hill** stated that banks’ requests were “almost universally met with resistance,” including “directives from supervisors to pause, suspend, or refrain from expanding” crypto activity, sending the message it would be “extraordinarily difficult—if not impossible—to move forward.” citeturn53view1  
+
+That quoted language is book-gold because it is (a) an on-the-record principal statement, and (b) describes the mechanism in plain English: **supervisory friction becomes functional exclusion.** citeturn53view1  
+
+### The “debanking” viral moment: Andreessen as narrative character
+Axios summarizes the flashpoint: Marc Andreessen publicly alleged that dozens of tech executives were quietly “debanked,” reigniting the idea that access to banking can be revoked without public process in ways that feel political. citeturn52search1  
+
+For your purposes, you don’t need to prove the full Andreessen claim; you need to show the reader the unsettling structure: **your ability to hold money inside the system depends on institutional permission** — and the system rarely owes you an explanation.
+
+### ChexSystems and “blacklists” as the mundane version of debanking
+A critical “it can happen to normal people” bridge is the account-screening infrastructure: **ChexSystems/EWS records can make new account opening harder** after closures/overdraft charge-offs.
+
+The OCC’s HelpWithMyBank explains that negative information on ChexSystems/EWS reports generally remains **for five years** (and in some cases, under FCRA rules, certain negatives can be reported up to seven years). citeturn51search3  
+ChexSystems itself positions its reporting under the FCRA framework and emphasizes permissible-purpose access to consumer reports. citeturn51search7  
+
+### Scale: how many Americans are structurally outside banking?
+The FDIC’s latest household survey results (2023) provide your baseline: **4.2% of US households — about 5.6 million households — were unbanked** (no checking or savings account at a bank or credit union). citeturn51search2turn51search10  
+
+This lets you make a clean claim: stablecoins are not only a “frontier finance” tool. They’re also a **parallel access layer** for people the system doesn’t fully serve.
+
+## Stablecoins and T‑bills: the symbiosis is no longer theoretical
+
+Your thesis — stablecoins as the most important payments infrastructure innovation since SWIFT — becomes more than a payments story once you show the **Treasury‑market footprint**. Here the research is unusually strong because it is a mix of (a) stablecoin reserve reports, (b) BIS empirical work, and (c) mainstream policy commentary.
+
+### Reserve mechanics, step-by-step, in the least hand-wavy form
+At the mechanical level, your step-by-step can be written without speculating about internal desks:
+
+1) A user acquires a dollar stablecoin (e.g., USD₮) through an exchange/OTC/authorized channel.  
+2) The issuer takes in dollars and holds reserve assets.  
+3) To maintain a 1:1 peg at scale, reserves concentrate in **cash, Treasury bills, and Treasury-collateralized repo** (because they’re liquid, dollar-denominated, and price-stable at short duration).  
+4) The stablecoin supply therefore becomes a **conduit turning global dollar demand into short-term US government funding**, directly or indirectly.
+
+You can anchor that last sentence with BIS’s framing that USD stablecoins are backed “mostly” by “dollar-denominated short-term instruments such as US Treasury securities,” and that they have “blurred the lines” between crypto and traditional safe-asset markets. citeturn35view0turn36view0  
+
+### Tether Q4 2025 reserve composition: exact numbers you can quote
+Tether’s **Financial Figures & Reserves Report as of 31 December 2025** provides a detailed, categorized breakdown (and is the cleanest place to pull your “symbiosis” numbers because it itemizes Treasury bills and repo).
+
+Key balance-sheet totals (USD millions): **Total assets $192,878M; total liabilities $186,540M; equity $6,338M**. citeturn30view1  
+
+Reserve asset breakdown (USD, point-in-time at 31 Dec 2025):
+- **U.S. Treasury Bills:** **$122,325,714,946** citeturn30view4  
+- **Overnight reverse repurchase agreements (Treasury-collateralized):** **$19,279,408,559** citeturn30view4  
+- **Term reverse repurchase agreements (Treasury-collateralized):** **$5,548,439,332** citeturn30view4  
+- **Cash & bank deposits:** **$33,952,735** citeturn30view4  
+- **Precious metals:** **$17,450,435,088** citeturn30view4  
+- **Bitcoin:** **$8,430,374,292** citeturn30view4  
+- **Secured loans:** **$17,043,516,665** citeturn30view4  
+
+A book-usable roll-up: **Treasury bills + Treasury‑collateralized repo = ~$147.15B** (122.33B + 19.28B + 5.55B), i.e., the majority of reserves are effectively short-term US government exposure. citeturn30view4  
+
+On the “gold holder” angle, a separate market estimate (Jefferies, via CoinDesk reporting) pegged Tether’s physical gold holdings at **at least ~148 tonnes**, placing it among the **top ~30 global holders** of bullion (note: this is an external estimate, not an audit figure). citeturn31search2  
+
+### “Third-largest buyer” versus “holder”: nail the wording
+An Atlantic Council analysis claims that stablecoin companies became the **“third-largest purchasers of US Treasury bills in 2024”** (nearly **$40B**), behind JPMorgan and China. citeturn34view1  
+
+The distinction you flagged matters: “purchasers in 2024” is a **flow** claim (net buying over a period), not necessarily “third-largest holder” (a **stock** claim at a point in time). The BIS working paper gives you a cleaner “stock” anchor: by **December 2025**, USD stablecoins’ combined AUM exceeded **$270B** and reserve positions in T‑bills were **$153B**. citeturn36view0  
+
+### The hard empirical result: stablecoin flows move T‑bill yields
+This is the most important “symbiosis” proof point because it converts your argument into basis points.
+
+The BIS working paper **Stablecoins and safe asset prices** (May 2025, revised Feb 2026) estimates that **5‑day stablecoin inflows of $3.5B (2 standard deviations)** lower **3‑month T‑bill yields** by about **2–2.5 bps within 10 days** in their stringent specification, and reports a baseline effect in the **~2.5–3.5 bps** range. citeturn36view0  
+It also finds strong **state-dependence**: during “bill scarcity,” the same magnitude of flows compresses yields by **~5–8 bps**. citeturn36view0  
+
+This is the clearest “feedback loop” language you can responsibly write: **stablecoin supply growth is already a measurable marginal buyer of the front end of the Treasury curve.** citeturn36view0  
+
+### Flip side: the fire-sale problem is symmetric  
+The BIS result is also your best “run risk” bridge. If inflows can compress yields by several bps, then **large outflows/redemptions** logically reverse the sign: forced selling pressure can widen yields — especially in scarcity regimes — and the effect is likely largest in the shortest maturities where issuers cluster. (This inference follows directly from BIS’s state-dependent supply/demand channel framing.) citeturn36view0  
+
+## CBDCs versus stablecoins: the market is choosing “bottom-up money,” and the data shows why
+
+Your thesis (“governments tried to build what stablecoins already do”) is strongest when you refuse to caricature CBDCs. Give them their best shot — then show adoption friction and revealed preference.
+
+### China’s e‑CNY: huge state capacity, modest consumer pull
+As of **July 2024**, reporting tied to PBoC officials put the e‑CNY pilot at roughly **180 million personal wallets** and **RMB 7.3 trillion** (about **$1.0T**) in cumulative transaction value in pilot areas. citeturn55news46turn55search13  
+
+But the “accounts opened” metric can be misleading. One European reportage summary notes that authorities previously claimed **~260 million accounts** had been “opened,” while not providing ongoing figures demonstrating daily-life usage; the report characterizes the digital yuan as still “almost absent from daily life” compared with WeChat Pay/Alipay ubiquity. citeturn54news49  
+
+**Privacy model (book-ready phrasing):** A BIS paper authored from the e‑CNY perspective states the guiding approach explicitly as **“anonymity for small-value and traceability for high-value transactions.”** citeturn55search3  
+
+**Bull case (strongest version):** e‑CNY offers a state-guaranteed public money instrument for the digital era; it can extend offline resilience and reduce dependence on private payment duopolies.  
+**Bear case (what the data implies):** when private payments already work “perfectly,” consumer adoption often requires either incentives, mandates, or a differentiated privacy/value proposition — and “traceability for high-value” is not a retail growth hack.
+
+### Nigeria’s eNaira: the cautionary tale with an IMF post-mortem
+The IMF working paper **Nigeria’s eNaira, One Year After** (May 2023) is unusually blunt: despite “laudable undisrupted operation” in year one, the project had **not moved beyond an initial wave of limited adoption**, and “network effects suggest the initial low adoption spell will require a coordinated policy drive to break it.” citeturn56search1turn56search0  
+
+Now put that next to the stablecoin reality: Chainalysis reports that Nigeria received approximately **$59B in cryptocurrency value** between **July 2023 and June 2024**, and frames Nigeria as “ground zero” for crypto activity in Sub‑Saharan Africa, driven by real-world use cases. citeturn56search3  
+
+That contrast supports your revealed-preference claim: **when people need a dollar proxy and fast rails, they route around domestic CBDC experiments.**
+
+### Bahamas Sand Dollar and small-island CBDCs: credible “in-circulation” anchors
+For the Sand Dollar, the Central Bank of The Bahamas published a “public update” press release (Feb 1, 2024) that you can use as a primary-source marker for ongoing outreach and adoption efforts. citeturn54search3  
+For a simple “how big is it” anchor, industry reporting in early 2024 cited about **$2.1M in circulation** after several years, underscoring how long the adoption curve can be even in small economies. citeturn54search7  
+
+### Europe and the UK: CBDCs as sovereignty projects, not market products
+For the **digital euro**, the ECB describes the project as moving forward after a preparation phase (Nov 2023–Oct 2025) and explicitly frames a motivation in terms of monetary sovereignty and reducing dependence on non‑European private payment platforms. citeturn57search0turn57search4  
+
+For the **digital pound**, the Bank of England publishes consultation response materials, showing continued evaluation rather than a finished, widely adopted retail product. citeturn57search1turn57search9  
+
+This is where your “CBDCs don’t create Treasury demand” line fits cleanly: stablecoins recycle global demand for dollars into Treasury bills; CBDCs are **domestic monetary liabilities** whose main policy narrative is **control, resilience, and sovereignty**, not “fund the world’s safe asset.”
+
+### The surveillance/authorship problem: “absolute control” is not a conspiracy — it’s a design feature
+A quote that captures the philosophical wedge: In an IMF-hosted context (Oct 19, 2020), BIS GM **Agustín Carstens** is widely quoted contrasting cash anonymity with CBDCs:  
+> “A key difference with the CBDC is that a central bank will have absolute control on the rules and regulations…” citeturn57search6turn57search2  
+
+You can then steelman: CBDC proponents consider this “control” a feature for AML/CFT compliance and payment-system integrity. Your counterpoint is crisp: **stablecoins split the function “hold dollars” from “institution grants permission,”** which is precisely what debanking fears make salient.
+
+### “Synthetic CBDC” as a bridge concept (and a way to be fair)
+The IMF has explicitly discussed the idea of a **“synthetic” CBDC** — effectively, a regulated private issuer providing digital money functionality while public authorities backstop/shape safety. citeturn57search11  
+This is a way to frame your book’s core claim without sounding absolutist: **some stablecoin regimes are plausibly converging toward “CBDC-like” public-money assurances — but via market rails, not state apps.**
+
+## Connecting the four threads into one chapter spine
+
+**Inflation → stablecoin demand:** The US CPI peak (June 2022) and the UK/eurozone peaks (Oct 2022) give you permission to say: “Purchasing power erosion hit the developed world.” citeturn0search8turn4search2turn4search3  
+The FDIC savings-rate series gives you permission to say: “Cash yields stayed tiny for years even as inflation surged.” citeturn58view0  
+
+**Debanking → self-custody resonance:** Operation Choke Point established the precedent of exclusion via bank pressure; modern crypto “pause letters” and the FDIC’s own description of supervisory “directives” show the same mechanism can reappear. citeturn51search8turn53view1turn53view0  
+
+**Stablecoins ↔ Treasuries → US state incentive:** BIS quantifies that stablecoin flows compress front-end yields by measurable basis points (state-dependent), while reserve reports show stablecoin issuers holding Treasury bills and Treasury-collateralized repo at nation-state scale. citeturn36view0turn30view4turn34view1  
+
+**CBDCs as the counterfactual:** CBDCs promise sovereignty and compliance; stablecoins deliver portability and global liquidity now. The IMF’s eNaira assessment plus Nigeria’s stablecoin-heavy crypto flows are the cleanest “revealed preference” contrast you can cite today. citeturn56search1turn56search3  
+
+**The key line that ties it all together (and stays honest):**  
+Stablecoins are not a magic wand — they inherit credit, liquidity, and governance risks from both crypto infrastructure and the underlying dollar system — but they are already (a) a rational response to cash’s real-yield problem, (b) a practical hedge against exclusion from banking rails, and (c) a measurable marginal buyer of short-term US government debt. citeturn58view0turn53view1turn36view0turn30view4

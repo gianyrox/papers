@@ -1,45 +1,57 @@
-## The Missing Safety Net
+## What Gets Better
 
-If stablecoins replace bank accounts for hundreds of millions of people, what replaces the protections those accounts came with?
+Every failure in this chapter left the ecosystem structurally stronger than before. That's worth examining — because the pattern of improvement is itself the strongest argument for stablecoins' long-term viability.
 
-Bank deposits in the US are insured up to $250,000 by FDIC. In the EU, 100,000 euros by national deposit guarantee schemes. In the UK, 85,000 pounds by FSCS.
+### The Track Record
 
-Self-custodied stablecoins have zero insurance. If your wallet is hacked, if the issuer fails, if a smart contract is exploited — you lose everything. No bailout. No guarantee. No recourse.
+Terra vaporized $40 billion. Within 18 months, the stablecoin market cap had recovered and surpassed its pre-crash level — but the composition shifted permanently toward fully-backed designs. Algorithmic stablecoins went from 10%+ of the market to near zero.[^1]
 
-### What's Being Built
+FTX collapsed with $8 billion in customer funds missing. Tether honored over $7 billion in redemptions without breaking the peg. The industry responded with proof-of-reserves requirements and pushed exchanges toward transparency.[^2]
 
-The protections aren't there yet. But they're forming.
+USDC depegged to $0.87 when Silicon Valley Bank failed. It recovered in 72 hours when the FDIC backstopped deposits. Circle responded by diversifying banking relationships and launching CCTP for cross-chain interoperability.[^3]
 
-**Nexus Mutual:** A decentralized insurance protocol covering smart contract failures and depeg events. Roughly $200 million in coverage written. Paid claims after the Euler hack.
+Each crisis killed the weakest design and left the survivors stronger. The pattern: catastrophic failure → industry consolidation → improved standards → regulatory response → higher baseline. Every cycle, the floor rises.
 
-**GENIUS Act provisions:** Mandates that stablecoin issuers maintain bankruptcy-remote reserve structures — reserves are legally separated from the issuer's other assets and protected from bankruptcy claims. Not the same as FDIC insurance, but structurally meaningful.
+### Insurance and Safety Nets
 
-**Proof of Reserve:** Chainlink's on-chain verification that reserves actually exist. Not insurance, but a transparency mechanism that reduces the need for insurance by making lies detectable.
+The infrastructure to protect against failures is being built — unevenly, but measurably.
 
-**FDIC pass-through:** Some stablecoin-focused neobanks are exploring FDIC pass-through insurance — if stablecoins are held at an FDIC-insured bank partner, the insurance may extend to the stablecoin deposits. This is legally untested at scale.
+InsurAce and Bridge Mutual offer decentralized insurance covering smart contract failures and depeg events.[^4] Nexus Mutual paid out $14 million in claims after the Terra collapse. Coinbase provides FDIC insurance on fiat balances (though not on crypto holdings).[^5]
 
-### The Honest Reality
+S&P has explored rating stablecoins on the quality of their reserves.[^6] Depeg insurance exists as a product category. The building blocks of a trust infrastructure are being assembled — not by governments, but by the market responding to demonstrated need.
 
-As of 2026, there is no FDIC equivalent for stablecoins. The industry is building toward it — insurance protocols, regulatory mandates, proof of reserves — but it's not there yet.
+The GENIUS Act mandates bankruptcy-remote reserve structures — meaning stablecoin reserves are legally separated from the issuer's other assets.[^7] If a stablecoin issuer goes bankrupt, the reserves are protected from creditor claims. This is a meaningful structural improvement over the pre-regulation environment, where Tether's reserves had no such legal protection.
 
-This is one of the strongest arguments for using stablecoins through regulated custodians rather than pure self-custody, especially for non-technical users. Your bank account is insured. Your stablecoin wallet is not — yet.
+### What Doesn't Exist Yet
 
-The protection is being built. But today, you are your own safety net.
+Full deposit insurance equivalent to FDIC coverage. A lender of last resort for stablecoin runs. A global regulatory framework rather than the patchwork of national regulations currently emerging. A decentralized stablecoin that is simultaneously stable, scalable, and resistant to censorship.[^8]
 
-### The Recovery Pattern
+These gaps are real. The ecosystem is building in the open, and the incomplete parts are visible to everyone. For a Venezuelan family, a Nigerian trader, a Zimbabwean savings club — the alternative isn't a perfect system. The alternative is guaranteed loss through inflation, exclusion through identity requirements, and extraction through 6-7% remittance fees.
 
-The ecosystem has a track record of surviving its failures. Not without pain — real people lost real money in every crash. But structurally, the system gets harder to kill each time.
+### The Trajectory
 
-Terra vaporized $40 billion. Within 18 months, the stablecoin market cap recovered and surpassed pre-crash levels. But the composition shifted — less algorithmic, more reserve-backed.
+The bet this book makes is directional, not absolute.
 
-FTX collapsed with over $8 billion in customer funds missing. Tether honored $7 billion in redemptions without breaking. The market interpreted this as a stress test passed.
+Stablecoin infrastructure will improve. Regulation will tighten. Reserve transparency will increase. Bad actors will be weeded out. The technology will become more user-friendly, more private, and more interoperable.
 
-USDC depegged to $0.87 when SVB collapsed. It recovered in 72 hours. Circle diversified reserves to BNY Mellon and Federal Reserve overnight repo facilities.
+Will it happen fast enough? Will regulation arrive before the next crisis? Will the most vulnerable users be protected? These aren't questions with predetermined answers. They're questions whose answers depend on the decisions made in the next three to five years by regulators, issuers, developers, and users.
 
-Each crisis killed the weakest design and left the survivors stronger.
+The trajectory is clear. The arrival is not guaranteed. And for the people already living in the future — the ones who appear in the next and final chapter — the trajectory was enough.
 
-The question for the reader is not "are stablecoins safe?" No financial instrument is unconditionally safe. The question is: are they safe ENOUGH, and are they getting safer fast enough, for the people who need them most?
+---
 
-The answer is honest: not yet. But the trajectory is clear. And for a Venezuelan family, a Nigerian trader, a Zimbabwean savings club — the alternative isn't safety. The alternative is guaranteed loss through inflation, exclusion, and broken systems.
+[^1]: CoinGecko, stablecoin market capitalization by type, 2022-2024. Algorithmic stablecoins fell from over 10% of total stablecoin market cap to under 1% after Terra's collapse.
 
-That's the tension this book holds. Not resolved. Held.
+[^2]: Tether, post-FTX redemption data, November 2022.
+
+[^3]: Circle, SVB disclosure and response timeline, March 2023.
+
+[^4]: InsurAce and Bridge Mutual are decentralized insurance protocols that allow users to purchase coverage against smart contract failures, stablecoin depegs, and exchange hacks.
+
+[^5]: Coinbase, user agreement and FDIC insurance disclosures. FDIC insurance applies only to fiat currency balances held in Coinbase's partner banks, not to cryptocurrency holdings.
+
+[^6]: S&P Global Ratings, "Stablecoin Stability Assessment," preliminary framework, 2023-2024.
+
+[^7]: GENIUS Act, Section 4(b), bankruptcy-remote reserve requirements.
+
+[^8]: This is sometimes called the "stablecoin trilemma" — analogous to the blockchain trilemma of decentralization, security, and scalability.

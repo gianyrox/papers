@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/gian/Projects/Papers/scriva/app/layout\":[\"static/media/e4af272ccee01ff0-s.p.woff2\",\"static/media/bb3ef058b751a6ad-s.p.woff2\",\"static/media/365e9b8c7921be01-s.p.woff2\",\"static/media/45d262064560f5fa-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
