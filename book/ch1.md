@@ -80,11 +80,7 @@ They are already living in the future.
 
 ---
 
-> **Meet the Characters**
-> ****Pablo Toro** | Bogota, Colombia | Delivery driver Sends $200/week to his mother in Caracas, Venezuela. Switched from Western Union (7% fee, 5-day wait) to USDT on Tron (under $2, 3 seconds). His test: his mother's medicine arrives before she needs it.
-> ****Mercy Musodzi** | Harare, Zimbabwe | Savings club leader Leads an 11-woman savings club. Switched from pooling Zimbabwean dollars (56% lost to inflation) to cUSD on Celo. Her test: the last woman in the cycle gets the same purchasing power as the first.
-> ****Femi Adeyemi** | Lagos, Nigeria | Electronics importer Imports $100K/month in phone accessories from Shenzhen, China. Bank gave him $10K in forex. Found stablecoins on Binance. His test: pay a supplier in China in 45 minutes instead of 4 weeks.
-> ****Mika Reyes** | United States | Designer & founder Freelancer paid in USDC via Solana. Built Parallax, a stablecoin payroll platform, after watching her family track Philippines remittances in a paper notebook. Her test: money arrives like a text message.
+> **Meet the Characters**\*\***Pablo Toro** | Bogota, Colombia | Delivery driver Sends $200/week to his mother in Caracas, Venezuela. Switched from Western Union (7% fee, 5-day wait) to USDT on Tron (under $2, 3 seconds). His test: his mother's medicine arrives before she needs it. \*\***Mercy Musodzi** | Harare, Zimbabwe | Savings club leader Leads an 11-woman savings club. Switched from pooling Zimbabwean dollars (56% lost to inflation) to cUSD on Celo. Her test: the last woman in the cycle gets the same purchasing power as the first. \*\***Femi Adeyemi** | Lagos, Nigeria | Electronics importer Imports $100K/month in phone accessories from Shenzhen, China. Bank gave him $10K in forex. Found stablecoins on Binance. His test: pay a supplier in China in 45 minutes instead of 4 weeks. \*\***Mika Reyes** | United States | Designer & founder Freelancer paid in USDC via Solana. Built Parallax, a stablecoin payroll platform, after watching her family track Philippines remittances in a paper notebook. Her test: money arrives like a text message.
 
 ---
 
