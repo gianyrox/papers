@@ -42,7 +42,7 @@ This is how trust is built in a world where the old institutions broke their pro
 
 ---
 
-In Lagos, Nigeria, the man who calls himself Femi — not his real name, but the one he gave the researchers from Cambridge\[^7\] — is sitting in the back of a parked car, laptop balanced on his knees, generator humming somewhere behind the building. He's about to send $100,000 to a supplier in Shenzhen, China.
+In Lagos, Nigeria, the man who calls himself Femi \[^7\]  is sitting in the back of a parked car, laptop balanced on his knees, generator humming somewhere behind the building. He's about to send $100,000 to a supplier in Shenzhen, China.
 
 A month ago, he tried to do this through his bank. They gave him $10,000 of the $100,000 he'd requested in foreign exchange. "Source the rest on the black market," they told him. He'd done it before — the desperate dance of parallel rates, bureau de change runners, and physical cash. Painful. Dangerous. Slow.
 
