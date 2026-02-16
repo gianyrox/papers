@@ -14,13 +14,13 @@ Stablecoin DeFi lending rates during the same period: 4-8% APY on dollar-denomin
 
 The risk profile is different — DeFi carries smart contract risk and lacks FDIC insurance. But the 0.01% your bank pays you isn't a law of nature. It's a choice they make because they can.
 
-Now consider what $10,000 looks like over four years of this environment:
+Now consider what $10,000 looks like over four years in this environment:
 
-| Strategy                 | Real Purchasing Power (2024) |
-| ------------------------ | ---------------------------- |
-| Bank savings at 0.01%    | \~$8,360                     |
-| Stablecoin lending at 4% | \~$10,166                    |
-| Stablecoin DeFi at 8%    | \~$12,277                    |
+\| Strategy | Real Purchasing Power (2024) |
+\|---------|-----------------------------|
+\| Bank savings at 0.01% | \~$8,360 |
+\| Stablecoin lending at 4% | \~$10,166 |
+\| Stablecoin DeFi at 8% | \~$12,277 |
 
 The bank saver lost $1,640. The stablecoin saver preserved or grew real value. The same dollars, the same time period, different infrastructure.
 
