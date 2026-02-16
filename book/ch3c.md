@@ -6,6 +6,8 @@ This section is about why it's not distant. The same architectural flaws that ma
 
 ### Your Money in Someone Else's Hands
 
+​
+
 Your bank doesn't hold your money in a vault with your name on it. When you deposit $10,000, that money becomes the bank's asset and your deposit becomes a claim — an IOU. The bank lends it out, invests it, and pays you a fraction of what it earns.
 
 During the post-2020 inflation spike, US banks paid an average of 0.06% on savings while the CPI hit 9.1%. Your $10,000 was losing over $900 a year in purchasing power. The bank was earning 5%+ by lending those same dollars out. The spread between what they earn and what they pay — that gap is the bank's profit, extracted from your patience.
@@ -14,15 +16,15 @@ Stablecoin DeFi lending rates during the same period: 4-8% APY on dollar-denomin
 
 The risk profile is different — DeFi carries smart contract risk and lacks FDIC insurance. But the 0.01% your bank pays you isn't a law of nature. It's a choice they make because they can.
 
-Now consider what $10,000 looks like over four years of this environment:
+Now consider what $10,000 looks like over four years in this environment:
 
-| Strategy                 | Real Purchasing Power (2024) |
-| ------------------------ | ---------------------------- |
-| Bank savings at 0.01%    | \~$8,360                     |
-| Stablecoin lending at 4% | \~$10,166                    |
-| Stablecoin DeFi at 8%    | \~$12,277                    |
+| Strategy                 | Year 1 | Year 2  | Year 3  | Year 4  | Real Purchasing Power (2024) |
+| ------------------------ | ------ | ------- | ------- | ------- | ---------------------------- |
+| Bank savings at 0.01%    | $9,090 | $8,264  | $7,513  | $6,830  | \~$6,830                     |
+| Stablecoin lending at 4% | $9,454 | $9,192  | $9,192  | $9,454  | \~$10,166                    |
+| Stablecoin DeFi at 8%    | $9,818 | $10,604 | $11,452 | $12,368 | \~$12,368                    |
 
-The bank saver lost $1,640. The stablecoin saver preserved or grew real value. The same dollars, the same time period, different infrastructure.
+The bank saver lost $3,170. The stablecoin saver preserved or grew real value. The same dollars, the same time period, different infrastructure.
 
 ### Three Days to Move Your Own Money
 
