@@ -142,7 +142,7 @@ During the post-2020 inflation spike, the average FDIC-insured savings account p
 
 Here's what that looks like in dollars. Take $10,000 in savings:\[^47]
 
-Strategy4-Year Value (Real)Bank savings at 0.01% APY~$8,360Stablecoin lending at 4% APY~$10,166Stablecoin DeFi at 8% APY~$12,277
+Strategy4-Year Value (Real)Bank savings at 0.01% APY\~$8,360Stablecoin lending at 4% APY\~$10,166Stablecoin DeFi at 8% APY\~$12,277
 
 The bank saver lost $1,640 in real purchasing power. The stablecoin saver — earning yields available on platforms like Aave and Compound — preserved or grew real value.
 
