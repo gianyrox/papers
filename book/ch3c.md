@@ -60,7 +60,7 @@ Americans assume access to banking the way they assume access to roads. There is
 
 Operation Choke Point — an Obama-era DOJ initiative — pressured banks to cut off legal but politically disfavored industries through examination and investigation, without any formal legal process. Gun shops, payday lenders, and tobacco sellers found their bank accounts closed without explanation.
 
-In the crypto era, the pattern repeated. Nic Carter coined the term "Choke Point 2.0" to describe what FOIA productions revealed: FDIC "pause letters" directing banks to "pause, suspend, or refrain" from crypto-related banking activities.
+# In the crypto era, the pattern repeated. Nic Carter coined the term "Choke Point 2.0" to describe what FOIA productions revealed: FDIC "pause letters" directing banks to "pause, suspend, or refrain" from crypto-related banking activities.
 
 Travis Hill, the FDIC Acting Chair who disclosed these letters, said the resistance was "almost universal." Banks that wanted to serve crypto clients found it "extraordinarily difficult — if not impossible — to move forward."
 
