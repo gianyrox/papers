@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "writingType": "nonfiction",
+  "features": {
+    "characters": true,
+    "worldBuilding": true,
+    "plotThreads": true,
+    "narrativeState": true,
+    "citations": true,
+    "voiceProfile": true,
+    "chapterSummaries": true,
+    "sceneSummaries": true,
+    "revisionTracking": true,
+    "tensionTracking": true,
+    "rag": true
+  },
+  "ai": {
+    "defaultModel": "sonnet",
+    "memoryModel": "haiku",
+    "embeddingModel": "voyage-3-lite",
+    "contextBudget": 4000,
+    "ragTopK": 5,
+    "autoReindex": true,
+    "autoReindexDebounceMs": 15000
+  }
+}
